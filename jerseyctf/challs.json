@@ -1,0 +1,838 @@
+{
+    "data": {
+        "Required": [
+            {
+                "category": "Required",
+                "description": "# **JerseyCTF IV Rules**\r\n\r\nPlease open the attached pdf, and read the rules and terms & conditions to gain access to all the challenges for JerseyCTF IV (the flag is in the pdf)\r\n\r\n\r\n**Notes for the JerseyCTF IV**\r\n\r\n*Please note that all flags are case sensitive, and* **unless otherwise specified in the challenge description**, *follow the format shown below:*\r\n\r\nFlag format for JerseyCTF IV :  `jctf{answer_flags_like_this}`",
+                "files": [
+                    "/files/a128e9211d208f9323eca39a2551b92b/JCTF_Rules_and_TC.pdf?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMzZ9.Zf-Xog.gqf1Vr1y5ikyy-5ObEHRkUVyfLM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 100,
+                "name": "Rules for JerseyCTF IV",
+                "points": 0,
+                "solves": 501
+            }
+        ],
+        "binrev": [
+            {
+                "category": "binrev",
+                "description": "You get the overflow but by so few bytes. If only there was a way to read more input.\r\n\r\n`nc 3.91.151.73:9001`\r\n\r\nDeveloped by:\t [Robert Blacha](https://github.com/robertblacha)",
+                "files": [
+                    "/files/dc9bac1cf354b8777d8833bf044aeee4/StageLeft?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNjV9.Zf-Xow.zIdDr7f073z4MKOp8WwlQfdRytg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 137,
+                "name": "StageLeft",
+                "points": 998,
+                "solves": 14
+            },
+            {
+                "category": "binrev",
+                "description": "No hard reverse engineering, no massive file to debug, just a vuln function, a gift and a dream. \r\n\r\n`nc 18.212.207.74 9001`\r\n\r\nDeveloped by:\t [Robert Blacha](https://github.com/robertblacha)",
+                "files": [
+                    "/files/0b1379d5173f55c31b30ecb717186375/RunningOnPrayers?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNjJ9.Zf-Xow.DCiqi4o6hVjwYuoygeR1uq0ohFs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 134,
+                "name": "RunningOnPrayers",
+                "points": 991,
+                "solves": 27
+            },
+            {
+                "category": "binrev",
+                "description": "* We got access to a terminal that the netrunners recently abandoned, it might have some useful information.\r\n * Can you find a way to navigate the file system and see if there is anything of interest?\r\n * `nc 18.213.3.107 1337`\r\n\r\nDeveloped by:\t [TomB](https://github.com/tomaszbrauntsch)",
+                "files": [
+                    "/files/d5ade620a98d1682ca48c57192147218/main.c?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNzV9.Zf-Xow.5PpJ8VgJl9JVmf2AoNFu_e_9EOI"
+                ],
+                "hints": [
+                    "This terminal gives me l33t hacker VIbes. "
+                ],
+                "id": 151,
+                "name": "searching-through-vines",
+                "points": 372,
+                "solves": 81
+            },
+            {
+                "category": "binrev",
+                "description": "* I'm impressed you found our crypto address, we need a good netrunner for the next job. We are going to hit the biggest bank in the city, and we need someone competent to bypass security. The back door is the entry point into the bank, but it is locked by a pin code. We need that pin! \r\n* You gain access to the bank's system and download the control module for the pin lock.\r\n\r\n\r\nEncase the found pin as follows: `jctf{FOUND_PIN}`\r\n\r\nDeveloped by:\t[Native Function](https://github.com/NativeFunction)",
+                "files": [
+                    "/files/c681f506ca5e2c6ea8ccf3561fe29f0f/door_control.exe?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNjN9.Zf-Xow.oWPUTCziNdbif3bHsQGsdfoCLFY"
+                ],
+                "hints": [
+                    "Did you forget your flip-flops?"
+                ],
+                "id": 135,
+                "name": "the-heist-1",
+                "points": 733,
+                "solves": 33
+            },
+            {
+                "category": "binrev",
+                "description": "Now we can get into the building but there is still the vault. It is not like those old fashioned ones you might have seen in the movies. It is fully electronic and requires a login.\r\n\r\nDeveloped by:\t[Native Function](https://github.com/NativeFunction)",
+                "files": [
+                    "/files/8605ce3a1ab2107a941b2af4dc65828c/vault_control.exe?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNjR9.Zf-Xow.b-2mz8QEcFxs-rq8PPcxl2GFzHE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 136,
+                "name": "the-heist-2",
+                "points": 1000,
+                "solves": 5
+            },
+            {
+                "category": "binrev",
+                "description": "* In a city completely integrated with technology and living expenses through the roof, one way to get ahead is to become a netrunner.\r\n* One day while browsing at a convenient store you notice that someone installed a crypto skimmer at the checkout counter.\r\n* This normally would charge the person an unnoticeable amount more but luckily you have a blocker on your wallet.\r\n* Through a slight of hand, you snatch the device.\r\n* You wonder: <b>Can I gain access to the crypto wallet on the device?</b>\r\n* Encase the found crypto address as follows `jctf{ADDRESS}`\r\n\r\n\r\nDeveloped by:\t[Native Function](https://github.com/NativeFunction)",
+                "files": [
+                    "/files/9026c049130230281d0b570348bb4da8/skimmer.exe?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMjR9.Zf-Xow.yW1Lh8WOyFg-nXMgtIRFZurxI2s"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 98,
+                "name": "humble-beginnings",
+                "points": 152,
+                "solves": 133
+            },
+            {
+                "category": "binrev",
+                "description": "Due to the onerous password requirements at NICC (four characters), Mary Morse decided to write a password manager for herself.\r\nUnfortunately, all it does it tell you if you guessed the password correctly.\r\nCan you crack it?\r\n\r\nDeveloped by:\t [Ryan Tolboom](https://github.com/rxt1077)",
+                "files": [
+                    "/files/2ae7379e2e4a38285a1d08351f040f9f/pw?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNjB9.Zf-Xow.3KtVSlDlR7jGejRO3RZ51r2CCLk"
+                ],
+                "hints": [
+                    "It's a great day to learn gdb!"
+                ],
+                "id": 132,
+                "name": "PasswordManager",
+                "points": 300,
+                "solves": 101
+            },
+            {
+                "category": "binrev",
+                "description": "Solve three multiplication questions and get a flag.\r\n\r\nnc 18.207.140.246 9001\r\n\r\nDeveloped by:\t [Robert Blacha](https://github.com/robertblacha)",
+                "files": [
+                    "/files/f63995df552af0caf295ad75c416eeb2/mathtest.c?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNjF9.Zf-Xpg.2s-_lp-Pjck9ZGbdj4iq-dPSkJI"
+                ],
+                "hints": [
+                    "If the questions seem impossible at first, try researching how numbers are actually stored in memory\n\nTo get the flag, you're gonna need to put in a pretty weird name"
+                ],
+                "id": 133,
+                "name": "MathTest",
+                "points": 452,
+                "solves": 50
+            }
+        ],
+        "crypto": [
+            {
+                "category": "crypto",
+                "description": "The penetration testing team faces a challenging task: decrypting a file protected by a password known only to its meticulous owner. Historical password patterns have been uncovered, revealing a sequence of attempts: adminbackup, adminbackup1, !adminbackup1. Despite these insights, none have successfully unlocked the file. The task at hand requires a strategic approach, crafting a custom rule that mutates the foundational password, adminbackup, into a variant that has yet to be tried. \r\n\r\nDeveloped by: Trent",
+                "files": [
+                    "/files/13fa635c0b79c6cc9361fe101941b143/encrypted_backup.zip?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMzl9.Zf-Xow.Svv6iIR4VPwN9R3dYb0XDIFORcc"
+                ],
+                "hints": [
+                    "OneRuleToRuleThemAll"
+                ],
+                "id": 109,
+                "name": "HashCraft",
+                "points": 747,
+                "solves": 16
+            },
+            {
+                "category": "crypto",
+                "description": "You are an intern for the pentesting company \"John Doe\". They are currently performing an penetration test for Amazon. The OSINT team was able to obtain a conversation between a high value target and another employee. A file was also discovered which is believed to to belong to the high value target. Unforutnately, this is protected with a password. They tasked the password retrieval process with you. Obtain the password to further the engagement, no pressure :)\r\n\r\nDeveloped by: Trent",
+                "files": [
+                    "/files/36cca70d6c16bddb5c424e8e5341a784/flag.pdf?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMjZ9.Zf-Xow.Dns-Vgh6Rdizd4hlJzim4XrMqBI",
+                    "/files/bd51072e7059678133410ad8e6c60ec6/challenge-image.png?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMjd9.Zf-Xow.lhVtyDtQ_joDWlH1aP6Tc2T29jQ"
+                ],
+                "hints": [
+                    "Make it personal"
+                ],
+                "id": 86,
+                "name": "Crack-a-Mateo",
+                "points": 500,
+                "solves": 8
+            },
+            {
+                "category": "crypto",
+                "description": "We heard a distress call and received a transmission. Only this text came through. You better take a look at this at once! It's definitely not Greek, I'll tell you that right now.\r\n\r\nDeveloped by: [rickyhernandez1000](https://github.com/rickyhernandez1000)",
+                "files": [
+                    "/files/cbce85165afb941feaa79b6638d1720f/ATTN.txt?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMTZ9.Zf-Xow.5jGKejqRC4cKYerwMqnpnbnhiIs"
+                ],
+                "hints": [
+                    "Crossing the digital rubicon like this would have called for war."
+                ],
+                "id": 87,
+                "name": "Attn-Agents",
+                "points": 50,
+                "solves": 262
+            },
+            {
+                "category": "crypto",
+                "description": "A local museum was recently hacked by an unknown threat actor. Upon investigation, we found that an administrator's password was sucessfully entered and a former employee sent a suspicious email the day prior to the incident. However, the only information found in the email was this image file. Is there any way the admin password could have been transferred in secret?\r\n\r\nDeveloped by [John Guth](https://github.com/John-Guth)",
+                "files": [
+                    "/files/c97d3ee994f5d7bc1d327ce6bbea965a/JustSomeNormalPyramids.bmp?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMzR9.Zf-Xow.YEoefjSPwcn8CMiQsm5nJpbp_T4"
+                ],
+                "hints": [
+                    "The secrets in this image aren't surface-level. You'll need to find a tool to discover the hidden message."
+                ],
+                "id": 104,
+                "name": "its-not-greek-to-me",
+                "points": 500,
+                "solves": 6
+            },
+            {
+                "category": "crypto",
+                "description": "To prevent the RB from impersonating any communications coming from you to our team, we need to employ an extremely secure digital signature algorithm. One of the most secure signature algorithms out there is the one used for bitcoin and ehtereum. Using the same Elliptic Curve used for those cryptocurrency calculations, hash and send me the message \"Establishing a Secure Connection... :)\". You also needed to provide me with the signature so that I can verify what was sent. The private key and other needed information is included in the file attached. Good luck agent! \r\n\r\nFlag Format: `jctf{hashedMessage, (r, s)}`\r\n\r\nDeveloped by: [thatLoganGuy](https://github.com/thatLoganGuy)",
+                "files": [
+                    "/files/f50d5b831691fdeaa818221e7c61e727/importantInfo?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNDR9.Zf-Xow.A5V7wZl9-VCyW99JaiRIHopMsoE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 112,
+                "name": "mutant-mayhem",
+                "points": 1000,
+                "solves": 7
+            },
+            {
+                "category": "crypto",
+                "description": "You have woken up with sand underneath your back, you hear the ocean WAVs and smell the salty water, and looking straight above is the bright blue sky. Your memory is a bit groggy but you have a recollection of how you got here, a bad boating accident. You feel around in your pocket and there is a paper titled Shadows of the Digital Abyss with some weird story on it. As you are reading through that paper you hear the ocean WAVs beating against the sand dunes ahead. You notice something in the sand and you go to investigate but it's just a glass bottle. In that bottle is a rolled up piece of paper, with literally gibberish. Just all letters and numbers! This seems like a treasure hunt, or possibly even a fever dream.\r\n\r\nDeveloped by:\t[Jack](https://github.com/JohnZabriskie)",
+                "files": [
+                    "/files/bd24f8431b57f096a8d9ce7a8d2f99f3/some-kinda-code.txt?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNDh9.Zf-Xow.smV2dPo8Y_44k4_i2V7KaZjqVmo",
+                    "/files/8b4f7c5c0d942aaf12aaa4c7743f24c6/Shadows_of_the_Digital_Abyss.docx?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNzB9.Zf-Xow.5Zz2CrgkKLXIkq6BiwGhNRLDY-c"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 114,
+                "name": "cyber-artifacts",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "crypto",
+                "description": "You have intercepted an encrypted message from the RB back to Dr. Tom!!!! The component values of Dr. Tom's public key are obviously readily available, but one of the components of his private keys was accidentally published as well! We've been eavesdropping on channels that Dr. Tom frequently uses, maybe these keys can be used to decrypt this traffic? The included files contain a message to decrypt, and the key components discussed.\r\n\r\nDeveloped by [thatLoganGuy](https://github.com/thatLoganGuy)",
+                "files": [
+                    "/files/f87f5b643a00ed1e00f1232f38b6264d/publicKeys?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNDB9.Zf-Xow.w9SCG8nsamJXdVvAzu6TXVIzbvU",
+                    "/files/e57973596531c131349eb0096aa9e703/intercepted?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNDF9.Zf-Xow.6WCilaUHkTA79nR_oPG2p4XgXAA"
+                ],
+                "hints": [
+                    "The component of the private key that was accidentally published isn't enough to decrypt the message on it's own. What other information can you derive from the public key components and private key component you have?"
+                ],
+                "id": 110,
+                "name": "adveRSAry",
+                "points": 675,
+                "solves": 68
+            },
+            {
+                "category": "crypto",
+                "description": "As a Junior developer at the Weyland Yutani corporation, you're used to working for the good of the company's mission. However, something seems to be amiss with two of your co-workers Rick and Shane. There has recently been a breach of company secrets on the dark web, and rival companies are excited to rival Weyland Yutani in the asteroid mining business. You suspect Rick and Shane are responsible for this theft, but in order to get the evidence to convict them, you need to determine the shared secret key they've been using. By tailing them around the office, you've recovered several artifacts that may help you determine their shared key.  Rick and Shane are new at this, you should verify these artifacts for accuracy. These artifacts include a half-erased whiteboard from one of Rick and Shane's breakout meetings, two screenshots from Rick's computer, and a scrap of paper that didn't make it into Shane's trash can. \r\n\r\nFlag Format: `jctf{(,)}`\r\n\r\nDeveloped by: [thatLoganGuy](https://github.com/thatLoganGuy)",
+                "files": [
+                    "/files/e9868ad89a0ed55ca3ec5402113f7e4c/ShaneTrash.jpg?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNTB9.Zf-Xow.AvP9ig2uEZFbNt6ZCwBQAcizDd4",
+                    "/files/3dd20705fa41db980d54699223229630/RickComputer2.png?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNTF9.Zf-Xow.SpcJq-bJVBLlD6h4cbEd9PHEuvI",
+                    "/files/07a66f061d9424179e471b20d3925465/RickComputer1.png?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNTJ9.Zf-Xow.FPa5uYskXwq9J-KexfJl0JpKC8Y",
+                    "/files/5c102f65d56704c04eba91ae36ffb858/BreakoutMeeting.jpg?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNTN9.Zf-Xow.5rZ0dbmLLfGrDYlDeVjXVOwMUCA"
+                ],
+                "hints": [
+                    "Besides the usual water cooler talk around the office, you overheard one of the IT guys mention that some abnormal cryptography related searches have come from the junior developers' offices, including two phrases: ECC and DH. "
+                ],
+                "id": 115,
+                "name": "corporateEspionage ",
+                "points": 1000,
+                "solves": 3
+            },
+            {
+                "category": "crypto",
+                "description": "After decrypting the encrypted file you are tasked with identifying the plaintext password for the user johndoe. \r\n\r\nSubmit the plaintext password for the johndoe account with flag format: `jctf{plaintext_password}`\r\n\r\nDeveloped by: Trent",
+                "files": [
+                    "/files/2e3c3ff254f2b2b3471e6f7f2e5acd39/encrypted_backup.zip?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMzd9.Zf-Xpg.G0v0V8Om-LNDDqz0tjUF4uww-AE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 107,
+                "name": "ShadowBreaker",
+                "points": 498,
+                "solves": 12
+            },
+            {
+                "category": "crypto",
+                "description": "Find the previous password for the johndoe account.\r\n\r\nDeveloped by: Trent",
+                "files": [
+                    "/files/294beef6a97ad5ebd7981dbd6471d8a3/encrypted_backup.zip?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMzh9.Zf-Xpg.-l2anUC76AtI39C_1hHHt3oW6Gg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 108,
+                "name": "LegacyLock",
+                "points": 50,
+                "solves": 7
+            }
+        ],
+        "forensics": [
+            {
+                "category": "forensics",
+                "description": "A workstatiobn we are examining had some open files at the time of the memory capture. Examine the memory image at [open-notes.vmem](https://njit-jerseyctf.s3.amazonaws.com/opennotes/open-notes.vmem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUOXRGBUXGO462C4J%2F20240324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240324T021105Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b80b6134b35c447bde66f5e772edc3924c37eff3e65658fbe02300f43d7658b8) to find the flag.\r\n\r\nDeveloped by [NJCCIC](https://www.cyber.nj.gov)",
+                "files": [],
+                "hints": [
+                    "Look around in the notepad."
+                ],
+                "id": 94,
+                "name": "open-notes",
+                "points": 440,
+                "solves": 56
+            },
+            {
+                "category": "forensics",
+                "description": "You know you're getting old when you hear the music these kids are putting out and all you think is \"no thank you.\"\r\n\r\nAnyway, I'm too old for this or maybe I need some cybernetic ears or something. Maybe you'll like these groovy tunes.\r\n\r\nDeveloped by:\t[Cyb0rgSw0rd](https://github.com/alfredsimpson)",
+                "files": [
+                    "/files/be348f045ce25c8faed621f7372203b6/sick_jams_dude.wav?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNTR9.Zf-XpA.-gXnS180TxmMbu8hDtHF5o2NoXE"
+                ],
+                "hints": [
+                    "That's not screeching weasel"
+                ],
+                "id": 116,
+                "name": "groovy",
+                "points": 50,
+                "solves": 157
+            },
+            {
+                "category": "forensics",
+                "description": "We've been given a file and need to figure out what url it was downloaded from.\r\n\r\nDeveloped by: Ian",
+                "files": [
+                    "/files/70c8a5fc815d3ad5a0e9a97d06293297/Blob.wim?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMjV9.Zf-XpA.bKSFg98QLbHJKlVHeq4N03ivDrA"
+                ],
+                "hints": [
+                    "Maybe its saved in file metadata somehow?"
+                ],
+                "id": 99,
+                "name": "substitute-detail-torrent",
+                "points": 50,
+                "solves": 238
+            },
+            {
+                "category": "forensics",
+                "description": "I made this zip folder a while ago and I can't remember the password! I know I made it a very secure password, so wordlists won't help... can you open this folder without the password?\r\n\r\nDeveloped by:\t [Daniel M.](https://github.com/dmarriello)",
+                "files": [
+                    "/files/94354d743528e6b02515b9d8b35c0ec3/locked-out.zip?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNjl9.Zf-XpA.1mITSEd6ubSxRAbiRuNrDqoRNio"
+                ],
+                "hints": [
+                    "The zipcrypto format used in this zip is pretty old... perhaps there's some known exploits for it? If you don't know about it, you really should know! It's always good to expand your knowledge so that you know more!"
+                ],
+                "id": 119,
+                "name": "locked-out",
+                "points": 747,
+                "solves": 16
+            },
+            {
+                "category": "forensics",
+                "description": "The netrunners were detected in our network. They used LOTL tactics and utilized `nmap` but we don't know what the traffic means or what their ultimate goal was. Can you replicate the `nmap` scan based off the captured traffic? \r\n\r\nFlag Format: order the arguments in alphabetical order, left to right, case sensitive, seperate by underscores.\r\nExample: `jctf{nmap_--arg1_--arg2_var_ip}`\r\n\r\nDeveloped by:\t Dan D",
+                "files": [
+                    "/files/e4d070b590eb428b70d99f6d6d0ba1d3/net-runners-detected.pcapng?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNTV9.Zf-XpA.S05CpbT32qETQ52AMw9Mmb-UlOU"
+                ],
+                "hints": [
+                    "The netrunners always delay their attacks."
+                ],
+                "id": 117,
+                "name": "netrunner-detected",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "forensics",
+                "description": "Our informant has met back with us at base. He has stolen a file from a suspect who\u2019s starting to show dangerous signs of cyberpsychosis. Aside from his unending lust for bloodshed, our informant noted that the suspect would not shut up about \u201crats making him crazy\u201d as well as the  term \u201cBase FFFF+1\u201d but that\u2019s probably just nonsense. Anyways, can you look beyond the layers of this corrupted file to extract the information that we need? \r\n\r\nDeveloped by:\t [BonsaiUmai](https://github.com/JustinTecson)",
+                "files": [
+                    "/files/5964942c82477b1e540d6ef9d66d4345/the-panglao-watchtower.jpg?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMjF9.Zf-XpA.K6jOciJ0pZwPeqTzWoUHCoVGL04"
+                ],
+                "hints": [
+                    "There's more to a file than meets the eye!"
+                ],
+                "id": 95,
+                "name": "All-Along-the-Watchtower",
+                "points": 707,
+                "solves": 52
+            },
+            {
+                "category": "forensics",
+                "description": "While managing some of our thermal systems, we noticed unusual behavior. We collected the network traffic, see if you can find anything unusual.\r\n\r\nDeveloped by: Dan D",
+                "files": [
+                    "/files/29cec56345fe461245319753fc27b1f8/final.pcapng?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMjN9.Zf-XpA.BOzq-KJ1Mz5aOLJlscfNCyKud5k"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 97,
+                "name": "vibrations",
+                "points": 998,
+                "solves": 13
+            },
+            {
+                "category": "forensics",
+                "description": "One of our agents in the SOC captured some traffic from a suspicious connection on the network. We need you to take a look at the pcap file and see if you can find anything useful. Call it a hunch, but we think the suspect was exchanging information somewhere, but we're not sure where, or what, or even how.\r\n\r\n### Download Link\r\n\r\n[DigitalFootprint.pcapng](https://njit-jerseyctf.s3.us-east-1.amazonaws.com/digitalfootprint/digitalfootprint.pcapng?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUOXRGBUXGO462C4J%2F20240322%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240322T093644Z&X-Amz-Expires=604700&X-Amz-SignedHeaders=host&X-Amz-Signature=a5ee79483b8c9747b4f6ae566b0413d41027b928ecb69d730fdc2348125b426f)\r\n\r\nDeveloped by:\t [Cyb0rgSw0rd](https://github.com/AlfredSimpson)",
+                "files": [],
+                "hints": [
+                    "There's more than meets the eye. If you think you found it and it didn't work... you didn't find it."
+                ],
+                "id": 118,
+                "name": "digital-footprint",
+                "points": 750,
+                "solves": 3
+            },
+            {
+                "category": "forensics",
+                "description": "An attacker has accessed the corporate network and is exfiltrating the flag!\r\n\r\nDeveloped by [Rob Bruder](https://github.com/njccicrob)",
+                "files": [
+                    "/files/3352f65d3b23a8457f98838f5712d30e/secret-tunnels.pcapng?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMjJ9.Zf-XpA.faOxAxNAsILG9YCgh-2iqQqCAao"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 96,
+                "name": "secret-tunnels",
+                "points": 995,
+                "solves": 20
+            },
+            {
+                "category": "forensics",
+                "description": "Sometimes forensics analysts need to use similar techniques as attackers to complete their investigation.  \r\n\r\nThe flag can be found in this file [HERE](https://insecure-creds.s3.amazonaws.com/insecure-creds.DMP)\r\n\r\nDeveloped by [NJCCIC](https://www.cyber.nj.gov)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 123,
+                "name": "insecure-creds",
+                "points": 999,
+                "solves": 12
+            },
+            {
+                "category": "forensics",
+                "description": "* Somebody found this laptop running in the basement of Cullimore - right by the mailroom.\r\n* Normally we'd just turn it in, but with all of the cyberattacks and cyberpsychosis going on - we're not about to throw away evidence without examining it first.\r\n\r\n* Examine this ad1, and see if anything sticks out to you.\r\n* I find it useful to write down my thoughts and findings on whatever I have nearby - paper, sticky notes, etc.\r\n* Once I have evidence, I put it on a wall or lay it on the table and start connecting the dots.\r\n* Yes, I'm crazy with strings all over the wall - but it helps!\r\n* Maybe you'll find my approach useful, too?\r\n\r\nFile download: [sticky-situation.ad1](https://njit-jerseyctf.s3.us-east-1.amazonaws.com/sticky/a_sticky_situation.ad1)\r\n\r\nFlag Format: `jctf{exactly_as_1t_@ppears}`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 122,
+                "name": "sticky-situation",
+                "points": 1000,
+                "solves": 8
+            },
+            {
+                "category": "forensics",
+                "description": "A workstation we are examing had a browser open at the time of the acquisition.  Examine the memory image [living-on-the-edge.vmem](https://njit-jerseyctf.s3.amazonaws.com/livingonedge/living-on-the-edge.vmem?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUOXRGBUXGO462C4J%2F20240324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240324T023421Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=46eeb0ceb4dccc993ce94109cefe4b3ee3382b4657336bbecea5c2e871f3cc13) to find the flag.\r\n\r\nDeveloped by [NJCCIC](https://www.cyber.nj.gov)",
+                "files": [],
+                "hints": [
+                    "Limit your search to artifacts created by Microsoft Edge"
+                ],
+                "id": 121,
+                "name": "living-on-the-edge",
+                "points": 727,
+                "solves": 38
+            },
+            {
+                "category": "forensics",
+                "description": "* Linux really lets you do anything... when messing around with my new install, I managed to delete my bootloader! \r\n * Now I can't get in when I had an important file on my desktop... at least I virtualized it, maybe you can get the data out of it?\r\n\r\n Please download the file [here](https://njit-jerseyctf.s3.us-east-1.amazonaws.com/rescue/mynewvm.7z).\r\n \r\n Backup download link file [here](https://njit-jerseyctf.s3.us-east-1.amazonaws.com/rescue/mynewvm.7z?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUOXRGBUXGO462C4J%2F20240319%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240319T181843Z&X-Amz-Expires=604700&X-Amz-SignedHeaders=host&X-Amz-Signature=342c04bc667bb8f687f99fc62ba3c8adc4d244e54ce3d00f32f7eda84f0815fc).\r\n \r\n `Note: If the file is downloaded as an extension other than .7z file, that is the incorrect extension.`\r\n\r\nDeveloped by:\t [Daniel M.](https://github.com/dmarriello)",
+                "files": [],
+                "hints": [
+                    "The rescue console doesn't seem to let you read the files... seems like you need to use some other method. Perhaps you can find some tool that reads the data without launching the system? Maybe even one you've already used?"
+                ],
+                "id": 120,
+                "name": "rescue-mission",
+                "points": 747,
+                "solves": 16
+            }
+        ],
+        "misc": [
+            {
+                "category": "misc",
+                "description": "While preparing for JerseyCTF IV last month, I was going to help with updating our main website over at [jerseyctf.com](https://jerseyctf.com)...\r\nAs it turns out, I might have made a mistake when updating stuff and some of the staff are pretty disappointed with me now...\r\nI thought it was fine! It didn't even show up on the website visibly... oh well.... hopefully no one was viewing the website all the way back last month.\r\n\r\nDeveloped by:\t [Daniel M.](https://github.com/DMarriello)",
+                "files": [],
+                "hints": [
+                    "Is there a way to view a mistake made in the past even if it was deleted since then?"
+                ],
+                "id": 92,
+                "name": "internal-tensions",
+                "points": 50,
+                "solves": 208
+            },
+            {
+                "category": "misc",
+                "description": "* Welcome to JCTF 2024! We're glad you're here. \r\n* Please read the rules in the #rules [Discord](https://discord.gg/ZkZsJtmAvh) channel carefully. \r\n* If you do, the flag will be revealed.\r\n\r\n\r\nDeveloped by [Cyb0rgSw0rd](https://github.com/AlfredSimpson)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 105,
+                "name": "welcome-hackers",
+                "points": 50,
+                "solves": 246
+            },
+            {
+                "category": "misc",
+                "description": "Artificial intelligence makes me shiver. How could anyone ever try to outsmart something that can read you in a million ways? Maybe it's not about how much you can see, but what you choose to see. Like in the alien hunters in the Predator movie, it only needed a handful of filters before it saw what it needed to see out in the Open. Even then it's not enough to Solve it. Hidden in plain sight. Hidden in the little bits.\r\n\r\nDeveloped by [rickyhernandez1000](https://github.com/rickyhernandez1000)",
+                "files": [
+                    "/files/0d4a923ec95b133a21eb4ff845323db8/nicc_aug.png?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMzV9.Zf-XpQ.zCJ0Q9i-DIQ5J44-TqnGPOm8F94"
+                ],
+                "hints": [
+                    "Steganography is your friend..."
+                ],
+                "id": 106,
+                "name": "Augmented-&-Fragmented",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "misc",
+                "description": "Can you analyze this file and see if there's any data of interest?\r\n\r\nDeveloped by [NJCCIC](https://www.cyber.nj.gov/)",
+                "files": [
+                    "/files/36ac4390c58a90d8efd6707c5159e235/app-debug.apk?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMjB9.Zf-XpQ.joyLOjloDKHqk4A8hL6sGHO0ILs"
+                ],
+                "hints": [
+                    "What kind of file is this? Are there any tools that analyze/decompile these kinds of files?"
+                ],
+                "id": 93,
+                "name": "the-droid-youre-looking-for",
+                "points": 634,
+                "solves": 84
+            },
+            {
+                "category": "misc",
+                "description": "I received these 2 files in an email and they mysterious sender asked me to find the differences between the files. I cannot seem to figure out the differences, it looks all the same to me! Can you help me spot the differences.\r\n\r\nOnce you find the differences, make to sure to encapsulate it in `jctf{answer}`\r\n\r\nDeveloped by [theamazins17](https://github.com/theamazins17)",
+                "files": [
+                    "/files/66f4011a0a8e058eebd4b8d6b5ca453e/neon-echoes-1.txt?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMzB9.Zf-XpQ.R94aY-tqqFturntJ4vYYacVhFog",
+                    "/files/272d724d4599ffe84573ba0d68ba809a/neon-echoes-2.txt?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMzF9.Zf-XpQ.uXpM5FXMozl-SCa7Ed6-Jv1-ZuU"
+                ],
+                "hints": [
+                    "Is there a software to figure out the difference?"
+                ],
+                "id": 102,
+                "name": "data-divergence-discovery",
+                "points": 50,
+                "solves": 195
+            },
+            {
+                "category": "misc",
+                "description": "Your neighbors down the block own a small retail business that is taking off! Their sales are doing great, their customers are happy and employment is stable too. A random afternoon you get a call from them saying they think they were **hacked** (OH NO)! As the well known, *and super knowledgeable cyber security specialist you are*, you run down to try to help them remediate the problem ASAP. You notice that there is some sort of malware on the accounting computer, that is asking for encryption authentication. You need to figure out the code to get in there and find that flag! One piece of evidence was found in the network on one of the servers, check the network and see what you can find, the more time they have on there, the more they can take for ransom! \r\n\r\nFlag Format (all uppercase): `jctf{FLAG1_FLAG2_FLAG3}`\r\n\r\n***NOTE***: Windows, Mac, and Linux systems are able to use Cisco Packet Tracer.\r\n\r\nYou can create an account and download Cisco Packet Tracer for free from the website: [HERE](https://www.netacad.com/courses/packet-tracerdownload) or you can find a copy of packet tracer [HERE](https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-for-windows-and-linux.html)\r\n\r\nDeveloped by: [Jack](https://github.com/JohnZabriskie)",
+                "files": [
+                    "/files/162ececb21fb656e9f58f4ed9286ec16/future-packets.pkt?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNjh9.Zf-XpQ.Ir1IY73bElV9qjgVnqEzhBdxWTI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 127,
+                "name": "future-packet",
+                "points": 1000,
+                "solves": 2
+            },
+            {
+                "category": "misc",
+                "description": "# Sponsored By: [ADP](https://adp.com)\r\n\r\nRam, a recent cryptography graduate, commemorates his achievement with a pizza feast for classmates. Despite his administrative prowess, Ram's proclivity for simplistic passwords presents a challenge. Engaged in Python studies to refine his practices, he demonstrates adeptness in concealing information in plain sight. He believes easy passwords can be made tougher by applying techniques learned in his course, yet acknowledges their vulnerability to reversal through hashing. Now, fate twists its threads: Ram requires aid in accessing a critical voucher number, concealed within his notes by a forgotten password. With time ticking down to voucher expiration, can you unravel the mystery and restore his access? \r\n\r\n[access here](http://54.147.43.246:3001)\r\n\r\nFlag Format: `jctf{answer}` or `CTF{answer}`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 144,
+                "name": "Unlocking Amnesia The Password Puzzle",
+                "points": 750,
+                "solves": 0
+            },
+            {
+                "category": "misc",
+                "description": "One of our analysts captured this traffic which contains some important communications, but they weren't able to see the data, can you get it?\r\n\r\nDeveloped by [NJCCIC](https://www.cyber.nj.gov/)",
+                "files": [
+                    "/files/820ccd2d43ad45418144aeabdc9c0a2d/sniff-01.cap?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNTh9.Zf-XpQ._M0kFPu8LMuSd05gjIo2eD62p4Q"
+                ],
+                "hints": [
+                    "Challenges are like onions, in that they may have multiple layers..."
+                ],
+                "id": 126,
+                "name": "wi-will-wi-will",
+                "points": 745,
+                "solves": 19
+            },
+            {
+                "category": "misc",
+                "description": "We have reason to believe that a few members of our team are double agents plotting against us. Our sources tell us they use this server to communicate, but we're not seeing any TCP or UDP traffic to this IP: `3.87.129.162`\r\n\r\nCan you find out how they're communicating?\r\n\r\nDeveloped by: [Noah Jacobson](https://github.com/noahajac)",
+                "files": [],
+                "hints": [
+                    "[https://tinydb.readthedocs.io/en/latest/usage.html#advanced-queries](https://tinydb.readthedocs.io/en/latest/usage.html#advanced-queries)"
+                ],
+                "id": 145,
+                "name": "p1ng-p0ng",
+                "points": 749,
+                "solves": 11
+            },
+            {
+                "category": "misc",
+                "description": "Our NICC agents have received these files from high command to help determine a potential base of operations. High command has encrypted the location of the potential base of operation to prevent the Rogue AI from knowing their movements. The file containing a voice prompt will help you get into the file telling where the potential base may be.\r\n\r\n*Note: Once you figure out the location and there are spaces, replace them with underscores.*  `jctf{Name_of_Location}`\r\n\r\nDeveloped by [theamazins17](https://github.com/theamazins17)",
+                "files": [
+                    "/files/0f38936d378b2f702d72a3443aa9f0cb/password.wav?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMzJ9.Zf-XpQ.KWmunWQGa7gTyiLJX2wmhClECKE",
+                    "/files/2e6144cad921b42cf25dc5e1e9554518/location.txt.aes?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMzN9.Zf-XpQ.BXAk1vH-aTPOto8YRxm-0nuK1kI"
+                ],
+                "hints": [
+                    "Are there different types of phonetic code alphabets?"
+                ],
+                "id": 103,
+                "name": "surf-n-turf",
+                "points": 749,
+                "solves": 10
+            },
+            {
+                "category": "misc",
+                "description": "* We intercepted Dr. Tom's research into cloud storage and found some strange occurences. \r\n * It looks like he uploaded his diary purposefully to test his cloud storage? \r\n * We tried to decipher it, but it was too much to do manually. Here's the link: https://youtu.be/U0XRrGPQwbY\r\n \r\n ***FLASHING LIGHTS WARNING***: Viewer discretion is advised.\r\n\r\nDeveloped by:\t [Daniel M.](https://github.com/dmarriello)\r\n",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 128,
+                "name": "cloud-storage-chaos",
+                "points": 1000,
+                "solves": 3
+            },
+            {
+                "category": "misc",
+                "description": "NICC needs your help. They found an unknown encrypted file on their computer desktop. They believe it may tie back to RB, but they aren't sure how to access the file. They didn't want to give you their passwords in the clear, to prevent RB getting further access to their computer accounts, but they've provided everything you will need to open the encrypted file.\r\n\r\n[Lockbox.zip](https://njit-jerseyctf.s3.us-east-1.amazonaws.com/lockbox/lockbox-files.zip)\r\n\r\nDeveloped by: [teejwags](https://github.com/teejwags)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 129,
+                "name": "lockbox",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "misc",
+                "description": "* Remember that image file from sticky situation?\r\n * We had a witness come forward saying they saw the suspect leaving Cullimore's basement - right where we found the laptop.\r\n * Not sure if what they're saying is useful or true, but they claim the suspect was muttering something about 'The Council'.\r\n \r\n * Who's the council?\r\n \r\n * You still have that ad1, right?\r\n * If not: go get it. You're going to need it.\r\n \r\n * If *memory* serves me right, there was a flyer around campus talking about the council a while back. Maybe it's that?\r\n\r\nDeveloped by:\t [Cyb0rgSw0rd](https://github.com/alfredsimpson)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 130,
+                "name": "what-council",
+                "points": 1000,
+                "solves": 2
+            }
+        ],
+        "osint": [
+            {
+                "category": "osint",
+                "description": "* Okay, this is weird. They had a whole forum going.\r\n* There must be something worthwhile in there. We knew that something like this was happening, but I wasn't sure what we'd find.\r\n* If they were posting here someone probably slipped up along the way.\r\n* We need to identify where and when they met with the agent who slipped them the intel.\r\n* Build your case on these members and, from that, we may identify the mole.\r\n* Do not slow down. A rolling stone gathers no moss, so time to shed the green, noobie.\r\n\r\nFlag Format: `jctf{mm-dd-yyyy_Venue-Name}`\r\n\r\nDeveloped by:\t [Cyb0rgSw0rd](https://github.com/alfredsimpson)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 125,
+                "name": "the-golden-falcon-and-the-rugged-lands",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "osint",
+                "description": "I found this image online, and it's blurry, I can't see all its details!\r\n\r\nFlag format: `jctf{word_word_word_word}`\r\n\r\nDeveloped by: [Jrs229](https://github.com/jrs229)",
+                "files": [
+                    "/files/545f4c5fda8e372545c21df0edfc1144/WhereIsIt.jpg?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMTh9.Zf-XpQ.NGmwink-jLj6PmDWlVOsj8O9Ruk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 89,
+                "name": "where-is-it",
+                "points": 198,
+                "solves": 124
+            },
+            {
+                "category": "osint",
+                "description": "NICC netrunners have intercepted network traffic sent over an insecure channel. It seems there are messages located somewhere sent by a suspect we believe to be under the influence of the Rogue AI. Perhaps there is a way to find information about where he plans to meet our informant for an exchange of secrets.\r\n\r\n\r\nFlag Format - *(special characters allowed, use dashes instead of spaces and no capitalization of letters)* `jctf{name-of-location}`\r\n\r\nDeveloped by:\t [BonsaiUmai](https://github.com/JustinTecson)",
+                "files": [
+                    "/files/11086a1847fc7baf7ff877560e8784e4/insecure_traffic.pcapng?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMjh9.Zf-XpQ.TAzvY4tiicy_1UOBfIR9XS2XVXk"
+                ],
+                "hints": [
+                    "The message is left unencrypted!"
+                ],
+                "id": 101,
+                "name": "beyond-the-packet",
+                "points": 491,
+                "solves": 125
+            },
+            {
+                "category": "osint",
+                "description": "I received this note with this code. Enclosed with it, it asked for help finding a specific US Navy ship that was linked to this code. Can you decipher this code to give me the name of this US Navy ship and the type of ship it was with its associated number?\r\n\r\nFlag Format: `jctf{USS_Name_Of_Ship_TypeOfShip_Number}`\r\n\r\nDeveloped by: [theamazins17](https://github.com/theamazins17)",
+                "files": [
+                    "/files/22722e11f956865ae523e0e9d02c381e/motto.PNG?token=.eJyrViotTi2Kz0xRsjI2NbfUUSpJTcwFcw0NzU10lNIyc1Jh3FoAQpANkw.Zf-XpQ.TtUdf__0q0Qw4VQ6YNOFKbvtcQA"
+                ],
+                "hints": [
+                    "This ship must be on active duty or currently a museum. Ships that were decommissioned or currently being built do not fit this criteria."
+                ],
+                "id": 88,
+                "name": "this-is-not-the-flag-you-are-looking-for",
+                "points": 50,
+                "solves": 217
+            },
+            {
+                "category": "osint",
+                "description": "* I'm not gonna lie. With all of the information I'm absorbing, I'm about to lose my mind. It's times like these that I understand how someone could go crazy like Mr. 4-sided-earth himself. Okay, maybe not as crazy as him, but you get the idea.\r\n* Speaking of - I really do wonder how he got obssessed with cubes. \r\n* Simon got an interview with him the other day where it seems like it wasn't just about cubes... \r\n* Ray mentioned writing it down, but I thought he only wrote the blog.\r\n* I guess I'm wrong. Mind finding it for me? Stick to the federal stuff, please - Ray didn't trust the Googles.\r\n* When you find it, tell me  what he was doing business as when he published the book, the page count, and the alpha-numberic registration id.\r\n\r\nFlag Format: `jctf{NameOfCo._pagecount_AB1234}` - No spaces in name and as it appears.\r\n\r\nDeveloped by:\t [Cyb0rgSw0rd](https://github.com/alfredsimpson)",
+                "files": [
+                    "/files/a320d64a245d0dbdd231cb6d97b0fe1c/Notjustcubes.wav?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNjZ9.Zf-Xpg.WS2Kb_jMwNggEQ2oEEb7WfgTjuQ"
+                ],
+                "hints": [
+                    "I'd say more, but i'm not sure it's fair use to say what I want to say here"
+                ],
+                "id": 148,
+                "name": "thanks-ray",
+                "points": 749,
+                "solves": 11
+            },
+            {
+                "category": "osint",
+                "description": "I am currently lost.\r\nI am trying to find a local attraction at my current location, but can't seem to remember the name.\r\nCan you figure out what the name of this nearby attraction is called? \r\n\r\nFlag Format: `jctf{name_of_attraction}`\r\n\r\nDeveloped by:\t [TomB](https://github.com/tomaszbrauntsch)",
+                "files": [
+                    "/files/a89b97d68cffc9aab9f90f967f940880/flag.jpg?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxMTl9.Zf-XpQ.7B7DrpjPm9Ehqp54Yy56LQJ5634"
+                ],
+                "hints": [
+                    "Did you fully look at the image?\nThe title of the challenge may give a clearer indication of what the name of the attraction is."
+                ],
+                "id": 90,
+                "name": "coasting-underground",
+                "points": 50,
+                "solves": 250
+            },
+            {
+                "category": "osint",
+                "description": "Simon Letti just landed in warm and sunny Puerto Rico. He remembers being here, but he doesn't know why everything looks so different. Everything looks so much more *futuristic*. He is walking around and trying to remember how he got here. He sees his phone is on and charged, and starts to post on his instagram about his unplanned journey. NJIT's Information and Cybersecurity Club (NICC) was his favorite club, maybe there are some clues on how to solve this mystery...\r\n\r\nFlag Format: ALL LOWERCASE --  `jctf{flag1:flag2:flag3}`\r\n\r\nDeveloped by:\t [Jack](https://github.com/JohnZabriskie)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 91,
+                "name": "the-only-way-out",
+                "points": 1000,
+                "solves": 1
+            },
+            {
+                "category": "osint",
+                "description": "# Sponsored by [Merck Pharmaceuticals](https://www.merck.com/)\r\n* I'm pretty bummed. I thought I came up with a novel way of backdooring your brain using AI, but somebody beat me to it last month! Even worse - they're claiming a 100% attack success rate with this Trojan attack! \r\n* I looked into this guy, and he's pretty solid... been winning awards for 21 years now! His partner isn't a slouch either - in fact I think the duo just wrote a book together. Pretty cool considering that the primary author served as his advisor for his co-author's dissertation.\r\n* I need to learn what the primary author knows, but I also have a bad memory. Can you give me the last names of each of the authors. Also, can you find the last book he wrote's ISBN (hardcover, please) and then tell me who *he* learned from while getting his PhD? I heard it was someone who runs their own lab, too, back at his alma mater. His old teacher was his advisor for his dissertation - so you know they know something great - I just can't find them myself. If you get me his teacher/advisor's last name I'll track them down.\r\n* It's either I learn now, or hope I wait a couple of decades to use what their tech... and who knows where tech will be by then?\r\n\r\n**Flag Format:**\r\nRemove all hyphens from the isbn (digits only!), use proper capitalization for last names. Separate each item with an underscore.\r\n\r\nExample: `jctf{PrimaryAuthorLastName_CoAuthorLastName_isbn_TeacherLastName}`\r\n\r\nDeveloped by:\t [Cyb0rgSw0rd](https://github.com/AlfredSimpson)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 149,
+                "name": "advised-on-a-novel-idea",
+                "points": 999,
+                "solves": 12
+            },
+            {
+                "category": "osint",
+                "description": " * Someone is working with Doctor Tom.\r\n * Worse, he seems just as adamant about bringing about Roko's Basilisk.\r\n * Track down this creep and see what you can find.\r\n * If it's about AI, there's a chance he's talking about it.\r\n\r\nDeveloped by:\t [Cyb0rgSw0rd](https://github.com/alfredsimpson)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 124,
+                "name": "the-internet-is-forever",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "osint",
+                "description": "## Description\r\n* Joining a club is a fantastic way to meet people, make friends, further your educational and professional career, stop baddies, and have fun during your undergrad years. I definitely recommend it - and have made some great friends through clubs I've been in.\r\n* You can always tell who was friends and who wasn't - they'll be in a lot of the same clubs!\r\n* While some clubs, like NICC, attract people who are looking at professional development, others bring together people from multiple degree programs.\r\n* The father of AI had a probable friend who became a pretty well known biologist. \r\n* Think you can tell me the clubs they were in and his friend's last name? Alphabetical order, please.\r\n\r\n**Flag Format:** no spaces in club names, Capitalize it like it's a proper noun, and separate each part with an underscore. ex: jctf{ClubName_Club_Lastname}\r\n\r\nDeveloped by:\t [Cyb0rgSw0rd](https://github.com/AlfredSimpson)",
+                "files": [],
+                "hints": [
+                    "How could you find out what clubs someone was in SO long ago?"
+                ],
+                "id": 146,
+                "name": "dear-john",
+                "points": 750,
+                "solves": 5
+            }
+        ],
+        "web": [
+            {
+                "category": "web",
+                "description": "We found this control panel on the Internet. It seems to be broken. Can you find out more information?\r\n\r\n[Access Here!](http://54.160.214.145:1337)\r\n\r\nDeveloped by: [Noah Jacobson](https://github.com/noahajac)",
+                "files": [],
+                "hints": [
+                    "Check the server header."
+                ],
+                "id": 139,
+                "name": "require-all-denied",
+                "points": 388,
+                "solves": 76
+            },
+            {
+                "category": "web",
+                "description": "This site looks normal but why is there so much to read? What is the form for?\r\n\r\n[Access Here!](http://44.210.135.76)\r\n\r\nDevleoped by: Ash",
+                "files": [],
+                "hints": [
+                    "Read or Don't, Inspect all or don't "
+                ],
+                "id": 140,
+                "name": "Consent-N-Consent",
+                "points": 50,
+                "solves": 243
+            },
+            {
+                "category": "web",
+                "description": "We are so happy to announce our very friendly & pretty basic chatbot! All was going well with it however, it must have ticked someone off that they decided to try to hack into the server and try to exploit it. This application, while seemingly benign, now contains hidden functionalities and potentially dangerous vulnerabilities reminiscent of the infamous `Log4j` exploit. We are asking for your help to step in and try to see how they got in. Your objective is to uncover these vulnerabilities, understand how they can be exploited, and ultimately use your findings to extract the flag hidden within the application's environment.\r\n\r\n[Click Me! I'm not dangerous!](http://44.202.69.161:8080/)\r\n\r\nDeveloped by:\t [Jack](https://github.com/JohnZabriskie)",
+                "files": [],
+                "hints": [
+                    "The internet is your friend."
+                ],
+                "id": 131,
+                "name": "logging4joy",
+                "points": 410,
+                "solves": 143
+            },
+            {
+                "category": "web",
+                "description": "Dr. Tom Lei is up to something again and it's not sounding good. We heard he was messing around over at https://drtomlei.xyz. Maybe we should look into this.\r\n\r\nDeveloped by:\t [Cyb0rgSw0rd](https://github.com/AlfredSimpson)\r\n",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 142,
+                "name": "mmmmm-rbs",
+                "points": 400,
+                "solves": 72
+            },
+            {
+                "category": "web",
+                "description": "Great work cracking that pcap file! I think we saw some interesting traffic, and we were definitely onto something with Dr Tom's blog. Unfortunately - security seems tight. \r\n\r\nBut fortunately for us - people are the weakest link and some people might still be celebrating st. paddy's based on this network capture we grabbed. Check it out and see if they slipped up anywhere.  It might be helpful to cross compare the old one, while you're at it.\r\n\r\nI can't help but think there's more than that. Mary and Maya said they found a way in, but typical them - they're MIA. \r\nProbably back dancing the night away again.\r\n\r\n\r\n**Flag format:** Exactly as it appears, which will be in the format `jctf{some_text}`.\r\n\r\nDeveloped by:\t [Cyb0rgSw0rd](https://github.com/AlfredSimpson)",
+                "files": [
+                    "/files/065c9dd0dfa09bacc6eb9eed2def3928/itsacap.pcap?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNzJ9.Zf-Xpg.Oq_PuaabOghnrbQNXNMluydkbrk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 141,
+                "name": "runner-net",
+                "points": 750,
+                "solves": 7
+            },
+            {
+                "category": "web",
+                "description": "Welcome N0D3BR3ACHER intiate, your trial to become one of us, get the `/etc/passwd` file for this web server. We were able to get some of the project source code but we lost access, do what you can with it. Our informant had mentioned a major restructuring of their application, the vulnerable python code is no longer part of the application base.\r\n\r\nDeveloped by: Dan D",
+                "files": [
+                    "/files/16578862695de349b7498c18965c5e17/jctf4-web-nodebreachers.zip?token=eyJ1c2VyX2lkIjozNTc5LCJ0ZWFtX2lkIjoxMTc0LCJmaWxlX2lkIjoxNzN9.Zf-Xpg.dI2CdnwygykvcDh8fq17RUNCXfQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 138,
+                "name": "N0D3BR3ACHER$",
+                "points": 1000,
+                "solves": 1
+            }
+        ]
+    },
+    "title": "JerseyCTF",
+    "url": "https://ctf.jerseyctf.com"
+}
