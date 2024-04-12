@@ -1,0 +1,572 @@
+{
+    "data": {
+        "Cryptography": [
+            {
+                "category": "Cryptography",
+                "description": "<p>Author: <code>GoldenBushRobin</code></p><p>I've heard signatures are pretty good tools for verifying the sender. Signatures are suposed to be personalized and unique, so surely this one is impossible to forge... right?</p>",
+                "files": [
+                    "/files/ce4454458153611ae6ae3a18e0fc7c64/smooth-signatures.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MTV9.ZhDIcw.pVe83btaGcmf53OTdXvLobhCH_I"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "Smooth Signatures",
+                "points": 499,
+                "solves": 6
+            },
+            {
+                "category": "Cryptography",
+                "description": "<p>Author: <code>GoldenBushRobin</code></p><p>QCG seems a little too simple, so instead I rolled my own rng using polynomials.</p>",
+                "files": [
+                    "/files/78377f6a8cd28602767e2d0341fe0058/pcg.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MjJ9.ZhDIcg.uaFqyM50RsSE0Ji9aYHNqzbr0lg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "PCG",
+                "points": 499,
+                "solves": 6
+            },
+            {
+                "category": "Cryptography",
+                "description": "<p>Author: <code>nhwn</code></p><p>It would be a crime for me to just give you the flag, so I'll encrypt it first before sending it. I'll even compress it to make it faster to transmit!</p><p>Note: the flag matches the regex <code>gigem{[a-z_]+}</code> (the curly braces are not quantifiers).</p>",
+                "files": [
+                    "/files/ce7c78daf3cfe12f2b74c5f201f4cf6e/criminal.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MTl9.ZhDIcw.DBS7ojJqhtgqQSqf1gItAwjPM-k"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "Criminal",
+                "points": 497,
+                "solves": 10
+            },
+            {
+                "category": "Cryptography",
+                "description": "<p>Author: <code>GoldenBushRobin</code></p><p>Java uses LCG for random number generation, so I rolled my own random nunber generator, QCG. Surely it is more secure than LCD.</p>",
+                "files": [
+                    "/files/b4fc7377c982090dbc3f1adb2b43a18f/qcg.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MTZ9.ZhDIcw.fwtLnRtdVSLMyAv8NsS-ID9HklQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 16,
+                "name": "QCG",
+                "points": 500,
+                "solves": 3
+            },
+            {
+                "category": "Cryptography",
+                "description": "<p>Author: <code>Monk</code></p><p>Only part of the private key was able to be retrieved. Decrypt the flag.txt.enc file.</p>",
+                "files": [
+                    "/files/fee407a17986950e5bb8a41a99257599/truncated-1.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MTd9.ZhDIcg.c5gQL0kMPSqcgqxIqhT7xez9FAg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "Truncated 1",
+                "points": 490,
+                "solves": 17
+            },
+            {
+                "category": "Cryptography",
+                "description": "<p>Author: <code>Monk</code></p><p>It seems even less was able to be retrieved this time. Decrypt the flag.txt.enc file.</p>",
+                "files": [
+                    "/files/b4eabd4584653cea3ab482f7877dee2c/truncated-2.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MTh9.ZhDIcw.j7UauRVj5cWBvDOtEHRjnABvQdQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "Truncated 2",
+                "points": 498,
+                "solves": 9
+            },
+            {
+                "category": "Cryptography",
+                "description": "<p>Author: <code>Monk</code></p><p>The RSA Public and Private keys are provided. However, the private key seems to be jumbled in a block size of 10 hex characters. Can you get the flag?</p>",
+                "files": [
+                    "/files/587070c3214350f78683f5779d8a6269/jumbled.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MjF9.ZhDIcw.JCsegkl_1ThM_Ib2XiZHNyXujYU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 21,
+                "name": "Jumbled",
+                "points": 500,
+                "solves": 3
+            },
+            {
+                "category": "Cryptography",
+                "description": "<p>Author: <code>GoldenBushRobin</code></p><p>Emoji seem to have their own unique properties and strange combinations, so why not make a group out of them?</p>",
+                "files": [
+                    "/files/387dcafe041e50eaaae8ee7071cc16f9/emoji-group.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MjB9.ZhDIcw.AnP_TpLGMjlZkC9c3i8h6H4ae8c"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 20,
+                "name": "Emoji Group",
+                "points": 500,
+                "solves": 1
+            }
+        ],
+        "Forensics": [
+            {
+                "category": "Forensics",
+                "description": "<p>Author: <code>Monk</code></p><p>The image.jpg file has a similar image file but not the same somewhere out of many jpg images. Can you find the similar image?</p><p>Images:\r\nhttps://tamuctf.com/5d6b407ee061e8696136d4dfd25f24b0/static/fuzzy-images.zip</p>",
+                "files": [
+                    "/files/d7e6165b05d3b78bdea9571e6fd97360/fuzzy.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MTR9.ZhDIcw.EXg1X-somwgE-vLs_nnHYG7VxTc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 12,
+                "name": "Fuzzy",
+                "points": 496,
+                "solves": 11
+            },
+            {
+                "category": "Forensics",
+                "description": "<p>Author: <code>kit</code></p><p>We found <a href=\"https://tamuctf.com/5d6b407ee061e8696136d4dfd25f24b0/static/deleted.zip\">this file</a> and was told that it contains a flag within it. Can you find the flag?</p>",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 14,
+                "name": "Deleted",
+                "points": 191,
+                "solves": 89
+            },
+            {
+                "category": "Forensics",
+                "description": "<p>Author: <code>Monk</code></p><p>Can't seem to open the file.</p><p>The file was corrupted with operations used through this application:\r\nhttps://tamuctf.com/5d6b407ee061e8696136d4dfd25f24b0/static/corrupted-cc.zip\r\n</p>",
+                "files": [
+                    "/files/775824be7ecd59e3ab4b019cc984cc3b/corrupted.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MTJ9.ZhDIcg.Y4wF9E7mE3r9lp4d38IteKJ220U"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 9,
+                "name": "Corrupted",
+                "points": 500,
+                "solves": 3
+            },
+            {
+                "category": "Forensics",
+                "description": "<p>Author: <code>moveslow</code></p><p>We'd call it Bedwars but we suck at Bedwars too much.</p>",
+                "files": [
+                    "/files/8153c8885d7ee70adc338a4cb07b8385/smp.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MTN9.ZhDIcw.ie90XrU_oZKHmpydvGPp2MTTVqs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "SMP",
+                "points": 500,
+                "solves": 2
+            },
+            {
+                "category": "Forensics",
+                "description": "<p>Author: <code>tacex</code></p><p>The size of a Minecraft world is 60,000,000 * 60,000,000 * 384 blocks. If 256 different blocks are chosen to represent a byte of data, this means that a Minecraft world could store roughly 1.2 exabytes of data. Naturally, this must mean that Minecraft is the best storage system in terms of capacity, so I have decided to start storing my files in my world. Have fun recovering them!</p><p>Note: The file size is 8MB</p><p>Download from here: https://tamuctf.com/5d6b407ee061e8696136d4dfd25f24b0/static/mcfs.zip</p>",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 11,
+                "name": "MCFS",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "Forensics",
+                "description": "<p>Author: <code>Monk</code></p><p>The RAM was able to be captured in a memory dump on the machine of the discord administrator that was tasked with hiding the flag. Can you find the flag in the memory dump?</p><p>Download from here:\r\n\thttps://tamuctf.com/5d6b407ee061e8696136d4dfd25f24b0/static/volatile.zip</p>",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 13,
+                "name": "Volatile",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Misc": [
+            {
+                "category": "Misc",
+                "description": "<p>Author: <code>kit</code></p><p>I'm playing hide and seek with a friend, and I am the seeker. I received a hint from a friend about their whereabouts, can you find out where my friend is?</p><p>Note: flag format will be <code>gigem{name_of_location}</code>. Additionally, The location is where the picture was taken from.</p>",
+                "files": [
+                    "/files/2cd8cf7bb594a73e9018bc310e6b0f2e/lost-tourist.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MzF9.ZhDIcw.IWMdxKvnOXYeDp9l1MAueUCCFTk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 38,
+                "name": "Lost Tourist",
+                "points": 337,
+                "solves": 65
+            },
+            {
+                "category": "Misc",
+                "description": "<p>Author: <code>bit</code></p><p>This song on my <a href=\"https://open.spotify.com/playlist/7bz9h87mPr5kARIVdie77S?si=6db549a2f5844ab3\">Spotify playlist</a> simply vanished and I have no idea what it was! Help me find the title and artist for the song.</p><p>Note: flag format will be <code>gigem{Title-Words-Seperated-By-dashes-ARTIST}</code>, for example, the song Blue Blood by IVE would have the flag as <code>gigem{Blue-Blood-IVE}</code>.</p>",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 35,
+                "name": "Missing",
+                "points": 430,
+                "solves": 43
+            },
+            {
+                "category": "Misc",
+                "description": "<p>Author: <code>Monk</code></p><p>PLCs use ladder logic as a programming language. Where is the flag in the code?</p>",
+                "files": [
+                    "/files/575aa52dbe40e293a1857848c2df47d4/ladders.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MzJ9.ZhDIcw.JbsLwovq9bULNtAf0Oh4FSvYldY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 39,
+                "name": "Ladders",
+                "points": 499,
+                "solves": 7
+            },
+            {
+                "category": "Misc",
+                "description": "<p>Author: <code>Addison</code></p><p>Look around, see what you can find!</p><p>Note: File uploads for this challenge are not necessary; you can complete it with the binaries provided.</p>",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 36,
+                "name": "Scavenging",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Misc",
+                "description": "<p>Author: <code>Addison</code></p><p>    You are given a shell inside a docker container. The host running docker does <code>cat /home/user/flag.txt</code> once per minute. Read the flag.</p>",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 37,
+                "name": "Over The Shoulder",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Pwn": [
+            {
+                "category": "Pwn",
+                "description": "<p>Author: <code>nhwn</code></p><p>I enabled NX...right?</p>",
+                "files": [
+                    "/files/f9244ef8a8b34041daf185cbd3d0d682/good-emulation.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6NX0.ZhDIcw.NYMvEC_tCJnYrn6K53LQCyDnW3M"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "Good Emulation",
+                "points": 500,
+                "solves": 3
+            },
+            {
+                "category": "Pwn",
+                "description": "<p>Author: <code>nhwn</code></p><p>Pwn isn't fun if your solve isn't janky.</p>",
+                "files": [
+                    "/files/7c5dd731d725b7ebc1c419c4f118fd34/janky.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MzV9.ZhDIcw.0gQAcCmS5LGAFS6i9rkcBmFT6As"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "Janky",
+                "points": 499,
+                "solves": 8
+            },
+            {
+                "category": "Pwn",
+                "description": "<p>Author: <code>FlamePyromancer</code></p><p>I made a secure login panel for administrators to access.I might not be the best C programmer out there, but just in case, I decided to enable several standard security measures to prevent unauthorized access.</p><p>NOTE: Successful exploit attempts may take several tries, due to security measures.</p>",
+                "files": [
+                    "/files/cc6faca8f3c7e0076c3b3f9e7c97eef5/admin-panel.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6N30.ZhDIcw.GdIOeztEcaapkqefvl1sRDuDDtE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 4,
+                "name": "Admin Panel",
+                "points": 488,
+                "solves": 19
+            },
+            {
+                "category": "Pwn",
+                "description": "<p>Author: <code>nhwn</code></p><p>The ++ in C++ means extra security, right?</p>",
+                "files": [
+                    "/files/7ca4325ed047feb87417f63bed24dfb6/shrink.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6OX0.ZhDIcw.Jp3ksUvG8xEbp97oREsNgFBh_-c"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 6,
+                "name": "Shrink",
+                "points": 500,
+                "solves": 2
+            },
+            {
+                "category": "Pwn",
+                "description": "<p>Author: <code>nhwn</code></p><p><img alt=\"No syscalls?\" src=\"/files/img/l.png\"></img></p>",
+                "files": [
+                    "/files/55d468f0ba8388bce2becc0e6d98a6cc/confinement.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6OH0.ZhDIcw.MQVwAkPicJQvHgSa5rCzb6jod84"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 5,
+                "name": "Confinement",
+                "points": 499,
+                "solves": 7
+            },
+            {
+                "category": "Pwn",
+                "description": "<p>Author: <code>nhwn</code></p><p>Just be super-duper lucky!</p>",
+                "files": [
+                    "/files/99691108613f546a844b747b92543892/super-lucky.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6Nn0.ZhDIcw.e9vd3GuLu0BJPiskXfJhACs0lf0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "Super Lucky",
+                "points": 500,
+                "solves": 4
+            },
+            {
+                "category": "Pwn",
+                "description": "<p>Author: <code>nhwn</code></p><p>I added bounds checking to my array accesses, so good luck getting the flag now!</p>",
+                "files": [
+                    "/files/b8d115c9f5af624b6df84ef000728fff/index.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MzN9.ZhDIcw.mvFEMHriCl882flTec7cwYbLg8o"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 40,
+                "name": "Index",
+                "points": 500,
+                "solves": 3
+            },
+            {
+                "category": "Pwn",
+                "description": "<p>Author: <code>nhwn</code></p><p>5-byte shellcode!?</p>",
+                "files": [
+                    "/files/8bd0a6f7468f19eba87dc525ab4cee06/five.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MTB9.ZhDIcw.pNA6woUXYo651o5t9rSbwUik1Lo"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 7,
+                "name": "Five",
+                "points": 500,
+                "solves": 3
+            },
+            {
+                "category": "Pwn",
+                "description": "<p>Author: <code>nhwn</code></p><p>You get a <code>printf</code>! You get a <code>printf</code>! Everyone gets a <code>printf</code>!</p>",
+                "files": [
+                    "/files/49e789fad3ad33a413a13a8920bb5c27/rift.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MTF9.ZhDIcw.dI2OD3Fhp5Ho0MtATYKxhmYuSH0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 8,
+                "name": "Rift",
+                "points": 500,
+                "solves": 3
+            }
+        ],
+        "Reversing": [
+            {
+                "category": "Reversing",
+                "description": "<p>Author: <code>tacex</code></p><p>All these RE challenges are just too easy! So what happens when the binary fights back?</p>",
+                "files": [
+                    "/files/6187247884035b2e6bc6292ae593382a/resistant.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6Mzh9.ZhDIdA.pay9jxuYhCHjGqmTaC4V07ECfGg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 41,
+                "name": "Resistant",
+                "points": 498,
+                "solves": 9
+            },
+            {
+                "category": "Reversing",
+                "description": "<p>Author: <code>kit</code></p><p>We got <a href=\"https://tamuctf.com/5d6b407ee061e8696136d4dfd25f24b0/static/reveille-petter.zip\">this program</a> that has our school mascot, and it promises a flag. Can you get the flag?</p>",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 30,
+                "name": "Reveille Petter",
+                "points": 427,
+                "solves": 44
+            },
+            {
+                "category": "Reversing",
+                "description": "<p>Author: <code>nhwn</code></p><p>\"rev\" and \"pwn\" have a hamming distance of 5, so they're basically the same thing, right?</p>",
+                "files": [
+                    "/files/e3567afd791efa9dd4c82b16e55120d3/rop.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MjZ9.ZhDIdA.VO2sPNWTj8eXn9QnZ_bkVhrY16w"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 29,
+                "name": "ROP",
+                "points": 500,
+                "solves": 2
+            },
+            {
+                "category": "Reversing",
+                "description": "<p>Author: <code>nhwn</code></p><p>An overworked TAMUctf dev went rogue and started leaking flags on one of our internal networks! The service was last seen online at http://10.8.0.1:1337, but we can't seem to connect to the server for some reason. We've managed to recover the server binary and some of the source code; can you figure out a way to communicate with the server?</p><p>Once you've figured it out, use the provided OpenVPN configuration file to connect to the internal network.</p>",
+                "files": [
+                    "/files/72927f2ee5327e75b567a9ab5b2b4f43/deflect.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6Mzd9.ZhDIdA.hKQDJT9OdR0xT4oMeC-y5sObsLs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 32,
+                "name": "Deflect",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Reversing",
+                "description": "<p>Author: <code>Addison</code></p><p>Sometimes, it's nice to just listen and observe.</p>",
+                "files": [
+                    "/files/30633cb0b279eb5b6b4dd4ea14706a6f/enlightenment.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6Mjd9.ZhDIdA.4mFaeyWKjJmQGsgBXftbs6SChtc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 33,
+                "name": "Enlightenment",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Reversing",
+                "description": "<p>Author: <code>Addison</code></p><p>Run the lm3s6965 firmware. Press enter to let it know you're listening. Read the flag.</p>",
+                "files": [
+                    "/files/9751a44a0cfe8d3d59cb46c6ff18bf47/alien.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6Mjh9.ZhDIdA.XjC_YaqxfSmR5uyxkmmOf4vbwGc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 34,
+                "name": "Alien",
+                "points": 500,
+                "solves": 5
+            }
+        ],
+        "Sanity Check": [
+            {
+                "category": "Sanity Check",
+                "description": "Welcome to TAMUctf! Please read the <a href=\"/rules\">rules</a>, and join the <a href=\"https://discord.gg/mAFJYfBset\">Discord</a>. The flag can be found in #rules on the Discord.",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 42,
+                "name": "Welcome",
+                "points": 100,
+                "solves": 165
+            }
+        ],
+        "Web": [
+            {
+                "category": "Web",
+                "description": "<p>Author: <code>tacex</code></p><p>Well, I guess my crypto wasn't the best... This time I am using an HMAC to do integrity checking on the session. Good luck getting the flag now!</p><p>Note: This challenge is intended to be solved after <code>Flipped</code>, but it is not required.</p>",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 28,
+                "name": "Cracked",
+                "points": 499,
+                "solves": 7
+            },
+            {
+                "category": "Web",
+                "description": "<p>Author: <code>tacex</code></p><p>I'm not a big fan of Discord's new ToS changes, so I'm making my own crappy version of Discord that isn't overly invasive.</p>\r\n\r\n<a href=\"https://imposter.tamuctf.com\">https://imposter.tamuctf.com</a>",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 25,
+                "name": "Imposter",
+                "points": 496,
+                "solves": 12
+            },
+            {
+                "category": "Web",
+                "description": "<p>Author: <code>FlamePyromancer</code></p><p>Just made a new website. It's a work in progress, please don't judge...</p>",
+                "files": [
+                    "/files/f0d31b5480d5a3e31ea6a647bc08069c/cereal.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MjR9.ZhDIdA.FImai2sEtKU7T92F8vca0jnZomk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 24,
+                "name": "Cereal",
+                "points": 491,
+                "solves": 16
+            },
+            {
+                "category": "Web",
+                "description": "<p>Author: <code>bit</code></p><p>We discovered that this blog owner's email is <code>b8500763@gmail.com</code> through reconaissance. We do not have access to the password of the account, how could we login regardless?</p>",
+                "files": [
+                    "/files/94a512f933440ce53d27179cad078ebf/forgotten-password.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MjV9.ZhDIdA.DqabyRu0CzYvEhCSUfg_rOd4VNQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "Forgotten Password",
+                "points": 446,
+                "solves": 38
+            },
+            {
+                "category": "Web",
+                "description": "<p>Author: <code>tacex</code></p><p>So many challenges have plaintext cookies. Try breaking my encrypted cookies!</p>",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 26,
+                "name": "Flipped",
+                "points": 467,
+                "solves": 30
+            },
+            {
+                "category": "Web",
+                "description": "<p>Author: <code>tacex</code></p><p>I just released the newest version of my online image repository.</p><p>Patch notes:</p><ul><li>Added ability to upload via URL</li></ul><p>Note: The flag is located in <code>/tmp/</code>.</p>",
+                "files": [
+                    "/files/03425f39699c48a127286f506749583b/remote.zip?token=eyJ1c2VyX2lkIjo1NDIsInRlYW1faWQiOjMxMywiZmlsZV9pZCI6MjN9.ZhDIdA.aZESxMdn5MxpZmyxc3sWnVSw570"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 23,
+                "name": "Remote",
+                "points": 500,
+                "solves": 4
+            }
+        ]
+    },
+    "title": "TAMUctf 2024",
+    "url": "https://tamuctf.com"
+}
