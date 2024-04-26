@@ -1,0 +1,649 @@
+{
+    "data": {
+        "Crypto": [
+            {
+                "category": "Crypto",
+                "description": "I forgot my password to my own server! For some reason when I try to view my password in the database all I see is \"3588e5b98b1051ee6dc7748f13474987\". Please help me recover my password!\r\n\r\nFlag Format:\r\nCIT{password_here}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "Forgot My Password",
+                "points": 100,
+                "solves": 332
+            },
+            {
+                "category": "Crypto",
+                "description": "Find the flag.\r\n\r\nSU5FVkk2WlhHSlJXT1MyTUdORFZFSkJFTEJSRzRLVDU=\r\n\r\nFlag Format:\r\nCIT{example_flag}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "Very Based",
+                "points": 100,
+                "solves": 319
+            },
+            {
+                "category": "Crypto",
+                "description": "Decrypt the flag:\r\noTt74i!21/0;xLbk_Z3yPNdp|\r\n",
+                "files": [
+                    "/files/f279f6b6127543df7d424af1335b46b9/chosenone?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NDB9.ZiSiBA.Bri-Ioo8L_DpQTz_fsGzTt9wj6w"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 35,
+                "name": "Chosen One",
+                "points": 790,
+                "solves": 22
+            },
+            {
+                "category": "Crypto",
+                "description": "Find the flag.\r\n\r\nMSw1F1QMWRw3BFUrNChACFYtPxE=\r\n\r\nFlag Format:\r\nCIT{example_flag}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "You Know the Flag",
+                "points": 600,
+                "solves": 41
+            }
+        ],
+        "Forensics": [
+            {
+                "category": "Forensics",
+                "description": "Our intern strikes again! We told him to create an invoice for one of our sponsors, but he redacted all of the sponsors information so we cannot tell who we are sending it to. Can you recover the sponsor's name for us?\r\n\r\nUse underscores as spaces in the flag.",
+                "files": [
+                    "/files/3b29f5f490c84ff7f142bc7c868d3577/invoice.pdf?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NDd9.ZiSiBA.Hi_4JVsspfnpgSkz3tM5kk6d-Fs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 43,
+                "name": "Invoice",
+                "points": 100,
+                "solves": 271
+            },
+            {
+                "category": "Forensics",
+                "description": "Find the flag.\r\n\r\nFlag Format:\r\nCIT{example_flag}",
+                "files": [
+                    "/files/7b816d5fe78379cd54b3d1cae70bd944/beepboop.wav?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6MjZ9.ZiSiBA.mSxLXkl-Fzyt9YGPwDmBK0GvIaU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 20,
+                "name": "Beep Boop",
+                "points": 100,
+                "solves": 185
+            },
+            {
+                "category": "Forensics",
+                "description": "We told the intern to hide the flag within this ZIP. Did he listen?\r\n\r\nDownload corresponding file [here](https://mega.nz/file/YKtXnRIZ#kTvK7b-zOVa5rbR0mf2-rgi04kRKccxGoPQprNDHgVE)\r\n\r\n**WARNING:** Windows was being weird with the file so you may not be able to solve this on there. Also, it is NOT a ZIP bomb :) \r\n\r\nYou will know when you found the flag.\r\n\r\nFormat: CIT{example_flag}\r\n\r\n`MD5: cf8a1ce26c7981d561ea2d8d661ee208`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 47,
+                "name": "Not a ZIP Bomb",
+                "points": 630,
+                "solves": 38
+            },
+            {
+                "category": "Forensics",
+                "description": "Find the flag.\r\n\r\nFlag Format:\r\nCIT{example_flag}",
+                "files": [
+                    "/files/006a0b4cf8a944a192f6cdf8b56090bd/secret_square.png?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6MjV9.ZiSiBA.EbFbC32HKd8nu2af1pXBHOSxagA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 16,
+                "name": "Secret Square",
+                "points": 860,
+                "solves": 15
+            },
+            {
+                "category": "Forensics",
+                "description": "Find the flag.\r\n\r\nFlag Format:\r\nCIT{example_flag}",
+                "files": [
+                    "/files/3543fe4747e6099dd25e4b49959f06a7/sniffsniff.pcapng?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NTF9.ZiSiBA.Bp8HWXcGBVz-B2ryBTJ8IaqUWFE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 50,
+                "name": "Sniff Sniff",
+                "points": 270,
+                "solves": 74
+            }
+        ],
+        "Misc": [
+            {
+                "category": "Misc",
+                "description": "I somehow lost one of my flags, I'm sure it's around here somewhere. Can you please help me find it?",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 37,
+                "name": "Lost Flag",
+                "points": 100,
+                "solves": 311
+            },
+            {
+                "category": "Misc",
+                "description": "Successfully run [PonyOS](https://www.ponyos.org/) and make the pony say your team name. Reach out to **boom** in **Discord DMs** with a screenshot for the flag when done.\r\n\r\nBonus points if you reformat your drive with it and can show us!",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 48,
+                "name": "PonyOS",
+                "points": 590,
+                "solves": 42
+            },
+            {
+                "category": "Misc",
+                "description": "You know that one movie with the boy from the pool? I remember I used to eat Cereal when I'd watch that movie. Good times.\r\n\r\nGo to 58:38 and tell me what the poster on the wall says.\r\n\r\nPlease underscores as spaces - CIT{flag_format}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "What's that one movie",
+                "points": 750,
+                "solves": 26
+            },
+            {
+                "category": "Misc",
+                "description": "I leave you with this ciphertext:\r\n\r\n**43qazxd 567tfc 098uhbjkl**\r\n\r\nHave fun!",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 36,
+                "name": "The numbers Mason!",
+                "points": 890,
+                "solves": 12
+            },
+            {
+                "category": "Misc",
+                "description": "Networking is so much fun!\r\n\r\nAdd someone else from another team on LinkedIn, converse with them about CTF@CIT in LinkedIn DMs, and then message proof to **boom** in **Discord DMs** for the flag!",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 44,
+                "name": "Networking",
+                "points": 600,
+                "solves": 41
+            },
+            {
+                "category": "Misc",
+                "description": "Find the flag.\r\n\r\nFlag Format:\r\nCIT{example_flag}",
+                "files": [
+                    "/files/24b1ac667d8e20579aba2a232bdda368/keeptrying?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NDJ9.ZiSiBA.ovm5obpaHgOlfUAFnZtiZeOHaXg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 24,
+                "name": "Keep Trying",
+                "points": 950,
+                "solves": 6
+            },
+            {
+                "category": "Misc",
+                "description": "In the realm where echoes of binary whisper,\r\nAmidst the void where zeros and ones shimmer.\r\nIn cryptic dance, symbols intertwine,\r\nA silent language, beyond the confines of time.\r\n\r\nWithin the matrix, where patterns unfurl,\r\nInscribed in digits, a cosmic swirl.\r\nA symphony of codes, in spectral hues,\r\nThe unseen tapestry, where truth imbues.\r\n\r\nThrough labyrinthine corridors, we tread,\r\nIn search of meanings, in words unsaid.\r\nA ciphered verse, in shadows cast,\r\nIn the alchemy of numbers, secrets amassed.\r\n\r\nEach stroke of key, a quantum leap,\r\nIn the quantum dance, where dreams seep.\r\nEncoded echoes, in pixelated trance,\r\nA cosmic ballet, in the cosmic expanse.\r\n\r\nYet amidst this cryptic dance of light,\r\nLies a quest, in the depths of night.\r\nA file named \"flag.txt,\" a beacon bright,\r\nGuiding_seekers_through_the_cryptic_flight.\r\n\r\nIn the labyrinth of codes, where shadows roam,\r\nThe flag awaits, in its hidden home.\r\nUnlock_the_secrets, unravel the maze,\r\nAnd_claim_the_prize, in the_cyberspace_haze.\r\n\r\nSo let us delve into the depths unknown,\r\nIn the search for the flag, where realms are shown.\r\nFor_in_the_cryptic_verse, we find our grace,\r\nIn the enigmatic embrace, of cyberspace.\r\n\r\n\r\nFlag Format: CIT{flag_format}",
+                "files": [
+                    "/files/d63d39b01849b2761a97ee81c1a1abdb/flag.txt?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6MjR9.ZiSiBQ.23hoYzWqRY_O7mb-TJXTZ-rY7Fo"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 14,
+                "name": "Tables Tables Tables",
+                "points": 830,
+                "solves": 18
+            },
+            {
+                "category": "Misc",
+                "description": "Greg is gatkeeping the flag from me, maybe you can convince him to give it to you.\r\n\r\nhttp://167.71.105.82:5000/",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 62,
+                "name": "Gaslighting",
+                "points": 710,
+                "solves": 30
+            },
+            {
+                "category": "Misc",
+                "description": "They say something about data coming in \"blocks.\" Whatever that means. I was thinking Minecraft but idk.. You go find out!\r\n\r\n1.20.4\r\n\r\nFlag format: CIT{example_flag}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 51,
+                "name": "Data Blocks",
+                "points": 900,
+                "solves": 11
+            }
+        ],
+        "OSINT": [
+            {
+                "category": "OSINT",
+                "description": "Hi, my name is Amos. I'm a big fan of the University of New Haven Chargers, and I just learned about this new social media called X! Pretty dumb name. Find my handle for some points.\r\n\r\nFlag format: CIT{@xxxxx}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 30,
+                "name": "Stalking 101",
+                "points": 480,
+                "solves": 53
+            },
+            {
+                "category": "OSINT",
+                "description": "Beep boop I'm a robot",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 26,
+                "name": "Robots",
+                "points": 100,
+                "solves": 255
+            },
+            {
+                "category": "OSINT",
+                "description": "When was this song leaked?\r\n\r\nFlag format is: CIT{MM/DD/YYYY}",
+                "files": [
+                    "/files/fbb07d711a798dbb6eaed523ee857542/leaked.mp3?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6MzN9.ZiSiBA.U4mn6r1y7_Ba3BRFMUYyds32xO4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "Leaked",
+                "points": 480,
+                "solves": 53
+            },
+            {
+                "category": "OSINT",
+                "description": "**Which individual had these items in their home office in July of 2016?**\r\n\r\nPlease use underscores for spaces to when submitting the flag\r\n\r\nWe'll give you 20 extra points if you send us the video link in discord lol\r\n\r\nFlag format: CIT{first_last}",
+                "files": [
+                    "/files/bf48952be15082a3c9a42f3720c26424/office.PNG?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6MjJ9.ZiSiBQ.tsNjpFuVWStevq_hhJCBL623Xhs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 11,
+                "name": "HE IS HIM!",
+                "points": 870,
+                "solves": 14
+            },
+            {
+                "category": "OSINT",
+                "description": "What is the name of road this photo was taken on?\r\n\r\nFlag format is just the name of the road without road, street, etc\r\nExample: Main St. would be \"CIT{main}\" (this is not the flag)",
+                "files": [
+                    "/files/e1a38ec2be9d1f958d9d60bf9413d860/trucker.PNG?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6MjF9.ZiSiBA.JORxm5juIG4cNXUjVLZXwN593-c"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 8,
+                "name": "I'm as cold as a wise man",
+                "points": 100,
+                "solves": 233
+            },
+            {
+                "category": "OSINT",
+                "description": "What is the name of the town this photo was taken in?\r\n\r\nPlease provide the full name of the town :)\r\n\r\nFormat: CIT{town}",
+                "files": [
+                    "/files/71b0399df6a7af17c02d1ec58ae41070/im_sorry.PNG?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NDR9.ZiSiBA.SbkLeUxzoYSEwDoxrJKqw2QRWgk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "I'm not typing all that bro",
+                "points": 470,
+                "solves": 54
+            },
+            {
+                "category": "OSINT",
+                "description": "I just got off a 144 hour shift in the fields doing some tig welding. You wouldn't really understand. Anyways, I found a picture of this welding machine online. I love me some old welding machines so I'm thinking about buying it. However, it would need some parts.\r\n\r\nCan you find me an Ebay listing selling some parts for a machine like this? I really just need to know what town is north from a certain seller's location so I can go pick up some parts for it.\r\n\r\nFormat: CIT{townname}",
+                "files": [
+                    "/files/760171806a620ea78eac87e4c53b2107/you_got_soft_hands.jpg?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6MjN9.ZiSiBA.eX8aWIIa3fgJfLZmt6H1-W95dIU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 12,
+                "name": "Pipeline welders be like",
+                "points": 890,
+                "solves": 12
+            }
+        ],
+        "Pwn": [
+            {
+                "category": "Pwn",
+                "description": "I was just reading about the Linux SystemV ABI, and realized that I forgot I have a dance with my favorite niche internet microcelebrity in 30 minutes!\r\n\r\ncan you teach me how to Texas two-step in time so I can show them I mean business?\r\n\r\nby **nop.so**\r\n",
+                "files": [
+                    "/files/e458731eb9be8c84278929d5ae387b80/twostep?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NTl9.ZiSiBQ.nR-LmGZhUdigteTKw8TfJuEXfko"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 58,
+                "name": "twostep",
+                "points": 870,
+                "solves": 14
+            },
+            {
+                "category": "Pwn",
+                "description": "what if we went backwards..... really really fast....\r\n\r\nby **nop.so**\r\n",
+                "files": [
+                    "/files/70df4ce7f307cce4c240ca83a22d7581/ezpz?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NTZ9.ZiSiBA.K5x71-mxbwINUdyzFS24dNQ2cWI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 55,
+                "name": "ezpz",
+                "points": 740,
+                "solves": 27
+            },
+            {
+                "category": "Pwn",
+                "description": "we found a flash drive going through my late grandma's stuff. the only thing on it was this weird binary! sure hope there's nothing insecure about it :3\r\n\r\nby **nop.so**\r\n",
+                "files": [
+                    "/files/6dc3a7491c533c5d4487ff74b61b1751/really_really_old?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NTV9.ZiSiBQ.uDiBUoUpLoH6K8wSf-aQ71Q5FVM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 56,
+                "name": "really really old",
+                "points": 820,
+                "solves": 19
+            },
+            {
+                "category": "Pwn",
+                "description": "reject modernity, return to monke\r\n\r\nby **nop.so**\r\n",
+                "files": [
+                    "/files/edb552e3ee996aab70daacd0a8b56355/ret2monke?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NTd9.ZiSiBQ.TkqsBLSL5xXIgdjZocGAYWFcJYA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 57,
+                "name": "ret2monke",
+                "points": 760,
+                "solves": 25
+            },
+            {
+                "category": "Pwn",
+                "description": "I don't even know what to do anymore. I was Fortnite last night when I heard an steady dripping noise coming from my basement. Turns out, there's a leak in my faucet, and I spent all my money commissioning meowskulls fanart!\r\n\r\nfix it, would you?\r\n\r\nby **nop.so**\r\n",
+                "files": [
+                    "/files/0521903b458b426435974d2343c2e008/leaky_faucet?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NjB9.ZiSiBQ.fxWZ9gkXZsflpm6KKGXP2Tn9zMo"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 59,
+                "name": "leaky faucet",
+                "points": 980,
+                "solves": 3
+            }
+        ],
+        "Reverse Engineering": [
+            {
+                "category": "Reverse Engineering",
+                "description": "Find the flag.\r\n\r\nFlag Format:\r\nCIT{example_flag}",
+                "files": [
+                    "/files/aed27afd3ecf4c4d23d0d59e2f8144ae/strungalong?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6MzR9.ZiSiBQ.F_r5QLr-r6P7AsyVfkTY1eIqOvQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 25,
+                "name": "Strung Along",
+                "points": 100,
+                "solves": 171
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Find the flag.\r\n\r\nFlag Format:\r\nCIT{example_flag}",
+                "files": [
+                    "/files/227ae15aefe5a3cbc0d964671534bfdb/readmymind?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NTB9.ZiSiBQ.wFUiCY4u-TzbxSxoY_tVvgmq044"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 45,
+                "name": "Read my Mind",
+                "points": 950,
+                "solves": 6
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Winlicense is way too expensive, hopefully my license system will be good enough!\r\n\r\nFlag Format:\r\nCIT{example_flag}",
+                "files": [
+                    "/files/995c3bda77bc310a084df2624c156873/babysfirstcrackme?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6Mzh9.ZiSiBQ.4WPkvFi53NCL-k2X6fzT7v4zYfY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 28,
+                "name": "Baby's First Crackme",
+                "points": 820,
+                "solves": 19
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Find the flag.\r\n\r\nFlag Format:\r\nCIT{example_flag}\r\n",
+                "files": [
+                    "/files/cb07f26775432dd1c1c16ebfb3cae5ff/tilted?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NDN9.ZiSiBQ.ZEaKIpaOkNu5djnTAGzEKJvu1IE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 23,
+                "name": "Tilted",
+                "points": 890,
+                "solves": 12
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Find the flag.\r\n\r\nFlag Format:\r\nCIT{example_flag}",
+                "files": [
+                    "/files/4b0a891ebfde1735dad1fc1a60d5efff/meta.lua?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6MzJ9.ZiSiBQ.qUdaqs9tY_OSK50Dow6FEcYoIfk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 21,
+                "name": "Meta",
+                "points": 1000,
+                "solves": 1
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Your friend left behind a secret message for you to decode. However, they didn't know how to use git and sent you the wrong revision of their decoder program! Oh well, you're up for the challenge anyways...\r\n\r\nFind and extract the hidden flag by reverse engineering the stego binary and encoded image file.\r\n\r\nFlag Format: CIT{flag}\r\n",
+                "files": [
+                    "/files/35d7c89d81bcc69830f2122e0a7256f4/image.jpeg.encoded?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NTJ9.ZiSiBQ.sAdl1IxdL-ezCo3hVilwThkxr6c",
+                    "/files/1ca95b6fd65d908c7d408b9f027fdfd3/stego?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NTN9.ZiSiBQ.Pa1wbcaGVbDOB8YjOwIxqQGmegY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 60,
+                "name": "Pixel Pursuit",
+                "points": 990,
+                "solves": 2
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Find the flag.",
+                "files": [
+                    "/files/59c3b3888b0125a8e9c28fa2bc314d99/magic?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NDh9.ZiSiBQ.qKsB7L-7GVl_am_doeMAGw3JuvM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 46,
+                "name": "Magic",
+                "points": 960,
+                "solves": 5
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "Okay, so some hacker named 4chan kept cracking my program and posting it on the interweb. I do not apprecieate this behaviour so I have upgraded my license system. Hopefully this will stop 4chan from hacking me.\r\n\r\nFlag Format:\r\nCIT{example_flag}\r\n",
+                "files": [
+                    "/files/847969d8bd46ab58e7958295eb238e1b/babyssecondcrackme?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6Mzl9.ZiSiBQ.40fmhNKueNa6x62XbSmBZDvnozM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 29,
+                "name": "Baby's Second Crackme",
+                "points": 860,
+                "solves": 15
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "You've stumbled upon a mysterious binary called maze. It seems to be some kind of maze-solving program, but its inner workings are obscured. Your task is to reverse engineer the binary to understand how it works and find the hidden flag.\r\n\r\nFind and extract the hidden flag by reverse engineering the maze binary.\r\n\r\nFlag Format: CIT{flag}",
+                "files": [
+                    "/files/6946875a5df59ae99421410d676e9ec4/maze?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NTR9.ZiSiBQ._Xfts7g4QnkLg2jaogPI-nAV6Uc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 61,
+                "name": "Maze",
+                "points": 990,
+                "solves": 2
+            }
+        ],
+        "Steganography": [
+            {
+                "category": "Steganography",
+                "description": "So we just hired an intern for our CTF. He wanted to make some challenges, but we told him to just make us a flyer to keep him occupied. Surely he didn't put a flag in here or else he's getting fired. Let us know..",
+                "files": [
+                    "/files/097c7a82def3e495081a74b3c3abe65b/intern.png?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NDZ9.ZiSiBQ.yZZXhJGuVyb7o-i2eE0hrhGKAzI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 39,
+                "name": "Intern",
+                "points": 100,
+                "solves": 268
+            },
+            {
+                "category": "Steganography",
+                "description": "Embrace the dark, let the beast within rise,\r\nA journey of strength, beneath the moon's wise eyes.\r\nIn silence and shadow, your true self you'll find, a beast of steg, untamed and unconfined. - Sensei\r\n\r\nFlag Format: CIT{example_flag}",
+                "files": [
+                    "/files/f5b4742e80efbe9a6643b97f1c29e470/the-art-of-the-beast.png?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6NDV9.ZiSiBQ.-RmDZ50VgveDVaiQAOrGJrM_V9k"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 38,
+                "name": "The Art of the Beast",
+                "points": 160,
+                "solves": 85
+            },
+            {
+                "category": "Steganography",
+                "description": "I LOVE PRIME SO MUCH META MOON IS SO GOOD ITS SO FULFILLING MMMMM TASTY!",
+                "files": [
+                    "/files/4b54dcd520659344794e32bdd207eeef/meta-moon.jpg?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6Mzd9.ZiSiBQ.J5IbvyvYqDsYCAH6OQqZfgzd9Uk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "I LOVE PRIME!",
+                "points": 100,
+                "solves": 340
+            },
+            {
+                "category": "Steganography",
+                "description": "What does Fortnite have to do with wav files? I dunno..\r\n\r\nUse underscores as spaces in flag. Ex: CIT{a_phrase_with_spaces}",
+                "files": [
+                    "/files/0e58f11942025edb5d55365e82a90c19/chug_jug.wav?token=eyJ1c2VyX2lkIjo2NzIsInRlYW1faWQiOjQ2MCwiZmlsZV9pZCI6MTd9.ZiSiBQ.enJLEFbLukZmfhFdtyU5cM7rzEo"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "Drop me a chug jug!",
+                "points": 100,
+                "solves": 192
+            }
+        ],
+        "Web": [
+            {
+                "category": "Web",
+                "description": "I can't see it. Can you?\r\n\r\nFlag format: CIT{example_flag)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 49,
+                "name": "I can't see it",
+                "points": 100,
+                "solves": 117
+            },
+            {
+                "category": "Web",
+                "description": "So it seems like our intern got a little pissed off we bossed him around and he pwned our website and is now holding us for ransom. We didn't have the budget for backups so we're kind of screwed.\r\n\r\nI remember one of our developers had a page he was using to test some backend stuff. Something about finding \"bugs\" in the cloud? Not really sure what he meant as clouds don't have bugs inside of them. Weird.\r\n\r\nCheck it out and see if you can recover anything that might let us back in!\r\n\r\nFlag format: CIT{example_flag}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 42,
+                "name": "Intern Retaliation Arc",
+                "points": 980,
+                "solves": 3
+            }
+        ],
+        "Welcome!": [
+            {
+                "category": "Welcome!",
+                "description": "The flag format for all challenges is: **CIT{FLAG}**\r\n\r\nIf any challenges do not follow that format, we will specify that in the challenge description.\r\n\r\nTry this flag here: **CIT{F1rst_Fl4g}**",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 5,
+                "name": "Welcome to the first CTF@CIT",
+                "points": 10,
+                "solves": 437
+            },
+            {
+                "category": "Welcome!",
+                "description": "Make sure you are in our Discord to stay updated!\r\n\r\nhttps://discord.gg/F76hFHCC8M\r\n\r\nWe'll be posting competition updates here. If any participants have any questions regarding the competition, you can ask staff in Discord too.\r\n\r\nFind the flag to this challenge somewhere in our Discord :)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 7,
+                "name": "Discord",
+                "points": 10,
+                "solves": 287
+            }
+        ]
+    },
+    "title": "CTF@CIT",
+    "url": "https://ctf.cyber-cit.club"
+}

@@ -1,0 +1,453 @@
+{
+    "data": {
+        "Binary Exploitation": [
+            {
+                "category": "Binary Exploitation",
+                "description": "pr0v3  i7  :-p\r\n\r\nRemote instance <br>\r\n`nc chall.ycfteam.in 5555`",
+                "files": [
+                    "/files/9053b4b29794f769b97a261764074973/main?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjh9.ZiP0Ow.4S9ZL9kW3P_-RKtao8caBdHKhg4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 13,
+                "name": "Kosandra",
+                "points": 500,
+                "solves": 13
+            },
+            {
+                "category": "Binary Exploitation",
+                "description": "y0u   h4v3   4ll   7h3     pr3vill493S    3sc4p3     i7\r\n\r\nRemote instance <br>\r\n`nc chall.ycfteam.in 6666`",
+                "files": [
+                    "/files/7781ad750acad084c443ae438da736da/main?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjl9.ZiP0PA.O0XkJnym3uVyvEiymkSRm8doAJE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "freedom",
+                "points": 400,
+                "solves": 13
+            },
+            {
+                "category": "Binary Exploitation",
+                "description": "I know I know... Just like the title, the challenge doesn't really make much sense. It is what it is though. You still gotta solve it...Good Luck!\r\n\r\nRemote Instance:\r\n\r\n`nc chall.ycfteam.in 58450`",
+                "files": [
+                    "/files/180f60d03ef3ec2a1ec0c544a7cab12f/challenge?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjExfQ.ZiP0Ow.tJFCmIyxSYoobV6DZz758drmvh0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "DEADFOOD",
+                "points": 350,
+                "solves": 25
+            },
+            {
+                "category": "Binary Exploitation",
+                "description": "Welcome to \"\"The Guard\"\", where a vigilant sentinel stands between you and victory. Your challenge: outsmart the digital guardian using binary exploitation. But be cautious of its watchful eye and cunning defenses. Will you bypass the guard and claim triumph, or will you falter in your attempt? It's time to prove your mettle.\r\n\r\nRemote Instance:\r\n\r\n`nc chall.ycfteam.in 32175`",
+                "files": [
+                    "/files/e724ce54408dd870cc2290794ac59a43/challenge?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjN9.ZiP0PA.2b_NbCotp02Gq5i2uqLmK9-kF_s"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "The Guard",
+                "points": 600,
+                "solves": 13
+            }
+        ],
+        "Cryptography": [
+            {
+                "category": "Cryptography",
+                "description": "We communicate using two files at YCF for security reasons.",
+                "files": [
+                    "/files/f54504399aedb34530dd91d6dd4f2e40/flag.ycf.enc?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjIxfQ.ZiP0Ow.lnNWwjVSDp6ssJotfFLRqOSgBUs",
+                    "/files/d97f2cc84255f984a0bedbb5f86cd1a5/key.ycf?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjIyfQ.ZiP0Ow.iGuIbJvA5x_y25O-logToeqHsN4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 35,
+                "name": "Xtreamly ORbital",
+                "points": 1000,
+                "solves": 9
+            },
+            {
+                "category": "Cryptography",
+                "description": "Just answer me this simple question:\r\nWhat is 2 x 2 x 2 x 2 = ?\r\n\r\nAfter you get your answer, go ahead and decrypt the cipher I gave you.",
+                "files": [
+                    "/files/b2dca29152154f22c2a9bed61f18d7fa/cipher.txt?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjE2fQ.ZiP0PA.18JWMtJAJ9XHRZ2iZAXqRIYbB-8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 30,
+                "name": "2^4=",
+                "points": 150,
+                "solves": 31
+            },
+            {
+                "category": "Cryptography",
+                "description": "The famous cryptographic algorithm devised by Rivest, Adleman and Shamir can become so complicated to crack if manipulated/altered properly. Think you know it so well? Go ahead and try to solve this challenge!\r\n\r\nRemote Instance:\r\n\r\n`nc chall.ycfteam.in 21720`",
+                "files": [
+                    "/files/fc4c128b23ac586aace8da04eea64c15/chall.py?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjV9.ZiP0PA.6x0C8TYqrxeWxp6v3idKJac20bo"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 5,
+                "name": "RAS",
+                "points": 700,
+                "solves": 10
+            }
+        ],
+        "Forensics": [
+            {
+                "category": "Forensics",
+                "description": "\"In the land of echoes, where whispers roam, A tale of clues, finds its home. Laughter and tears, merge in the air, In echoes' parody, stories flare.\r\nFootsteps of past, meet those of now, In the echo's chamber, they take a bow. Love's sweet whispers, pain's bitter cry, All in the echoes, they do lie.\r\nListen close, and you will find, Clues and whispers, intertwined. In the echo's game, secrets unfurl, A world of mysteries, for all to swirl.\"\r\n\r\nLink: https://drive.google.com/file/d/1GPdculNuobTkrOPRX898Z69_WkPDWEUi/view",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 44,
+                "name": "Echos Parody",
+                "points": 300,
+                "solves": 19
+            },
+            {
+                "category": "Forensics",
+                "description": "A message just arrived from outer space.\r\n\r\nLink: https://drive.google.com/file/d/1zzN8NLq76aiENSqfbh7Y312M9gi2G0ga/view",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 43,
+                "name": "Arecibo message",
+                "points": 300,
+                "solves": 15
+            }
+        ],
+        "Miscellaneous": [
+            {
+                "category": "Miscellaneous",
+                "description": "Join our discord server and find the hidden flag\r\n\r\nhttps://discord.gg/cy5kp2RmEC\r\n\r\nFlag format: `NexusCTF{}`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 38,
+                "name": "Sanity Check",
+                "points": 50,
+                "solves": 170
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "My friend hosted the website in his own system.\r\n\r\n`http://chall.ycfteam.in:5252`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 33,
+                "name": "Home Sweet Home",
+                "points": 500,
+                "solves": 6
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "Hold my flag!\r\n\r\n'YCF'\r\n\r\nFlag format: `NexusCTF{}`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 39,
+                "name": "Welcome flag",
+                "points": 50,
+                "solves": 311
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "Prove your mettle and worth as you attempt to escape from the very lair where the bloodthirsty beast lurks!\r\n\r\nRemote Instance:\r\n\r\n`nc chall.ycfteam.in 45185`",
+                "files": [
+                    "/files/bb16588b247de8fa655ce2ce23251d4b/chall.py?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjJ9.ZiP0PA.mG6OEAr4jjPm9FOVSRAT1p4ncjU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "Escape",
+                "points": 400,
+                "solves": 57
+            },
+            {
+                "category": "Miscellaneous",
+                "description": "My friend sent me an audio file which just does not make any sense to me...Perhaps you can help me understand it?",
+                "files": [
+                    "/files/f4be7a33bffa82a55cc8e9f6fbafab59/dits_n_dahs.wav?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjE4fQ.ZiP0PA.WMilwABp8AhR0XGlQxNE5-XNDJ4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 32,
+                "name": "Dits and Dahs",
+                "points": 100,
+                "solves": 195
+            }
+        ],
+        "OSINT": [
+            {
+                "category": "OSINT",
+                "description": "This was where it all started. The first of many to come.\r\n\r\nFlag Format: NexusCTF{}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 37,
+                "name": "Vital Information Resources under Siege",
+                "points": 100,
+                "solves": 14
+            },
+            {
+                "category": "OSINT",
+                "description": "First annoucement of Nexus CTF\r\n\r\nFlag format: `NexusCTF{}`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 40,
+                "name": "Announcement",
+                "points": 100,
+                "solves": 49
+            },
+            {
+                "category": "OSINT",
+                "description": "Find out and report to me what Jeffery_335 has been up to. I hope he isn't causing any mischief.",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "Jeffery",
+                "points": 500,
+                "solves": 61
+            },
+            {
+                "category": "OSINT",
+                "description": "On the 3rd of October 2019, Journalist Kinzer did a presentation regarding an infamous Project. Your mission should you choose to accept it is to find out the name of the Legislative Counsel of that Project. Obtain the name and claim your flag!\r\n\r\nFlag Format: NexusCTF{FirstName_LastName}\r\n\r\nEg. NexusCTF{Christopher_Columbus}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 36,
+                "name": "The Infamous Project",
+                "points": 400,
+                "solves": 99
+            }
+        ],
+        "Reverse Engineering": [
+            {
+                "category": "Reverse Engineering",
+                "description": "Go at the Address",
+                "files": [
+                    "/files/9d76a9e40259098f5ffe953202bbed05/main?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjIzfQ.ZiP0PA.aSejM6wYhbPSZadPeZyjI3_Lhoo"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "Starting Point",
+                "points": 150,
+                "solves": 22
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "find the value\r\n\r\nRemote Instance\r\n`nc chall.ycfteam.in 7777`",
+                "files": [
+                    "/files/0c823c0175a6a3172fa8bef269d174ee/main?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjEyfQ.ZiP0PA.JP4ZbYqSQaV8HZKENgKoONaG_vk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 20,
+                "name": "Baby Elf 01",
+                "points": 200,
+                "solves": 68
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "This wont be easy\r\n\r\nRemote instance\r\n`nc chall.ycfteam.in 8888`",
+                "files": [
+                    "/files/3485a30997b4f9204120b8778f5577f5/main?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjE0fQ.ZiP0PA.QQUDQxA7OD4YHrWYrS93lQGV46M"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 21,
+                "name": "Baby Elf 02",
+                "points": 400,
+                "solves": 36
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "work hard you will get success belive me ",
+                "files": [
+                    "/files/3e57f166e9678f0b6c49b67c024eb16b/main?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjE5fQ.ZiP0PA.jTSf4qbDgk8ZDnX4bRDWnbfPwF0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "MockingBird",
+                "points": 400,
+                "solves": 26
+            }
+        ],
+        "Steganography": [
+            {
+                "category": "Steganography",
+                "description": "Wait is John Cena really invisible? Can we actually not see him?? Why does he keep saying that?!",
+                "files": [
+                    "/files/c1440ad335e873fc527741fcd25cd5be/chall.jpg?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjE3fQ.ZiP0PA.XaxRchJGJTr0pJEysUuegCFSK6I"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 31,
+                "name": "You Can't See Me",
+                "points": 150,
+                "solves": 158
+            },
+            {
+                "category": "Steganography",
+                "description": "i am in front of your nose XD",
+                "files": [
+                    "/files/39d7efbc2ba8e27b554ce8f306e63315/FindMe.jpeg?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjEwfQ.ZiP0PA.8lh95MDcnXFTGhcdHlrEAuKAv48"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "Blind",
+                "points": 500,
+                "solves": 34
+            },
+            {
+                "category": "Steganography",
+                "description": "Can you tell me how significant this bit of music really is??",
+                "files": [
+                    "/files/c91842b2251ca623d1afd5a33f929cbf/challenge?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjZ9.ZiP0PA.2G0nJfwUcluRO-Fz4Ivc1oALnNU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 8,
+                "name": "Insignificant",
+                "points": 300,
+                "solves": 10
+            },
+            {
+                "category": "Steganography",
+                "description": "Are you aware of these terms related to the vast field of Computer Science Engineering??",
+                "files": [
+                    "/files/0639ddbec2363cf2d0e2eb2c962ea733/the_cs_dictionary.txt?token=eyJ1c2VyX2lkIjoxMjg3LCJ0ZWFtX2lkIjo4MzIsImZpbGVfaWQiOjR9.ZiP0PA.IojLA_Y-8pNPtl1PV4W_Te6bv5s"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 4,
+                "name": "The CS Dictionary",
+                "points": 500,
+                "solves": 12
+            }
+        ],
+        "Web Security": [
+            {
+                "category": "Web Security",
+                "description": "My friend is a secret robot agent..\r\n\r\n`http://chall.ycfteam.in:1337`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "Nerd Robot",
+                "points": 100,
+                "solves": 198
+            },
+            {
+                "category": "Web Security",
+                "description": " Legends tell of a hidden castle guarded by a peculiar locksmith.\r\n Craft the perfect yarn and unlock the secrets within! (P.S. He seems to have a lot to say about overly long stories...)\r\n \r\n` http://chall.ycfteam.in:5551/login.html`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 23,
+                "name": "The Loquacious Locksmith",
+                "points": 500,
+                "solves": 40
+            },
+            {
+                "category": "Web Security",
+                "description": "Dive into the heart of our virtual fortress and test your prowess by gaining access to the hidden chamber. The challenge awaits those brave enough to navigate through cunningly crafted defenses. Unravel the secret concealed within and unlock the pathway to exclusive privileges. Do you have what it takes to breach the fortified wall and claim your place among the elite?\r\n\r\nAccess the Website here:\r\n\r\n`http://chall.ycfteam.in:7550/`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "Access Denied",
+                "points": 700,
+                "solves": 1
+            },
+            {
+                "category": "Web Security",
+                "description": "Are you on Santa's Naughty list or were you able to make it to his Nice list?\r\n\r\nIf you want to receive gifts from him, your name is gonna have to be present in his Nice list :)\r\n\r\nNote: Bruteforcing is not required!\r\n\r\nAccess the website here:\r\n\r\n`http://45.42.40.244:8550/`\r\n",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 29,
+                "name": "Santa Claus",
+                "points": 600,
+                "solves": 4
+            },
+            {
+                "category": "Web Security",
+                "description": "Choose and pick your favourite model/brand for either a Bike or a Car!\r\n\r\nAccess the Website here:\r\n\r\n`http://chall.ycfteam.in:9050/`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 6,
+                "name": "Model Selector",
+                "points": 800,
+                "solves": 0
+            },
+            {
+                "category": "Web Security",
+                "description": "`A`bsolutely `R`idiculous, `I`ncredibly `A`musing `2`!\r\n\r\n`http://chall.ycfteam.in:6800/jsonrpc`\r\n",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 28,
+                "name": "Absolutely Ridiculous and Incredibly Amusing 2",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Web Security",
+                "description": "Admin's malfunctioning login system seems obsessed with monologues! It craves a long speech, but whispers of a hidden treasure (perhaps a /flag) lie beyond.  Can you appease the machine's theatrical desires and claim the reward? Remember, the best performances leave the audience wanting more...\r\n\r\n`http://chall.ycfteam.in:5552/login.html`",
+                "files": [],
+                "hints": [
+                    "'The Loquacious Locksmith'\n\nDid you really solve this challenge?"
+                ],
+                "id": 26,
+                "name": "The Monologue Machine",
+                "points": 800,
+                "solves": 0
+            }
+        ]
+    },
+    "title": "Nexus CTF",
+    "url": "https://nexusctf.ycfteam.in"
+}

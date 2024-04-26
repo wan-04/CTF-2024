@@ -1,0 +1,456 @@
+{
+    "data": {
+        "Welcome": [
+            {
+                "category": "Welcome",
+                "description": "[Rebel](https://www.youtube.com/watch?v=oMmiNeVrbDk), Welcome to Space Heroes 2024\r\n\r\nJoin us on ~~the Darkside~~ [Discord](https://discord.gg/Af5BMhkf). \r\n\r\n[.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 98,
+                "name": "I rebel",
+                "points": 100,
+                "solves": 270
+            }
+        ],
+        "crypto": [
+            {
+                "category": "crypto",
+                "description": "We have reason to believe that Mortimer is rebuilding the Armageddon Machine.  We managed to intercept a message sent from his personal computer.  After consulting with the Oracle, we were only able to discover two things:\r\n\r\n- The tool used to encrypt messages (`encrypt.py`)\r\n- All messages sent by Mortimer begin with `Mortimer_McMire:`\r\n\r\nCan you decrypt the message?\r\n\r\nAuthor: [Curtico](https://linkedin.com/in/curtice-gough)",
+                "files": [
+                    "/files/bdb995b588ac425c79af60432d0fb373/encrypt.py?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjo4OH0.ZhoYJA.Ef_puinoOaFb54dSQ1wnRXEhbKo",
+                    "/files/9c687adf09efd3cfaf50dedba0f5ec15/message.enc?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjo4OX0.ZhoYJA.idFfFmZbkN7V94eKyHjTcXE4Qrc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 64,
+                "name": "\u14a3\u2351\u254e\u03df \u254e\u03df \u30ea\u14b7\u158b\u14a3",
+                "points": 275,
+                "solves": 76
+            },
+            {
+                "category": "crypto",
+                "description": "<img src=\"/files/5f913ae513a05cb84c5959a2f9386e73/comms-array.png\"></img>\r\n\r\nWe figured out our rocket's communication array doesn't acknowledge valid messages over a certain size. Can you help figure out what's going on?\r\n\r\nDue to time, you should probably figure out how to solve locally first and then throw remotely.\r\n\r\n```py\r\nfrom pwn import * \r\np=remote(\"comms.martiansonly.net\",1234)\r\np.interactive()\r\n```\r\n\r\nAuthor: Tim at <a href=\"https://www.researchinnovations.com\">Resarch Innovations</a>",
+                "files": [
+                    "/files/b25511d9f91af9345a916de2de38de56/comms_array.py?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxMTl9.ZhoYJA.sKa3FGsJvljku5rpbfAQ-eOHY4s"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 83,
+                "name": "Comms Array",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "crypto",
+                "description": "I was partaking in a fun viewing of some show/movie with my alien bros but couldn't understand anything due to the alien voice dubbing present in the movie.\r\n\r\nI've managed to download a script of what was said during the viewing but it seems to be encrypted, can you help me decrypt it?\r\n\r\nFollow this link to get started: [http://intergalactic.martiansonly.net](http://intergalactic.martiansonly.net)\r\n\r\nAuthor: [liabell](https://github.com/Liabell)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 68,
+                "name": "Intergalactic Cinema",
+                "points": 443,
+                "solves": 39
+            },
+            {
+                "category": "crypto",
+                "description": "The Voyager mission was a success! However these unknown lifeforms have decided to test us in a similar fashion by sending us their own golden record.\r\n\r\nWe have recovered a weird file from the disk, completely unreadable and our inter..*experts* cant seem to figure out what it says. Its labled as file.enc maybe the disk has something to do with it. \r\n\r\nAuthor: Josh (I succeeded where Tyler failed)",
+                "files": [
+                    "/files/8230102d6d7ecee9deda4e63621eae5c/golden_record.png?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjo5Nn0.ZhoYJA.UhQb8oymCTXJoRCgxu85xlgMG7Q",
+                    "/files/ba4471f0e018198b8b0547515e244f6c/file.enc?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjo5N30.ZhoYJA._JGP3KS1ZHuwfMMRq4eXFzQHfKA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 66,
+                "name": "Golden Record",
+                "points": 500,
+                "solves": 2
+            },
+            {
+                "category": "crypto",
+                "description": "> That\u2026 that Kanamit, or whatever it is he calls himself, walked off and left this book yesterday at the U.N. The White House feels if we can decipher this book, we can find out what they're up to. All we've been able to determine thus far is the IV: `TO SERVE MAN`.\r\n\r\n|filename|md5sum|\r\n|-|-|\r\n|<span style=\"font-family: sans-serif\">flag.enc</span>|`03b2f52d648a48744ae3c5f76e4d4048`|\r\n|encrypt|`01f1150849b820f3e502df8995b05dee`|\r\n\r\nAuthor: [`@.lilith.tar.gz`](https://discord.com/users/1134994415342063656)|",
+                "files": [
+                    "/files/983e7299b93f1550dc2ecbb85f2c7fec/flag.enc?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxMDl9.ZhoYJA.B32bld3KsUeGeB9XY0kKfXtWZNg",
+                    "/files/9f95ece90f83d963d03aac2e5f6fad8f/encrypt?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxMTF9.ZhoYJA.RjMYtEJtBlW3jJFFeJU4yLgOBa4"
+                ],
+                "hints": [
+                    "`encrypt e <??> <iv_length> <iv>`"
+                ],
+                "id": 77,
+                "name": "To Serve Man",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "crypto",
+                "description": "An agent of the Hidden found some weird transmissions on a satellite that is from before the golden-age.\r\n\r\nCan you pick up where they left off and decrypt the data?\r\n\r\nAuthor: [B0n3h34d](https://github.com/password987654321)",
+                "files": [
+                    "/files/fba5888436054a8498b92f3b8b32d6e2/encrypted.enc?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjo5OX0.ZhoYJA.gY4GI3M0RzNoLnCWwO7HE9htbaM",
+                    "/files/69938e45a0f954fd260e24f8b78576da/Field_Data.txt?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxMDB9.ZhoYJA.GBwQ4Te3GRIXeArQFjUaRS7493k"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 71,
+                "name": "Warmind Communique",
+                "points": 499,
+                "solves": 7
+            },
+            {
+                "category": "crypto",
+                "description": "![](https://spaceheroes.ctfd.io/files/4109aebca2351b4aaa2c86b62b14f328/death_star_hacker.png)\r\nThe rebel scums have sent ransomware to our beloved space station! Fortunately for us they left some evidence behind so we know what they did.\r\n\r\nWe need your help to recover our file so the death star can continue its day to day operations of maintaining order in the galaxy.\r\n\r\nOur intelligence operators say  they used  aes 128 ecb to encrypt it.\r\n\r\nAnd we've found this as well\r\n\r\nhead -c 100 flag.bmp | xxd -i\r\n  0x42, 0x4d, 0xca, 0x14, 0x70, 0x01, 0x00, 0x00, 0x00, 0x00, 0x8a, 0x00,\r\n  0x00, 0x00, 0x7c, 0x00, 0x00, 0x00, 0xe8, 0x09, 0x00, 0x00, 0x4a, 0x09,\r\n  0x00, 0x00, 0x01, 0x00, 0x20, 0x00, 0x03, 0x00, 0x00, 0x00, 0x40, 0x14,\r\n  0x70, 0x01, 0x23, 0x2e, 0x00, 0x00, 0x23, 0x2e, 0x00, 0x00, 0x00, 0x00,\r\n  0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0xff, 0x00, 0x00, 0xff,\r\n  0x00, 0x00, 0xff, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0xff, 0x42, 0x47,\r\n  0x52, 0x73, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,\r\n  0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,\r\n  0x00, 0x00, 0x00, 0x00\r\n\r\nAuthor: azuradarth",
+                "files": [
+                    "/files/ddfa536ab2df53c840935ab25a7f7057/enc.flag?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxNTZ9.ZhoYJA.mHZL6utl12Q7T2mj8UOClJ5QqQI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 75,
+                "name": "Death Star Ransomware",
+                "points": 495,
+                "solves": 13
+            }
+        ],
+        "forensics": [
+            {
+                "category": "forensics",
+                "description": "I think aliens are testing us again and they they are poking fun at our internet protocols by using them in close proximity to earth. We were able to intercept something but I cant figure out what it is. Take a crack at it for me. \r\n\r\nAuthor: Josh",
+                "files": [
+                    "/files/cefdba1a44e5e8d46dcb2343594bf35f/space.pcapng?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxMzN9.ZhoYJA.4yN-maeq34mPVT2zu5h4zuTc-58"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 87,
+                "name": "A Window into Space",
+                "points": 400,
+                "solves": 51
+            },
+            {
+                "category": "forensics",
+                "description": "Petey the Panther has stumbled upon the greatest treasure this side of the Milky Way: a bonafide Hitchhikers Guide to the Galaxy! What kind of secrets does this thing hold?\r\n\r\nAuthor: [Zero](https://github.com/Cody-Manning)",
+                "files": [
+                    "/files/62e2ae63f71939acffe3d23d7ce03b20/A_Real_Space_Hero.jpg?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjo4Mn0.ZhoYJA.WlNDKlaKqftmEYP3RTNFS8c8dE8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 58,
+                "name": "Petey the Panther's Guide to the Galaxy",
+                "points": 299,
+                "solves": 72
+            },
+            {
+                "category": "forensics",
+                "description": "We've recorded an U.F.O. near our location and  it seems they are trying to communicate with us. The second half of the audio intelligible, can you discover what they're trying to say?",
+                "files": [
+                    "/files/99b0a84d72cbdca20cb0ee5c2d9d6cdf/space_frisbee.mp4?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxNDl9.ZhoYJA.-vuNJoAqfunn8m9SkSRGlWZe65M"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 79,
+                "name": "Space Frisbee",
+                "points": 496,
+                "solves": 11
+            }
+        ],
+        "pwn": [
+            {
+                "category": "pwn",
+                "description": "![](/files/cd4cb635b310e2af87b179c044e8c599/falling_image.jpg)\r\n\r\n``` \r\nfrom pwn import *\r\np = remote(\"spaceheroes-falling-in-rop.chals.io\", 443, ssl=True, sni=\"spaceheroes-falling-in-rop.chals.io\")\r\np.interactive()\r\n```\r\n\r\nmd5(falling.bin) = 0142dc3be6555a80944a0d32262a7d83\r\n\r\nAuthor: Joshua Hartzfeld (@Sooog)",
+                "files": [
+                    "/files/b585b52e23960a5e3f026c8048c46d98/falling.bin?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxMDN9.ZhoYJQ.gTTOX8dDBGPXJeHylNzleWRCQ5s"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 73,
+                "name": "Falling In ROP",
+                "points": 473,
+                "solves": 27
+            },
+            {
+                "category": "pwn",
+                "description": "Scotty thinks he saw a flag.  Help Spock recover it from his memories.\r\n\r\n> *\"Do you know what a mind meld is?\"*\r\n> \r\n> *\"It's that Vulcan thing where you grab someone's head.\"*\r\n\r\n```py\r\nfrom pwn import *\r\np = remote( 'mindmeld.martiansonly.net',31337)\r\np.interactive()\r\n```\r\n\r\nmd5(scotty) = 599c034e3c3ee871826668b56445fa3c\r\nmd5(spock) = af9a0b95ce58eb49298ebca374ab5097\r\n\r\nAuthor: [Curtico](https://linkedin.com/in/curtice-gough)",
+                "files": [
+                    "/files/b1fa7b9ce816470230f4b12d77be70ed/spock?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxMzB9.ZhoYJQ.gcKvweRLz3Wsw37NYiEqQ5bz6q0",
+                    "/files/870f9bf15a4c8431e27b8c59a4988468/scotty?token=.eJyrViotTi2Kz0xRsjIysjDXUSpJTcwFcw2NjUx1lNIyc1Jh3FoAQcgNiQ.ZhoYJQ._xt-7Hv_-5Dcop_EeyjqeEAycWQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 61,
+                "name": "Mind Meld",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "pwn",
+                "description": "The company is developing an anonymous survey for crew members to fill out on the last day before quota.\r\n\r\nThey left an alpha version for us to test on the VM! Be sure to only leave good responses!\r\n\r\n<br/>\r\n\r\n```py\r\nfrom pwn import * \r\np=remote(\"spaceheroes-crew-member-survey.chals.io\", 443, ssl=True, sni=\"spaceheroes-crew-member-survey.chals.io\")\r\np.interactive()\r\n```\r\n\r\nMD5SUM:\r\n\r\n```\r\nbe1d30648b981fbc1ae8d60625abe667  Borson300VM.bin\r\n\r\n6d0abd9a3dada46c4d23c0002d705256  pwnable\r\n```\r\n\r\nAuthor: [B0n3h34d](https://github.com/password987654321)",
+                "files": [
+                    "/files/c221d02c432b2e8bb857fdceb941832b/Borson300VM.bin?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxNDJ9.ZhoYJQ.g7MkAwu5BDUOIJzpx2hZZNcZ5BY",
+                    "/files/8eab01d8dab4c8d68253be5caaf2a090/pwnable?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxNDN9.ZhoYJQ.8WvIWYgxiyTqQWWHiNCApnngctQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 72,
+                "name": "Crew Member Survey",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "pwn",
+                "description": "sorry... we could not afford tom hanks\r\n\r\n```\r\nfrom pwn import *\r\nio = remote (\"spaceheroes-a-riscv-maneuver.chals.io\", 443, ssl=True, sni=\"spaceheroes-a-riscv-maneuver.chals.io\")\r\nio.interactive()\r\n```\r\n\r\nAuthor: @condor0010\r\nMD5: 15adc28880fdef3cd12e503f259c7417",
+                "files": [
+                    "/files/5a4167d7eacd0f7176bd084c38db5692/chal?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjo4MX0.ZhoYJQ._MFnqJgaYjusDqZ0A6egtrh9MHs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 56,
+                "name": "a_RISC-V_maneuver",
+                "points": 500,
+                "solves": 2
+            },
+            {
+                "category": "pwn",
+                "description": "It's the last day to meet the quota and you and your team have not collected enough scrap. Thankfully for you, the company is developing a new functionality to their terminal's bestiary and said they might forgive you if you find bugs and vulnerabilities in their new program. Can you make the Company happy?\r\n\r\nAuthor: @bal\r\n\r\n```py\r\nfrom pwn import *\r\nio = remote (\"spaceheroes-fsoperator.chals.io\", 443, ssl=True, sni=\"spaceheroes-fsoperator.chals.io\")\r\nio.interactive()\r\n```\r\n\r\nsha256sum: 1ef36985c376f0fe2696a599b3f36646e104759718ec30ed5a666c47a57dcb3d\r\n",
+                "files": [
+                    "/files/535df4f9b2cc122f44b3d32564ae4a38/terminal.bin?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxNTB9.ZhoYJQ.OzsxzHtWWwcZ5dEEHayQjAYK_gg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 85,
+                "name": "File Structure OPerator",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "pwn",
+                "description": "Hello cadet! Welcome to Buzz Lightyears Star Command PWN boot camp. Emperor Zurg's forces have been increasing across the galaxy, and we need as many people as possible ready to combat him and his malicious army. We cannot let him win, so we need you in top shape. If you're going to combat the cyber forces Zurg has set up, we will need to get you ready to PWN his nefarious programs. This training module will go over many of the tools you're going to need to become a PWN master!\r\n\r\n```py\r\nfrom pwn import * \r\np=remote(\"spaceheroes-pwnschool.chals.io\", 443, ssl=True, sni=\"spaceheroes-pwnschool.chals.io\")\r\np.interactive()\r\n```\r\n\r\nAuthor: [Zero](https://github.com/Cody-Manning) and [v10l3nt](https://www.tjoconnor.org)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 86,
+                "name": "Buzz Lightyears PWN Ranger School",
+                "points": 500,
+                "solves": 4
+            },
+            {
+                "category": "pwn",
+                "description": "Helldiver! The automaton slaughter of Super Earth's citizens on Malevelon Creek is no more. But the fight continues on - and the surefire path to peace... is war.\r\nShow them liberty's might, helldiver, with Super Earth's banner.\r\n\r\n```\r\nfrom pwn import *\r\np = remote(\"helldivers.martiansonly.net\", 6666)\r\np.interactive()\r\n```\r\n\r\nmd5sum: 98d04de55a103005827a2ed7dfb9e719  helldivers.tar.gz\r\n\r\nAuthor: @bigmaccheeseburger<br>\r\n(Author's note: I hope you enjoy the gameplay of me and my friend @curtico.)",
+                "files": [
+                    "/files/a8aea29ba80706229a0ba23423a4141e/helldivers.tar.gz?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxNTF9.ZhoYJQ.h8k6InYEjjoWC1ca_0KD6FaujVA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 89,
+                "name": "Helldivers",
+                "points": 500,
+                "solves": 1
+            }
+        ],
+        "re": [
+            {
+                "category": "re",
+                "description": "Seems the Iconians dug up some ancient Earth history and discovered Wordle.  Win the game to access their secure data.\r\n\r\n`./console 165.227.210.30 11666`\r\n\r\nmd5sum(console) = e652b6d36eb46c3ca2c97e5ea467e717\r\n\r\nAuthor: [Curtico](https://linkedin.com/in/curtice-gough)",
+                "files": [
+                    "/files/d09b046606034d717ef1aa4e8b481af3/console?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjo4N30.ZhoYJQ.1sRql8Y9Kit3Vqgr4LyOxnX7Yuk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 63,
+                "name": "Iconian Gateway",
+                "points": 499,
+                "solves": 7
+            },
+            {
+                "category": "re",
+                "description": "You're out of space fuel! Luckily some dope left his alien credit card on the ground outside the ATM at the dark matter station. It has a weird aura though. Oh well! Fill up your tank so you can keep moving!\r\n\r\n```python\r\nfrom pwn import *\r\np = remote(\"spaceheroes-atm.chals.io\", 443, ssl=True, sni=\"spaceheroes-atm.chals.io\")\r\np.interactive()\r\n```\r\n\r\n```python\r\nmd5(atm.bin)= a9bc824d0ee34a041a3a8cb036bb0701\r\n```\r\nAuthor: Parker Cummings",
+                "files": [
+                    "/files/9f5694a4283ea934c7d98d9103228cee/atm.bin?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxNTJ9.ZhoYJQ.D-knUbPjj117u9Qt60yDnqzEw04"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 60,
+                "name": "ATM",
+                "points": 473,
+                "solves": 27
+            },
+            {
+                "category": "re",
+                "description": "Oh, yeah\r\nOoh\r\nZiggy played guitar\r\n\r\n```\r\nfrom pwn import *\r\np = remote (\"spaceheroes-ziggy-stardust.chals.io\", 443, ssl=True, sni=\"spaceheroes-ziggy-stardust.chals.io\")\r\np.interactive()\r\n```\r\n\r\nAuthor: @condor0010\r\nMD5: 52b05ff9a5b5cd6c30c66529b7ebe733",
+                "files": [
+                    "/files/1dc6a18b3c7301e4777bcdd40230e707/chal?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxMjV9.ZhoYJQ.kmnOkdhQfrCddgXpI1XwJPbBsO0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 57,
+                "name": "ZIGgy_stardust",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "re",
+                "description": "This old floor cleaning bot ate my flag! Its one of those old models with an obscure language chip installed, which is only made worse by its sluggish response times. I'm losing my patience!\r\n\r\n```py\r\nfrom pwn import *\r\np = remote(\"spaceheroes-patient-robot.chals.io\", 443, ssl=True, sni=\"spaceheroes-patient-robot.chals.io\")\r\np.interactive()\r\n```\r\n\r\nmd5sum: cb8531bfe27ab82366d19883f5296a2f  PatientRobot\r\n\r\nAuthor: @bigmaccheeseburger",
+                "files": [
+                    "/files/ea42d1bffe5cbe81992db5f6d23a151d/PatientRobot?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxMzd9.ZhoYJg.lbHHVk_lXe3a1oXcEvVZN61VD-g"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 91,
+                "name": "Patient Robot",
+                "points": 500,
+                "solves": 2
+            },
+            {
+                "category": "re",
+                "description": "The company created a VM for our ship's computer to test new software. \r\n\r\nIt looks like the company left a debug session of the VM on the network.\r\nCan you find the contents of `flag.txt`?\r\n\r\nYou should probably run it in Docker or at least patch our check that requires you to run it in Docker. \r\n\r\n<br/>\r\n\r\n```py\r\nfrom pwn import * \r\np=remote(\"spaceheroes-lethal-virtualization.chals.io\", 443, ssl=True, sni=\"spaceheroes-lethal-virtualization.chals.io\")\r\np.interactive()\r\n```\r\n\r\nMD5SUM:\r\n\r\n```\r\nbe1d30648b981fbc1ae8d60625abe667  Borson300VM.bin\r\n```\r\n\r\nAuthor: [B0n3h34d](https://github.com/password987654321)",
+                "files": [
+                    "/files/751b6d0002a6497fcfb1d3b60f4b0a00/Borson300VM.bin?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxNDF9.ZhoYJg.n15P6H6DXSYi0_sbNkmKMzVIDgs"
+                ],
+                "hints": [
+                    "500 credits have been added to your quota."
+                ],
+                "id": 70,
+                "name": "Lethal Virtualization",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "re",
+                "description": "```\r\nEnvironmental hazard detected\r\nSensors offline\r\n```\r\n\r\nmd5sum: `a013a0b28cb3cebaac010bfb2ae19941`\r\nAuthor: [`@.lilith.tar.gz`](https://discord.com/users/1134994415342063656)\r\n",
+                "files": [
+                    "/files/24afc035ed5e18cda346fdd0d4301965/chal?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxMTJ9.ZhoYJg.ravC2i-Jn1KubSa-GEDH1ewcJzs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 78,
+                "name": "Environmental Hazard",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "re",
+                "description": "```\r\nfrom pwn import *\r\nio = remote (\"spaceheroes-checkpoint.chals.io\", 443, ssl=True, sni=\"spaceheroes-checkpoint.chals.io\")\r\nio.interactive()\r\n```\r\n\r\nAuthor: Jordan",
+                "files": [
+                    "/files/db708d8944c81d8284441dbb68a9184a/checkpoint.cpython-312.pyc?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxNDd9.ZhoYJg.miNeJVl22P5TxkGIRKrUSEXmSc0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 97,
+                "name": "checkpoint",
+                "points": 500,
+                "solves": 5
+            },
+            {
+                "category": "re",
+                "description": "Tick tock tick tock tick tock...\r\n\r\n```py\r\nfrom pwn import * \r\np=remote(\"spaceheroes-time.chals.io\", 443, ssl=True, sni=\"spaceheroes-time.chals.io\")\r\np.interactive()\r\n```\r\n\r\nmd5(Time) = ``fb5d6082ec4555aa97716760c80d49e9``\r\n\r\nAuthor: [Zero](https://github.com/Cody-Manning)\r\n",
+                "files": [
+                    "/files/0f5a49c584fa2a8aea41b9ffc2227332/Time?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxMTd9.ZhoYJg.WMjw6Y0Lou164iwN4ouKImCVEMg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 81,
+                "name": "Time",
+                "points": 500,
+                "solves": 5
+            }
+        ],
+        "web": [
+            {
+                "category": "web",
+                "description": "Lost in the labyrinthine calculations of planetary motion, I stumbled upon an anomaly. Ancient Greek symbols, not our modern equations, whispered of celestial mechanics. Driven by a scientist's curiosity, I cracked their cryptic code. The unearthed knowledge, a testament to their forgotten ingenuity, fueled the creation of the \"Greek Astronomical Calculator.\" This isn't just a tool for prediction; it's a portal to a bygone era's uncanny understanding of the cosmos\r\n\r\n[http://antikythera.martiansonly.net](http://antikythera.martiansonly.net)\r\n\r\nAuthor: bl4ckp4r4d1s3",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 99,
+                "name": "antikythera",
+                "points": 443,
+                "solves": 39
+            },
+            {
+                "category": "web",
+                "description": "Rocket:** Hey there, listen up you bunch of space-squid snacks! Heard you jabronis on Earth are all stuck in this \"social media\" craze. Bunch of flickering lights and useless chatter. Not exactly my cup of space-grog, y'know?\r\n\r\nWell, us folks on Knowhere? We ain't got time for that junk. But I figured I'd cook up a little somethin' somethin' for you knuckleheads. A Knowhere-made social media app, just for our little corner of the cosmos. Fancy, huh?  Think of it as a galactic bulletin board, but with less spitwads and chewing gum.\r\n\r\nNow, don't go gettin' all trigger-happy just yet. For now, only **yours truly the Rocket** can upload any images. Gotta make sure this shindig doesn't turn into a three-eyed freakshow before I unleash it on the whole lot of ya. We wouldn't want Knowhere to be flooded with blurry pictures of Cosmo the Space Dog chasing his tail and mistaking it for a space pirate, would we? Yeah, that was a confusing week for everyone.\r\n\r\nBackup link: http://srv3.martiansonly.net:1111/\r\n\r\n[http://knowhere.martiansonly.net](http://knowhere.martiansonly.net)\r\n\r\nAuthor: bl4ckp4r4d1s3",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 100,
+                "name": "knowhere gram",
+                "points": 498,
+                "solves": 9
+            },
+            {
+                "category": "web",
+                "description": "Welcome to [MartiansOnly](http://martiansonly.net/), the premier social networking site exclusively for Martians\u2014and their lovers!\r\n\r\nmd5sum: `1062b33a4134ddd4a551465b2af29121`\r\nAuthor: [`@.lilith.tar.gz`](https://discord.com/users/1134994415342063656)",
+                "files": [
+                    "/files/5a2063ae677ac9936a4549082fd175f6/martiansonly.tar.gz?token=eyJ1c2VyX2lkIjoyMjg3LCJ0ZWFtX2lkIjoxMzI1LCJmaWxlX2lkIjoxNTh9.ZhoYJg._pjRYmUXq94fI_md3kGaNDFp_EA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 95,
+                "name": "MartiansOnly",
+                "points": 499,
+                "solves": 8
+            },
+            {
+                "category": "web",
+                "description": "We've found what appears to be a schizophrenic alien's personal blog. Poke around and see if you can find anything interesting.\r\n\r\n[http://slow.martiansonly.net](http://slow.martiansonly.net)\r\n\r\nAuthor: [liabell](https://github.com/Liabell)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 88,
+                "name": "Slowly Downward",
+                "points": 232,
+                "solves": 83
+            },
+            {
+                "category": "web",
+                "description": "Han Solo is frozen in carbonite! Jabba definitely won't like you taking his favorite decoration, but you need to GTFO of Jabba's Palace! Find the key phrase to get out of the main gate. Chewie is waiting outside!\r\n\r\nPrimary Link: [http://74.207.229.213:999/](http://74.207.229.213:999/)\r\n\r\nBackup: [http://jabba.martiansonly.net](http://jabba.martiansonly.net)\r\nBackup: [http://srv3.martiansonly.net:5555](http://srv3.martiansonly.net:5555)\r\nBackup: [http://srv2.martiansonly.net:5555](http://srv2.martiansonly.net:5555)\r\n\r\nAuthor: Parker Cummings",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 67,
+                "name": "GTFO Jabba's Palace",
+                "points": 499,
+                "solves": 8
+            },
+            {
+                "category": "web",
+                "description": "Hey kid, this next job's a little tricky. \r\n\r\n'Case ya didn't figure, some fanatics have been going around blasting water out of the galaxy.\r\nYeah, water. And little guys like you 'n me are the ones feeling it. Big embargo on water\u2014its like gold now.\r\n\r\nClient is on the space station, doin the 'hide 'n plain sight' trick. I got you an old cargo ship to look the part, complete with the management system.\r\nI wish I could do more, but this *redirection* will have to do.\r\n\r\n[http://smuggler.martiansonly.net](http://smuggler.martiansonly.net)\r\n\r\nHard part's getting the ice blocks past customs. Think you can **smuggle the ice**  in? \r\n\r\nJust a little hint from your favorite handler: \r\nDo this in one go.\r\n\r\nAuthor: @bigmaccheeseburger",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 90,
+                "name": "Smuggler",
+                "points": 500,
+                "solves": 0
+            }
+        ]
+    },
+    "title": "Space Heroes CTF",
+    "url": "https://spaceheroes.ctfd.io"
+}

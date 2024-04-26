@@ -1,0 +1,3 @@
+# Dirsearch started Sat Apr 20 21:42:05 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://challs.nusgreyhats.org:33338/
+
+200     2KB  http://challs.nusgreyhats.org:33338/admin

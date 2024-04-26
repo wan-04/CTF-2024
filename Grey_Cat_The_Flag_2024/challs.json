@@ -1,0 +1,600 @@
+{
+    "data": {
+        "Blockchain": [
+            {
+                "category": "Blockchain",
+                "description": "In the spirit of decentralization, GreyHats is now a DAO! \r\nVote with your GREY tokens to decide how our funds are spent.\r\n\r\nAuthor: MiloTruck",
+                "files": [
+                    "/files/d073c6c8e725c82d625d7237d34bb03c/dist-voting-vault.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMzOH0.ZiNEMg.yXQ1tuHgL1D5rrGtIh21MOC7HOE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 23,
+                "name": "Voting Vault",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Blockchain",
+                "description": "Introducing NFT-based escrows - you can deposit assets and trade escrows by selling your ownership NFT!\r\nHowever, I accidentally renounced ownership for my own escrow. Can you help me recover the funds?\r\n\r\nAuthor: MiloTruck",
+                "files": [
+                    "/files/18eb92929b57beae16fbc77e34eedb76/dist-escrow.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjM0MH0.ZiNEMQ.dY7wx-I3_cQsywv745pTtDZ2OUw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 20,
+                "name": "Escrow",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Blockchain",
+                "description": "ERC-4626 was too complex, so I made an AMM to swap between shares and assets.\r\n\r\nAuthor: MiloTruck",
+                "files": [
+                    "/files/a8e19cb6e61c8db50f7eb2a1ef9b885b/dist-simple-amm-vault.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMzOX0.ZiNEMg.UHlztwJFoPH-aK5YBEMUXkVH2O8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "Simple Amm Vault",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Blockchain",
+                "description": "Worried about inflation?\r\nIntroducing GreyHats Dollar (GHD), the world's first currency with deflation built-in! Backed by GREY tokens, GHD will automatically deflate at a rate of 3% every year.\r\n\r\nAuthor: MiloTruck",
+                "files": [
+                    "/files/bd7613b7b86a9f58177a032bdacf7db5/dist-greyhats-dollar.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMzN30.ZiNEMg.FauHbkRLHV_H26tfTAkLlzwTOuo"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 21,
+                "name": "Greyhats Dollar",
+                "points": 1000,
+                "solves": 0
+            }
+        ],
+        "Crypto": [
+            {
+                "category": "Crypto",
+                "description": "Timeout: 5 minutes\r\n\r\nAuthor: mechfrog88",
+                "files": [
+                    "/files/54f88ee68ac90d7a39c3f82cd7288a78/dist-aes.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjM0MX0.ZiNEMg.P7GKljwYxbvuoTuo6XhpVJ7klBE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 35,
+                "name": "AES",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Crypto",
+                "description": "Timeout: 5 minutes\r\n\r\nAuthor: mechfrog88",
+                "files": [
+                    "/files/1dd0831d1f5cc5b75ddd2bf774615090/dist-ipfe.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjM0M30.ZiNEMg.LXnIF1_uL8fLIQA_haLeYRBedrs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 37,
+                "name": "IPFE",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Crypto",
+                "description": "Timeout: 3 minutes\r\n\r\nAuthor: mechfrog88",
+                "files": [
+                    "/files/288bded1791891d82cd37ed3c3720827/dist-coding.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjM2MH0.ZiNEMg.ZMQcYHiOMOmfGmBSWn2W9YKoaaM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 39,
+                "name": "Coding",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Crypto",
+                "description": "Timeout: 10 minutes\r\n\r\nAuthor: mechfrog88",
+                "files": [
+                    "/files/e8dfe5d95162b58e42ff8a58e07575a4/dist-prg.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjM0Mn0.ZiNEMg.7MSBuR_pZuJF5A68Y_nEg-8n_Kk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 36,
+                "name": "PRG",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Crypto",
+                "description": "Author: mechfrog88",
+                "files": [
+                    "/files/6c8fbaab9c488038f9c58cb5f1bc05a8/dist-curve.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjM0NH0.ZiNEMg.rkjZLZ3rfg3oXK0EYpt-eOM7flY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 38,
+                "name": "Curve",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Crypto",
+                "description": "I rolled my own crypto. What could go wrong?\r\n\r\n_This challenge unlocks 1 other cryptography challenge._\r\n\r\nAuthor: hadnot",
+                "files": [
+                    "/files/17940923335d625fd5cd8f4695763371/dist-filter_ciphertext.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMzMH0.ZiNEMg.k49YzR4QWt9KFu7Swd0EDSudVO8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 31,
+                "name": "Filter Ciphertext \u26d3\ufe0f",
+                "points": 997,
+                "solves": 4
+            }
+        ],
+        "Greycat's Adventure": [
+            {
+                "category": "Greycat's Adventure",
+                "description": "Welcome to Greycat's Adventure, my totally original, well-coded and unhackable game! You will never get past my timelock! How can you wait for 50 hours in a 24-hour ctf!??\r\n\r\nThe flag is in all lower caps.\r\n\r\nGame download: https://1drv.ms/u/s!Ao8ftCMlnBEphBYG1Bv_Pi9RWcc6?e=ra4k9f\r\n\r\nSHA256 checksum:\r\nbb36de883b6ed9cd9f1c159ed767a8cd1a71da6cedb877e772746e656dbd404b",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 46,
+                "name": "Timelock",
+                "points": 246,
+                "solves": 8
+            },
+            {
+                "category": "Greycat's Adventure",
+                "description": "Welcome to Greycat's Adventure, my totally original, well-coded and unhackable game! Surely if I make it go by really fast nobody would be able to catch it...\r\n\r\nThe flag is in all lower caps.\r\n\r\nGame download: https://1drv.ms/u/s!Ao8ftCMlnBEphBYG1Bv_Pi9RWcc6?e=ra4k9f\r\n\r\nSHA256 checksum:\r\nbb36de883b6ed9cd9f1c159ed767a8cd1a71da6cedb877e772746e656dbd404b",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 47,
+                "name": "Vault",
+                "points": 250,
+                "solves": 0
+            },
+            {
+                "category": "Greycat's Adventure",
+                "description": "Welcome to Greycat's Adventure, my totally original, well-coded and unhackable game! Can you obtain all the achievements?\r\n\r\nAchievement 1 - Obtain a highscore of **exactly** 1337420.\r\n\r\nGame download: https://1drv.ms/u/s!Ao8ftCMlnBEphBYG1Bv_Pi9RWcc6?e=ra4k9f\r\n\r\nSHA256 checksum:\r\nbb36de883b6ed9cd9f1c159ed767a8cd1a71da6cedb877e772746e656dbd404b",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 43,
+                "name": "Achievement 1",
+                "points": 398,
+                "solves": 5
+            },
+            {
+                "category": "Greycat's Adventure",
+                "description": "Welcome to Greycat's Adventure, my totally original, well-coded and unhackable game! Can you obtain all the achievements?\r\n\r\nAchievement 2 - Purchase **all** items in the shop.\r\n\r\nGame download: https://1drv.ms/u/s!Ao8ftCMlnBEphBYG1Bv_Pi9RWcc6?e=ra4k9f\r\n\r\nSHA256 checksum:\r\nbb36de883b6ed9cd9f1c159ed767a8cd1a71da6cedb877e772746e656dbd404b\r\n\r\nAuthor: uhg",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 44,
+                "name": "Achievement 2",
+                "points": 599,
+                "solves": 4
+            },
+            {
+                "category": "Greycat's Adventure",
+                "description": "Welcome to Greycat's Adventure, my totally original, well-coded and unhackable game! Can you obtain all the achievements?\r\n\r\nAchievement 3 - There is a secret hidden in the credits.\r\n\r\nJust input the secret into the text field and click out of the text field to test your secret.\r\n\r\nGame download: https://1drv.ms/u/s!Ao8ftCMlnBEphBYG1Bv_Pi9RWcc6?e=ra4k9f\r\n\r\nSHA256 checksum:\r\nbb36de883b6ed9cd9f1c159ed767a8cd1a71da6cedb877e772746e656dbd404b",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 45,
+                "name": "Achievement 3",
+                "points": 499,
+                "solves": 4
+            }
+        ],
+        "Misc": [
+            {
+                "category": "Misc",
+                "description": "https://discord.gg/Zh7TssXB9J",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 42,
+                "name": "Sanity Check",
+                "points": 100,
+                "solves": 145
+            },
+            {
+                "category": "Misc",
+                "description": "I want to count from 0\r\n\r\nAuthor: Hackin7",
+                "files": [
+                    "/files/6a96fa0bc4c5fe78e1847e25cc002f1f/dist-verilog_count.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMxNH0.ZiNEMg.ihbJdps8fpAJkfxj16N8y4Jbctw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "Verilog Count",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Misc",
+                "description": "I'm always late for class but my prof told me that time is relative\r\n\r\nAuthor: jloh02",
+                "files": [
+                    "/files/6117140a33e8aa683bf72dff2b28ae26/dist-All-About-Timing.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMxNX0.ZiNEMg.XWCSxXMXywrSMXnKb3NrN_OgRnY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 24,
+                "name": "All About Timing",
+                "points": 999,
+                "solves": 3
+            },
+            {
+                "category": "Misc",
+                "description": "If only there was a way to crack password-protected zip files...\n\nAuthor: glendoodle",
+                "files": [
+                    "/files/db8ebb44eed404ca057924412aad7c2a/dist-CashHat-The-Ripper.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMxN30.ZiNEMg.Gd6fW0U-TlwwRPeF7cFRnj3Z7v4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 29,
+                "name": "Cashhat The Ripper",
+                "points": 990,
+                "solves": 12
+            },
+            {
+                "category": "Misc",
+                "description": "I lost my grey cat when we were overseas.\r\n\r\nThis is the last picture I found of it, but I have no idea where it is. Can you help me identify this beach?\r\n\r\nThe flag format is `grey{name_of_beach_in_lower_case}`.\r\n\r\nThere is no word \"beach\" in the flag.",
+                "files": [
+                    "/files/10d26439d4d62db718acd1c7916cb9ab/dist-Cats-At-The-Beach.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMxNn0.ZiNEMg.WSBkxCZhePRwIAAM6cAoz49voW8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 13,
+                "name": "Cats At The Beach",
+                "points": 999,
+                "solves": 3
+            },
+            {
+                "category": "Misc",
+                "description": "Grey Cat has recently got into playing Hell Divers 2 before it disappeared and left this note behind:\r\n1. Eagle 500 Kg Bomb\r\n2. GL-21 Grenade Launcher\r\n3. MD-I4 Incendiary Mines\r\n4. Orbital Gas Strike\r\n5. Orbital Airburst Strike\r\n6. Eagle Rearm\r\n7. Eagle 110MM Rocket Pods\r\n\r\nCan you decipher what it is trying to say?\r\n\r\nAuthor: Junhua",
+                "files": [
+                    "/files/f456bab50ebcfd2507010d7264d2ac87/dist-Grey-Divers.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMxOH0.ZiNEMg.AwLnbnI7ayplwlwBl_IRT6_71nI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 14,
+                "name": "Grey Divers",
+                "points": 997,
+                "solves": 4
+            },
+            {
+                "category": "Misc",
+                "description": "The maze trials were just the start. As a master of mazes, you find yourself still confined in a maze. At least you've got some superpowers this time...\r\n\r\nAuthor: jloh02",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 25,
+                "name": "Maze Runner",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Misc",
+                "description": "Magicians love to create things out of thin air. This time our secret wizards have created a playground. Test out your wizardry here!\r\n\r\nAuthor: jloh02",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 26,
+                "name": "Poly Playground",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Misc",
+                "description": "What kind of music is this?\r\n\r\nWarning: Audio file may be loud!",
+                "files": [
+                    "/files/a43086a04936881ff33d0766139b0ef4/dist-tones.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjM2Mn0.ZiNEMg.DithksN6_ns_QWcGi-Ma2LfURoc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 40,
+                "name": "Tones",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Misc",
+                "description": "mp4 files are a good way to send hiden messages too!\n\n@nus.greyhats\n\nthe md5 hash of the flag is `36ed337d208d4d58679cbb5047885236`\n\nAuthor: Heretic275",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 30,
+                "name": "Out In Plain Sight",
+                "points": 1000,
+                "solves": 4
+            },
+            {
+                "category": "Misc",
+                "description": "No more tones for you! Just noise?\r\n\r\nWarning: Audio file may be loud!",
+                "files": [
+                    "/files/43a40098a9d4c507dbe301a804478a9a/nomoretones.flac?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjM1OX0.ZiNEMg.sAJ6jxN8ssCLWBUvB2LKBIj9G-4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 41,
+                "name": "No More Tones",
+                "points": 1000,
+                "solves": 0
+            }
+        ],
+        "Pwn": [
+            {
+                "category": "Pwn",
+                "description": "With this new service, you can format your dates in any language\r\n\r\nAuthor: jro",
+                "files": [
+                    "/files/964b08ecfead6b63943018f2936cc76a/dist-baby-fmtstr.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMyMH0.ZiNEMw.uQlwK7gp_5YbAHhAxsOojnchINU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 6,
+                "name": "Baby Fmtstr",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Pwn",
+                "description": "In following Greycat's adventures, you have stumbled upon a factory that produces weirdly-shaped rings. Upon closer inspection, you realise that the rings seem very familiar -- they looked exactly like the Sling Rings you saw from the Marvel Comics universe! Having some time leftover, you decide to explore the factory. Alas, you eventually come to realise that these Sling Rings were in fact not the same as those you knew: during forging, their destinations have to already be set. You wonder what you could do with these rings...\r\n\r\nAuthor: uhg",
+                "files": [
+                    "/files/ff74cf4eb127447a4a75f721c8a79966/dist-slingring_factory.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMyNX0.ZiNEMw._o0B3_FUuHBDIb1QRRxzr5ieKxk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "Slingring Factory",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Pwn",
+                "description": "I have opened a new shop for baby goods! Feel free to explore around :)\r\n\r\nAuthor: uhg",
+                "files": [
+                    "/files/e99b385dc0aee497556f4d254dcd179d/dist-baby-goods.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMyMn0.ZiNEMw.5hcVFsUNfZqnAOW8zbtur7rMjbI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 7,
+                "name": "Baby Goods",
+                "points": 971,
+                "solves": 10
+            },
+            {
+                "category": "Pwn",
+                "description": "I heard you like heap, so I made a heap using a heap based heap!\r\n\r\nAuthor: jro",
+                "files": [
+                    "/files/87b3f075262f8ac2b943ee9cbcfe14de/dist-heap-heap-heap.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMyNH0.ZiNEMw.XvGbTgL5cipEeJ0EqfnGN8hUh9o"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 8,
+                "name": "Heap Heap Heap",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Pwn",
+                "description": "i bet u wont guess my pin\r\n\r\nAuthor: Elma",
+                "files": [
+                    "/files/bd479f7f7d0ffdd2a76468b26ab0fec8/dist-the-motorala.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMyM30.ZiNEMw.pXZr7htzTZwCAPZwa5y2wx-k14Q"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 11,
+                "name": "The Motorala",
+                "points": 1000,
+                "solves": 1
+            },
+            {
+                "category": "Pwn",
+                "description": "same source code, same bug, easy solve?\r\n\r\nAuthor: Elma",
+                "files": [
+                    "/files/04a5e64111adf4c5bfbe9c73d58f6511/dist-the-motorala-2.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMxOX0.ZiNEMw.pqOZWFQ8eswfCeidwHCSeNhnv3E"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "The Motorala 2",
+                "points": 1000,
+                "solves": 0
+            }
+        ],
+        "Rev": [
+            {
+                "category": "Rev",
+                "description": "I followed the phaserjs tutorial and made it a lot harder. Clear 10000000 waves and you will see the flag in the developer console (printed with console.log). Have fun :)\r\n\r\nhttp://challs.nusgreyhats.org:39876\r\n\r\nAuthor: daniao",
+                "files": [
+                    "/files/a281bf32da978dd3e11631cf6f09f4ed/dist-phaserjs-tutorial.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjM2MX0.ZiNEMw.jbZhL_IW9UxgKeE68K8ddPWttpM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 48,
+                "name": "Phaser-JS",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Rev",
+                "description": "finally... looks like a normal reversing challenge written in C... (or isit?)\r\n\r\n( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)\r\n\r\n\r\nAuthor: Elma",
+                "files": [
+                    "/files/4208bd779345e4f45c74f681f555adcf/dist-mazeware.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMyOH0.ZiNEMw.o3NvNuopBAWaXRZDOGm78sdHYag"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 28,
+                "name": "Mazeware",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Rev",
+                "description": "im new to rust, so i cooked this :)\r\n\r\nAuthor: kestryix",
+                "files": [
+                    "/files/6e3531dd82e946814effcf1f90d762c3/dist-cooking_mama.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMyN30.ZiNEMw.rhrLkqKtKAtHDwIJozKpzpitgEI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "Cooking Mama",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Rev",
+                "description": "I made this program that checks if the flag is correct.\r\nHowever, I forgot the flag....\r\nCan you help me recover it?\r\n\r\nAuthor: Daniel X Junhua",
+                "files": [
+                    "/files/26bdeac812572e02781c45c662084ea7/dist-pattern-enigma-matrix.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMyNn0.ZiNEMw.bzrWRX5YfmEcR4J6yHqQ639hTiI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "Pattern Enigma Matrix",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Rev",
+                "description": "In the dance of bits and shadows, Bee's password lies veiled, guarded by the cryptic embrace of encryption. Amidst the digital whispers, a script and notes beckon. Can you, the seeker, unveil the clandestine secret encrypted within?\r\n\r\nFile: https://drive.google.com/drive/folders/1-ESaCvrU8MZTeTClygXDPzAPCtlC3Ru_?usp=sharing\r\n\r\nAuthor: ssp547",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 49,
+                "name": "Bee's Password",
+                "points": 1000,
+                "solves": 0
+            }
+        ],
+        "Web": [
+            {
+                "category": "Web",
+                "description": "I asked My friend Jason to build me a new e-commerce website. We just finished the login system and there's already bugs \ud83e\udd26\r\n\r\nAuthor: jro",
+                "files": [
+                    "/files/a41e95bbba52f0a2feaf5965afe788a2/dist-no-sql-injection.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMzMn0.ZiNEMw.l8L8B3CkvmHKP4nM3qbTQyZPylA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 4,
+                "name": "No Sql Injection",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Web",
+                "description": "Your honest feedback is appreciated :) (but if you give us a good rating we'll give you a flag)\r\n\r\nAuthor: jro",
+                "files": [
+                    "/files/0962bf5b30a9e62f3df2199232308344/dist-greyctf-survey.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMzMX0.ZiNEMw.OE7-m1kzvzfNcscWWyxjjgEmPak"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "Greyctf Survey",
+                "points": 1000,
+                "solves": 2
+            },
+            {
+                "category": "Web",
+                "description": "I opened a contest to see who could create the most beautiful CSS styles.\r\nFeel free to submit your CSS styles to me and I will add them to my website to judge them.\r\nI'll even give you a sample of my site to get you started.\r\nFlag only consists of numbers and uppercase letters.\r\n\r\nAuthor: Junhua",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 34,
+                "name": "Beautiful Styles",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Web",
+                "description": "I just learnt how to design my favourite `flask` webpage using `htmx` and `bootstrap`.\r\nI hope I don't accidentally expose my super secret flag.\r\n\r\nAuthor: Junhua",
+                "files": [
+                    "/files/c740b51c8a401dd644fb337268cf3867/dist-baby-web.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMzM30.ZiNEMw.PtS7CNY2J5PyxWUPXeJB8cPsCjY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 33,
+                "name": "Baby Web",
+                "points": 997,
+                "solves": 4
+            },
+            {
+                "category": "Web",
+                "description": "Rust is the most safest, fastest and bestest language to write web app!\r\nThe code compiles, therefore it is impossible for bugs!\r\nPS: This is my first rust project (real) \ud83e\udd80\ud83e\udd80\ud83e\udd80\ud83e\udd80\ud83e\udd80\r\n\r\nAuthor: jro",
+                "files": [
+                    "/files/dc6e34729f88a55f8fa1718b0d3d6834/dist-fearless-concurrency.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMzNH0.ZiNEMw.Glsj8ANHqP7GhAi8Odmb6Fd_YpY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "Fearless Concurrency",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Web",
+                "description": "I built this simple markdown parser. Please give me some feedback (in markdown), I promise to read them all. Current features include: bold, italics, code blocks with syntax highlighting!\r\n\r\nAuthor: ocean",
+                "files": [
+                    "/files/e856c69c9882eda49a1a953e1204e776/dist-markdown-parser.zip?token=eyJ1c2VyX2lkIjoxMjEwLCJ0ZWFtX2lkIjo1MjEsImZpbGVfaWQiOjMzNX0.ZiNEMw.Iq0gOs53544GkJ7BBeycWNo1OWI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "Markdown Parser",
+                "points": 988,
+                "solves": 7
+            }
+        ]
+    },
+    "title": "Grey Cat The Flag 2024",
+    "url": "https://ctfd.nusgreyhats.org"
+}
