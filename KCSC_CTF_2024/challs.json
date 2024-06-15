@@ -1,0 +1,366 @@
+{
+    "data": {
+        "Crypto": [
+            {
+                "category": "Crypto",
+                "description": "Come to our square and gain glory!\r\n\r\nAuthor: `jella3101`",
+                "files": [
+                    "/files/2ff351ccda1e15d3e5226ae4125214bc/public.rar?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjE3fQ.ZkB3bA.GhyKe2KcWUYtQxRPB1O6e8vgkuE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 23,
+                "name": "KCSC Square",
+                "points": 479,
+                "solves": 8
+            },
+            {
+                "category": "Crypto",
+                "description": "Luck is only for those who try =))\r\n\r\nAuthor: `jella3101`",
+                "files": [
+                    "/files/a229e4e3bea6e6d610956d06e86591a0/public.rar?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjE1fQ.ZkB3bA.YiaUDKLu10oAcvuEGomM845MLFA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 21,
+                "name": "KCSC Lottery v3",
+                "points": 499,
+                "solves": 3
+            },
+            {
+                "category": "Crypto",
+                "description": "Any crypto-er doesn't know Coppersmith technique can never be a true crypto-er\r\n\r\nAuthor: `jella3101`\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+                "files": [
+                    "/files/a8f1210aa420a3a49ab4ee1932a7d21f/public.rar?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjEyfQ.ZkB3bA.JhqMT_GfrSptwEJa6sa9MI3tSYk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 16,
+                "name": "Don Copper",
+                "points": 484,
+                "solves": 7
+            },
+            {
+                "category": "Crypto",
+                "description": "just misc warm up",
+                "files": [
+                    "/files/ced8fa249230852a878c2e430713a63e/Miscrypt.zip?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjI2fQ.ZkB3bA.7vNM307KZ8pjmDudjCXM-SKmBRA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 33,
+                "name": "Miscrypt",
+                "points": 464,
+                "solves": 10
+            },
+            {
+                "category": "Crypto",
+                "description": "You're used to CBC authentication, but how about ECB\r\n\r\nAuthor: `jella3101`",
+                "files": [
+                    "/files/fca7e615f94715717df8bfddf67a6e28/public.rar?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjE0fQ.ZkB3bA.GfMoRgD-bCYcRWNctkfYUpi0qb4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 20,
+                "name": "Evil ECB",
+                "points": 400,
+                "solves": 16
+            }
+        ],
+        "Forensics": [
+            {
+                "category": "Forensics",
+                "description": "Lombeos, 1 ng\u01b0\u1eddi b\u1ea1n c\u1ee7a t\u00f4i nh\u1eadn \u0111\u01b0\u1ee3c 1 file \u0111\u01b0\u1ee3c g\u1eedi n\u1eb7c danh. B\u1eb1ng linh t\u00ednh c\u1ee7a m\u00ecnh, anh \u1ea5y nghi ng\u1edd file n\u00e0y l\u00e0 \u0111\u1ed9c h\u1ea1i v\u00e0 quy\u1ebft \u0111\u1ecbnh g\u1eedi l\u1ea1i file cho b\u1ea1n \u0111\u1ec3 ph\u00e2n t\u00edch. Li\u1ec7u b\u1ea1n c\u00f3 th\u1ec3 gi\u00fap anh \u1ea5y kh\u00f4ng?\r\n\r\nFlag format: KCSC{}\r\n\r\nAuthor: `Nex0`\r\n",
+                "files": [
+                    "/files/a4c01f96310153012e43f00b3a7c8ff8/chall.zip?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjE4fQ.ZkB3bA.JMBA58pmnpcz3LD2hnAl1q1aji8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 25,
+                "name": "Jumper In Disguise",
+                "points": 499,
+                "solves": 3
+            },
+            {
+                "category": "Forensics",
+                "description": "My friend opened an image he downloaded from a link sent by a stranger and saw nothing. Then all his important files had been encrypted after rebooting his machine. To the best of your ability, answer the questions below and help us recover all encrypted files!\r\n\r\n1. What is the mitre ID of the technique that the adversary used to gain persistence?\r\nEx: T1098\r\n\r\n2. What is the name of the loader?\r\nEx: hentailoli.exe\r\n\r\n3. There is a flag inside the encrypted file, decrypt it and get back the flag! \r\nWhat is the content of the flag?\r\nEx: the_w0rld_sh4ll_know_pain\r\n\r\nWrap flag with format.\r\n\r\nFlag format: KCSC{answer1_answer2_answer3}\r\n\r\n[Download](https://drive.google.com/file/d/15xyPbKBAXk-7QJXRFOs49zVRK5atM2SW/view?usp=sharing)\r\n\r\nAuthor: `yobdas`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 24,
+                "name": "Toikhongbietdieudo",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Forensics",
+                "description": "B\u1ea1n c\u00f3 th\u1ec3 t\u00ecm \u0111\u01b0\u1ee3c timestamp c\u1ee7a url n\u00e0y khi n\u00f3 \u0111\u01b0\u1ee3c search kh\u00f4ng?\r\n\r\nURL: https://www.google.com/search?q=how+to+hack+facebook&sca_esv=566211836&source=hp&ei=FgsIZdOxIfaB2roP1r-QsA4&iflsig=AO6bgOgAAAAAZQgZJgCWK60cSQUhq1etDPOxGw-Hrq5j&ved=0ahUKEwjTlMPZ37OBAxX2gFYBHdYfBOYQ4dUDCAk&uact=5&oq=how+to+hack+facebook&gs_lp=Egdnd3Mtd2l6IhRob3cgdG8gaGFjayBmYWNlYm9vazIIEAAYgAQYxwMyCBAAGIAEGMcDMgUQABiABDIFEAAYgAQyCBAAGIAEGMcDMggQABiABBjHAzIIEAAYgAQYxwMyCBAAGIAEGMcDMggQABiABBjHAzIIEAAYgAQYxwNI-DdQ4QFYuDZwDngAkAEAmAGdAaABphuqAQUxMS4yMrgBA8gBAPgBAagCB8ICEBAAGAMYjwEY5QIY6gIYjAPCAhAQLhgDGI8BGOUCGOoCGIwDwgIREC4YgAQYsQMYgwEYxwEY0QPCAgsQLhiABBixAxiDAcICCxAAGIAEGLEDGIMBwgILEAAYigUYsQMYgwHCAggQABiABBixA8ICERAuGIoFGLEDGIMBGMcBGNEDwgIQEAAYgAQYsQMYgwEYsQMYCsICBRAuGIAEwgILEC4YgAQYxwEY0QPCAggQABiKBRiGA8ICBhAAGBYYHsICCBAAGIoFGLEDwgILEC4YigUYsQMYgwHCAgQQABgDwgIIEC4YgAQYsQPCAgoQABiABBhGGP8B&sclient=gws-wiz\r\n\r\nFlag format: KCSC{yyyy-mm-dd_hh:mm:ss.milisec}\r\n\r\nAuthor: `Nex0`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "Externet Inplorer",
+                "points": 100,
+                "solves": 38
+            }
+        ],
+        "Misc": [
+            {
+                "category": "Misc",
+                "description": "Join our discord here: https://discord.gg/FgnqHYn5",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 40,
+                "name": "Discord Check",
+                "points": 100,
+                "solves": 51
+            },
+            {
+                "category": "Misc",
+                "description": "Playback, playback,...what to playback?\r\n\r\nFlag format: KCSC{}\r\n\r\nAuthor: `Nex0`",
+                "files": [
+                    "/files/49845b65ad2126bcf74787b8d4c33380/Shadow.png?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjE5fQ.ZkB3bA._PRYXMoHokqsVTNDBfUp1oE5YLY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "Represent",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Pwn": [
+            {
+                "category": "Pwn",
+                "description": "You might have heard about QEMU. How about Qiling?\r\n\r\nTo install Qiling, refer here: https://docs.qiling.io/en/latest/install/\r\nInstall with the recommended way will help you run this challenge!\r\n\r\nDebug in Qiling: https://docs.qiling.io/en/latest/debugger/",
+                "files": [
+                    "/files/fc75f7c5f8cdc425058dfb091abff7d5/simpleqiling.zip?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjQ3fQ.ZkB3bA.M2D9mZKvPIHF-5iiteKE86u5kQc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 41,
+                "name": "Simple Qiling",
+                "points": 489,
+                "solves": 6
+            },
+            {
+                "category": "Pwn",
+                "description": "Welcome to our new petshop! You can find various kinds of pet, sometimes bugs too.\r\n\r\nAuthor: `JohnathanHuuTri`",
+                "files": [
+                    "/files/f05206cbf25e6c7eaaeceef1c3b3b0d2/ld-2.31.so?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjh9.ZkB3bA.HNa3qhjGzeCViy-eV6akcWcGQW4",
+                    "/files/0f76795f27f3bf36e7c59ee8dafdebd7/libc-2.31.so?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjl9.ZkB3bA.zX5i4bHR9HNiXd7D1ljyMBqPe8o",
+                    "/files/f5387db99213e89f38cdeb3c19653534/petshop?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjEwfQ.ZkB3bA.utoeNMEPbi6nOB6CnN82mHmmhSM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 14,
+                "name": "Petshop",
+                "points": 472,
+                "solves": 9
+            },
+            {
+                "category": "Pwn",
+                "description": "A baby service, very baby service that you should solve later\r\n\r\nAuthor: ` _chinokafuu_`",
+                "files": [
+                    "/files/9a4d3b268956352ab6c5468d4c7214e1/baby_service.zip?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjE2fQ.ZkB3bA.lKMUk67BnnPP-9AbWJX_2xGuWI8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "baby service",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Pwn",
+                "description": "Our club KCSC has created a new bank called KCSBank. It's still in beta but we cannot find out any bugs, please help us!\r\n\r\nAuthor: `JohnathanHuuTri`",
+                "files": [
+                    "/files/21d90f9e05e371d0661c514a6731c86b/banking.zip?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjExfQ.ZkB3bA.XhXofaJHXk09jpURtre2zMzIWcU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "KCSBanking",
+                "points": 464,
+                "solves": 10
+            },
+            {
+                "category": "Pwn",
+                "description": "Author: ` _chinokafuu_`",
+                "files": [
+                    "/files/2c26eb5c34a2e87495c5f72db79d226d/chall.zip?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjM4fQ.ZkB3bA.Kv9pf24bcUEmPi2UtcvnzrvnZl4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "Chain Chain Chain",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Reverse": [
+            {
+                "category": "Reverse",
+                "description": "Note: Run as Administrator",
+                "files": [
+                    "/files/abf76ef8078237dc0b88f0241cf0b1b7/mixture.exe?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjQ0fQ.ZkB3bQ.hhwgdCQC722kyp1ZwYZuqK22IWk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 39,
+                "name": "p2p",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "Reverse",
+                "description": "Challenge name tell everything!\r\n\r\nAuthor: `JohnathanHuuTri`",
+                "files": [
+                    "/files/19a761368313aae62190192bf3216aa4/flag.enc?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjM0fQ.ZkB3bA.LSY7yEQDri6ek65mexd6hoqTEmE",
+                    "/files/575fe7738ced18d2c9c9be62de3c7f68/rexrust?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjM1fQ.ZkB3bA.XS1Z3wTC94R3m_X5XSdG_BK8GWI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 36,
+                "name": "Re x Rust",
+                "points": 493,
+                "solves": 5
+            },
+            {
+                "category": "Reverse",
+                "description": "Don't miss anything.\r\n\r\nFlag format: KCSC{}\r\n\r\nAuthor: `ndt`",
+                "files": [
+                    "/files/0b7a2a347eb06cc8b9ebed23169bf457/chall.zip?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjQyfQ.ZkB3bQ.tCG7nf2Yq4y7kQtvKptw64MdP_c"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 34,
+                "name": "behind the scenes",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Reverse",
+                "description": "",
+                "files": [
+                    "/files/4910a4a4504912e1ff8af99838f63a00/re_fk3.exe?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjQ2fQ.ZkB3bQ.cuaNFD24o0Pg-RFTdIHo5WSffPA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 37,
+                "name": "f@k3",
+                "points": 400,
+                "solves": 16
+            }
+        ],
+        "Web": [
+            {
+                "category": "Web",
+                "description": "<div>Anh t\u1ea1m r\u1eddi b\u00e0n l\u00e0m vi\u1ec7c c\u00f9ng em xu\u1ed1ng ph\u1ed1 \u0111\u00f3n m\u00f9a Ph\u01b0\u1ee3ng n\u1edf</div>\r\n<div>Em \u01a1i l\u00ean xe m\u00ecnh \u0111i th\u00f4i, \u0111\u1eddi m\u00ecnh khi tr\u1ec5 l\u00fac v\u1ed9i</div>\r\n<div>Bao l\u00e2u r\u1ed3i ta kh\u00f4ng ngh\u1ec9 ng\u01a1i \u0111\u1ec3 th\u00e2n th\u1ec3 r\u00e9o h\u1ee5t h\u01a1i</div>\r\n<div>Tu\u1ed5i tr\u1ebb c\u00f3 \u0111\u01b0\u1ee3c bao nhi\u00eau n\u00e0o, ch\u1edbp m\u1eaft \u0111\u00e3 30 r\u1ed3i</div>\r\n<div>L\u1ea7n cu\u1ed1i m\u00ecnh ng\u1ed3i v\u1edbi nhau t\u1eeb khi n\u00e0o m\u00e0 c\u00f2n ph\u1ea3i ch\u1edd \u0111\u1ee3i</div>\r\n<div>...</div>\r\n<div>Tu\u1ed5i tr\u1ebb n\u00e0y m\u00ecnh c\u00f9ng nhau</div>\r\n<div>Kho\u00e1c vai \u0111i t\u1eeb s\u00e1ng t\u1edbi \u0111\u00eam</div>\r\n<div>H\u00e1t l\u00ean nh\u01b0 ch\u01b0a t\u1eebng \u0111\u01b0\u1ee3c h\u00e1t</div>\r\n<div>Vui nay th\u00f4i ai bi\u1ebft mai sau</div>\r\n<div>\u0110\u1eddi lo\u00e0i ng\u01b0\u1eddi n\u00e0y ng\u1eafn l\u1eafm</div>\r\n<div>T\u1ee9 chi ai \u00f4m h\u1ebft \u00e2u lo</div>\r\n<div>S\u1ed1ng nh\u01b0 ta ch\u01b0a t\u1eebng \u0111\u01b0\u1ee3c s\u1ed1ng</div>\r\n<div>C\u1ea7m b\u00e0n tay nhau \u0111i qua \u0111\u00eam d\u00e0i</div>\r\n<div>...</div>\r\n\r\n&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<small><i>[TamKa PKL](https://youtu.be/ghUh0NPHXy8?t=52)</i></small>\r\n<p></p>\r\n\r\n**Link:**  http://103.163.24.78:8888/\r\n\r\n**Author:** `null001`",
+                "files": [
+                    "/files/58d6eb9a42f37c139e537cf80af2feed/bai_ka_tuoi_tre.zip?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjQxfQ.ZkB3bQ.2c4HAm8uFoHSs6Rnm00GuI8NBXo"
+                ],
+                "hints": [
+                    "https://bash.cyberciti.biz/guide/Reads_from_the_file_descriptor_(fd)\n",
+                    "https://www.nginx.com/blog/rate-limiting-nginx/#Configuring-Basic-Rate-Limiting <br />\n**L\u01b0u \u00fd:** M\u00f4i tr\u01b0\u1eddng server kh\u00e1 gi\u1ed1ng v\u1edbi docker, n\u00ean test \u1edf local tr\u01b0\u1edbc, v\u00e0 gi\u1edbi h\u1ea1n s\u1ed1 request.\n"
+                ],
+                "id": 28,
+                "name": "B\u00e0i Ka Tu\u1ed5i Tr\u1ebb",
+                "points": 198,
+                "solves": 5
+            },
+            {
+                "category": "Web",
+                "description": "Oh, my baby, sweet like bubble gum<br>\r\nBouncin' like playin' ball<br>\r\n\ub354 \ub192\uc774 \uc62c\ub824\uc918<br>\r\nWe're gonna fly away<br>\r\n\r\nSweet like bubble yum<br>\r\nSo smooth, soft like a hug<br>\r\n\ub354 \uba40\ub9ac \ub0a0\ub824\uc918<br>\r\nLet's so far away\r\n<center><i> <a href=\"https://www.youtube.com/watch?v=ft70sAYrFyY\">Bubble Gum</a> </i></center><br>\r\n\r\nNote: \r\n+ The Apache service restarts every 10 seconds.\r\n+ You should try your exploit on your local machine before running the exploit on the server.\r\n\r\n**Author:** `chanze`\r\n",
+                "files": [],
+                "hints": [
+                    "https://github.com/php/php-src/pull/5595"
+                ],
+                "id": 32,
+                "name": "Bubble Gum",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Web",
+                "description": "With the kids sing out the future\r\n\r\nMaybe, kids don't need the masters\r\n\r\nJust waiting for the `little Busters`, Oh yeah\r\n\r\nWith the kids sing out the future\r\n\r\nMaybe, kids don't need the masters\r\n\r\nJust waiting for the `little Busters`, Oh yeah\r\n\r\n\u8272\u3042\u305b\u306a\u3044\u30ad\u30c3\u30c9\u30ca\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\r\n\r\n\u624b\u3068\u624b\u304c\u77e5\u3063\u3066\u3044\u308b\r\n\r\n\u540c\u3058\u30c9\u30a2\u3092\u30ce\u30c3\u30af\u3057\u305f\u3044\r\n\r\n\u3053\u306e\u58f0\u304c\u805e\u3053\u3048\u305f\u3089 \u98db\u3073\u51fa\u3057\u3066\r\n\r\n\r\nAuthor: `vanirxxx`",
+                "files": [
+                    "/files/f58a088b5245c19998033ef91e122df1/LittleBusters-toGive.zip?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjI0fQ.ZkB3bQ.i5Qpmb78lzR8LYdMEiJtTxAvPu0"
+                ],
+                "hints": [
+                    "Please check libraries version carefully"
+                ],
+                "id": 31,
+                "name": "Little Busters",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Web",
+                "description": "I just learned basic Flask and tried to create a simple application, please don't hack me :((\r\n\r\nGet instance: `nc 103.163.24.78 1337`\r\n\r\nNote: Please exploit on local machine before creating instance\r\n\r\nAuthor: `nhienit`",
+                "files": [
+                    "/files/cb8db0901fa79c7b65153f082954d350/public.zip?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjQzfQ.ZkB3bQ.PXS1pTevk8xwnAikg2upGFTcQj8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 38,
+                "name": "Simple Flask",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Web",
+                "description": "HAHAHAProxy\r\n\r\n\r\nPlease exploit on local machine before creating instance\r\n\r\nExample of creating Instance:\r\nhttps://gist.github.com/hypnguyen1209/9ee2c1b38c807e86ab3b9045d3a4edca\r\n\r\nAccess Token: https://kcsc.tf/settings\r\n\r\nRequest Instance:  `nc 103.163.24.78 1337`\r\n\r\nAuthor: `vtgsxx`",
+                "files": [
+                    "/files/755c613a5ad497a7205f9b94e628281f/restrictions.zip?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjM2fQ.ZkB3bQ.a3q3gPw_XYVv9JpHddutGQ-NtSg"
+                ],
+                "hints": [
+                    "HTTP Parsers Inconsistencies",
+                    "https://datatracker.ietf.org/doc/html/rfc9110#name-uri-references"
+                ],
+                "id": 6,
+                "name": "Restrictions",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Web",
+                "description": "**D\u0169ng** mu\u1ed1n bypass config SEB c\u1ee7a tr\u01b0\u1eddng \u0111\u1ec3 tra c\u1ee9u t\u00e0i li\u1ec7u trong l\u00fac thi k\u1ebft th\u00fac h\u1ecdc ph\u1ea7n, b\u1ea1n h\u00e3y gi\u00fap **D\u0169ng** nh\u00e9!\r\n\r\nG\u1ee3i \u00fd:\r\n- C\u00e0i \u0111\u1eb7t SEB b\u1ea3n full x64: https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.7.0/SEB_3.7.0.682_SetupBundle.exe\r\n- L\u01b0u \u00fd s\u1eed d\u1ee5ng \u0111\u00fang version n\u00e0y cho challenge\r\n- M\u1edf file `kcsc-ctf.seb` \u0111\u1ec3 m\u1edf SEB v\u1edbi m\u1eadt kh\u1ea9u: kma (lowercase)\r\n- Setup local test:\r\n\t- Binding url http://localhost:10003 th\u1eb3ng v\u00e0o SEB Configuration Tool\r\n\t- Ch\u1ecdn th\u1ebb *Exam*, tick ch\u1ecdn *Use Browser Exam Key and Configuration Key*\r\n\t- Save\r\n\t- Copy 2 key n\u00e0y v\u00e0o file `.env`\r\n\t- M\u1edf Safe Exam Browser.\r\n- Url http://itest.kcsc.tf:10003 (only accept SEB ;))\r\n\r\n*Gud luck!*\r\n\r\nAuthor: `meulody`",
+                "files": [
+                    "/files/52954c0623b40670c2fffa6c68c9bdde/kcsc-ctf.seb?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjMwfQ.ZkB3bQ.-PA0jWbZMekr-OQWOFX_y3bRgDw",
+                    "/files/bbf8d1c5ad859c1266e08b2f89c119ee/source.zip?token=eyJ1c2VyX2lkIjo2NCwidGVhbV9pZCI6MjEsImZpbGVfaWQiOjQwfQ.ZkB3bQ.NaO5iZZAXblXS1uCPT5ReNXr5jk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 35,
+                "name": "Itest develop",
+                "points": 500,
+                "solves": 1
+            }
+        ]
+    },
+    "title": "KCSC CTF 2024",
+    "url": "https://kcsc.tf"
+}

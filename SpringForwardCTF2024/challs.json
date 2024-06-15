@@ -1,0 +1,449 @@
+{
+    "data": {
+        "Bin": [
+            {
+                "category": "Bin",
+                "description": "* Power ... I seek power!\r\n\r\nDownload power-static or power\r\n\r\nDeveloped by: [Native Function](https://www.github.com/NativeFunction)",
+                "files": [
+                    "/files/774bfd167a78d8da70a7aa12d593fcc7/power?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MzB9.Zi0hhQ.l912lDT1EnfmdyrVYVBt42hdtwk",
+                    "/files/7f29e8186e269cb94fff2b555210ad5f/power-static?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6Mzh9.Zi0hhQ.WrX-fbFCwNDXllGHSqcRSEZV7io"
+                ],
+                "hints": [
+                    "Transformers are pretty powerful, let them help you."
+                ],
+                "id": 47,
+                "name": "Power ",
+                "points": 1000,
+                "solves": 7
+            },
+            {
+                "category": "Bin",
+                "description": "Speak with Fate itself to earn your flag\r\n\r\nDeveloped by:\t [Robert Blacha](https://www.github.com/robertblacha)",
+                "files": [
+                    "/files/96ad943474962529ade817d88b8b5e27/testOfLuck?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6Mzd9.Zi0hhA.oBzDJG_OkykE06SfcR_B81j5NKo"
+                ],
+                "hints": [
+                    "It might be possible to predict fate itself"
+                ],
+                "id": 36,
+                "name": "TestofLuck",
+                "points": 748,
+                "solves": 13
+            }
+        ],
+        "Crypto": [
+            {
+                "category": "Crypto",
+                "description": "Red is one of the most recognizable colors of the Roman Empire, associated with the Mars, the God of War. Red banners would be raised during celebrations of military victories. However, something seems off with this banner...\r\n\r\nEach word in the flag should be separated by an underscore. Make sure not to yell when typing in the flag.\r\n\r\nDeveloped by: [N00D135](https://github.com/Iamironman15)",
+                "files": [
+                    "/files/326248cded0eee5938ff56c8dceb5708/scarlet_banner.png?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MTh9.Zi0hhQ.KIs1mEjx1xceJ0VzwsJ5i6_1WJU"
+                ],
+                "hints": [
+                    "Hidden in a famous fast food restaurant, a historic display is dedicated to the talkers who mastered this code."
+                ],
+                "id": 26,
+                "name": "twisted-tongues",
+                "points": 267,
+                "solves": 109
+            },
+            {
+                "category": "Crypto",
+                "description": "My greek friend recently has been screwing around with the idea of cryptography and sent me a message. Can you tell me what here message says?\r\n\r\nFormat: `nicc{theanswer}`\r\n\r\nDeveloped by: [TomB](https://www.github.com/Tomaszbrauntsch/)",
+                "files": [
+                    "/files/27864139848cecb784c1554ed27b241d/message.txt?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MTV9.Zi0hhQ.5lJCUHNnou4eyfUvheIkqT8shrQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 23,
+                "name": "My-friend's-message",
+                "points": 681,
+                "solves": 65
+            },
+            {
+                "category": "Crypto",
+                "description": "As you venture through The Bibliotheca, a renowned repository of ancient texts and knowledge, you stumble upon a forgotten corner obscured by dust and neglect. Between two towering tomes of myth and legend, you uncover a piece of sheet music, delicately wedged as if hidden for centuries. Its faded parchment bears no title, no composer's name, only a cryptic message scrawled hastily in the margins: \"Read the secrets\". Uncover the hidden message, the gods have blessed you, the 3rd beat in the 3rd measure is N.\r\n\r\nSubmit the flag in the format `nicc{flag_message}`\r\n\r\nDeveloped by: [tkg1121](https://github.com/tkg1121)",
+                "files": [
+                    "/files/4fa384b211cf94501db077c04a88e389/SheetMusic.pdf?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MTN9.Zi0hhQ.O1IVJR5w7Af_jQYtPk_CVzrwvYY"
+                ],
+                "hints": [
+                    "The theme is music"
+                ],
+                "id": 21,
+                "name": "Symphony-of-Secrets",
+                "points": 500,
+                "solves": 2
+            },
+            {
+                "category": "Crypto",
+                "description": "Whenever I send my friend memes on instagram about how \u201cLife has no meaning\u201d they tell me to stop being a nihilist, I wonder what that means\u2026\r\n\r\nflag format: nicc{@flag}\r\n\r\nDeveloped by: [jrs229](https://github.com/jrs229)",
+                "files": [
+                    "/files/0c89d967e33d66c09d830e61a27bfd25/underworld.txt?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MTR9.Zi0hhQ.RWrfPuW249Okhi3yEY-HSdLT8s8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "the-receiver-of-many",
+                "points": 438,
+                "solves": 57
+            },
+            {
+                "category": "Crypto",
+                "description": "Zeus is throwing the party of eons at the The Gardens of the Hesperides!!! Hermes is going to pick you up, but in order to get in you need to tell him the passcode or he's gonna leave you stranded! You have no idea what the passcode is, but you have a drinking cup, a party gift from the last one. Take a look at it, maybe there's a clue on it on what the password was. It belonged to an oracle that got so drunk, they went on a vision spell way into the future and started tweaking out!! They were biting into their cup, making clicky noises, scratching into it, rubbing the paint off. Look at the thing! It barely held up.\r\n\r\nFlag format: `nicc{flag}`\r\n\r\nDeveloped by: [rickyhernandez1000](https://github.com/rickyhernandez1000)",
+                "files": [
+                    "/files/cb6aeec15bd1df1fc972572a25761c64/jug.png?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MTZ9.Zi0hhQ.qCL1qVqT01kafRXeOsKDypUDPWg"
+                ],
+                "hints": [
+                    "Look closely at the cup."
+                ],
+                "id": 24,
+                "name": "Party-at-the-Gardens",
+                "points": 50,
+                "solves": 160
+            },
+            {
+                "category": "Crypto",
+                "description": "* We received a copy of a painting today that was given to The Council.\r\n* It seems to be a copy of The Fall of Atlantis by the artist Fran\u00e7ois de Nom\u00e9.\r\n* Scribbled on the back of the painting was a message that read:\r\n\r\n```Those who wander are lost.\r\nThose who gather are found.\r\nThose who seek are blind.\r\nThose who see are bound.\r\n\r\nTo help hide our home,\r\nwe sought to deceive,\r\nAnd told those who roam,\r\nthat we were lost to the seas.\r\n\r\nOnly when you eXamine `truth of time`\r\nbY `LIES FROM OLD` \r\nWill you find the map\r\nTo our home of gold.\r\n```\r\n\r\nThis is probably nothing... right?\r\n\r\nDeveloped by: [Cyb0rgSw0rd](https://github.com/alfredsimpson)",
+                "files": [
+                    "/files/7635e8fd9c05d9a8fdb038fd4b1ef467/atlantis.png?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MTd9.Zi0hhQ.TXMHKzwfBSpEbgU-rtnQKm9xyfE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 25,
+                "name": "fine-art",
+                "points": 1000,
+                "solves": 0
+            }
+        ],
+        "Forensics": [
+            {
+                "category": "Forensics",
+                "description": "Looks like Zeus forgot to clear his browser history. Time to take a peek!\r\n\r\nDeveloped by: BonsaiUmai",
+                "files": [
+                    "/files/56a524a764070919b3c4b3891ffaf1fb/zeus-data.json?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MjN9.Zi0hhQ.1G6c3lw6_o4uy_r-HsNYKaLUye4"
+                ],
+                "hints": [
+                    "Examine the contents of Zeus' exported browser history file to find the flag."
+                ],
+                "id": 31,
+                "name": "Browsing-History",
+                "points": 50,
+                "solves": 247
+            },
+            {
+                "category": "Forensics",
+                "description": "I found some cool songs on the Internet and got bored of storing my data as regular files.\r\n\r\nDeveloped by: [Noah Jacobson](https://github.com/noahajac)\r\n\r\nMIDI files 1 and 2 from [here](https://www.youtube.com/watch?v=r2K1yPbLrWc) and [here](https://bitmidi.com/smash-mouth-all-star-mid) respectively.",
+                "files": [
+                    "/files/25476c460d50a65608cd60131181f50a/coolsong1.mid?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MTl9.Zi0hhQ.slr5dbWiVp6pVTpLSciNDtEeAS0",
+                    "/files/fa488421d8788e52c81f1d1e5ceba9d0/coolsong2.mid?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MjB9.Zi0hhQ.hyTontXIHlVhEklwf91cJVxm-h8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "cool-songs",
+                "points": 499,
+                "solves": 10
+            },
+            {
+                "category": "Forensics",
+                "description": "In the vast expanse of digital space, an enigmatic anomaly has emerged, drawing upon the timeless tales of gods and monsters. It is known simply as the Event Horizon, a mysterious threshold where the boundaries between myth and reality blur. Will you dare to venture into the depths of the Event Horizon and uncover the mythic echoes that reverberate within? The fate of the digital realm and the legacy of ancient legends await those brave enough to embark on this epic quest. Find the suspicious event and send the time of its creation as the flag.\r\n\r\nThe format should be in the format `nicc{XXXX-XX-XXTXX:XX:XX.XXXXXXXZ}`\r\n\r\nDeveloped by: [tkg1121](https://github.com/tkg1121)",
+                "files": [
+                    "/files/fef330b5b789af3e9d4828e2e3540178/EventFiles.zip?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MjF9.Zi0hhQ.9Ak8JVD3yf_sacnvpbY9lrjGvGw"
+                ],
+                "hints": [
+                    "UTC time"
+                ],
+                "id": 28,
+                "name": "Event-Horizon",
+                "points": 500,
+                "solves": 7
+            },
+            {
+                "category": "Forensics",
+                "description": "Medusa has a portrait of herself, the only way people will look at her. She decides to share it with you while saying something about herself but she doesn't want to tell you directly. She tells you everything is in the portrait.\r\n\r\nDeveloped by: [Ash](https://github.com/Ashley432)",
+                "files": [
+                    "/files/28661318bfc4ce4c2e58fa19f03bacff/Her-Eyes-Her-Family.png?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MjJ9.Zi0hhg.pTIhD1qfo44JMaf7ThGPAzzaRMI"
+                ],
+                "hints": [
+                    "Text isn't the full text"
+                ],
+                "id": 30,
+                "name": "Her-Eyes",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "Forensics",
+                "description": "* You are an FBI agent and you have recoved a laptop running Windows 7 64bit.\r\n* The suspect is suspected of having pirated movies on their machine but deleted all evidence.\r\n* Find evidence that shows that movies were on the device.\r\n* Input the Flag as follows `nicc{movie,movie}` continue commas for more movies as found.\r\n* Laptop HDD Download: [here](https://mega.nz/file/5VxkBY4C#QvteQP6ivB7G84HD1bVGUneKJTkNVpmCC-haaTXY6YY) or [here (backup)](https://drive.google.com/file/d/18QoWDeWjBpEZFLyKKKTV3oPVq0QbpUIZ/view)\r\n\r\nDeveloped by: [Native Function](https://www.github.com/NativeFunction)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 29,
+                "name": "Hornigold",
+                "points": 750,
+                "solves": 7
+            }
+        ],
+        "Misc": [
+            {
+                "category": "Misc",
+                "description": "I was sent this picture of the mighty Greek hero Hercules. However, something seems odd about it and I can't put my finger on it. Oh...I almost forgot this catchpharse was sent with the picture: n3m3anl10n.\r\n\r\nFlag Format: `nicc{SpeltOutNumber_Days}` or `nicc{SpeltOutNumber_Month}`\r\n\r\nDeveloped by:\t [theamazins17](https://github.com/theamazins17)",
+                "files": [
+                    "/files/a5260046b21e761514ae1f948d0f4d26/hercules.jpg?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MjZ9.Zi0hhg.Egx0u_cim-diTA0-qcgu-3smLCU"
+                ],
+                "hints": [
+                    "Make sure to spell out the number of the format you are choosing"
+                ],
+                "id": 41,
+                "name": "labours-of-hercules-1",
+                "points": 254,
+                "solves": 112
+            },
+            {
+                "category": "Misc",
+                "description": "Minerva has something for you but as a goddess of wisdom and school she won't give it to you easily. Luckliy she has a form for you to fill out, if you pass her quiz she shall grant you your reward! To get on her good side you need to know she loves salads but can be pricy.\r\n\r\nDeveloped by: [Ash](https://github.com/Ashley432)",
+                "files": [],
+                "hints": [
+                    "Julius is selling salads for $137! No wonder he was over thrown."
+                ],
+                "id": 44,
+                "name": "Minerva's-Quest",
+                "points": 178,
+                "solves": 128
+            },
+            {
+                "category": "Misc",
+                "description": "I finally went on a voyage and heard the sirens!!! But...I thought they would be more seducing than this. Were they even saying anything??\r\n\r\nDeveloped by:\t [rickyhernandez1000](https://github.com/rickyhernandez1000)",
+                "files": [
+                    "/files/5646a6d006481a222d8699528ec4be8f/BAD-SINGING.wav?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MjV9.Zi0hhg.RSgpKqm3Ub_E-zOCfqSf_TfQ9ug"
+                ],
+                "hints": [
+                    "Sirens sang to you but mortal ears are rarely enough. Visualize the Sonic."
+                ],
+                "id": 35,
+                "name": "Bad-Singing",
+                "points": 50,
+                "solves": 165
+            },
+            {
+                "category": "Misc",
+                "description": "We have received a gift from the Gods! We praise them for this victory. Wait, did you hear that? Sounds like it came from within...\r\n\r\nDeveloped by: BonsaiUmai",
+                "files": [
+                    "/files/0bfbb70ea42d4a1c2c88f7e4becdcfdf/totally-innocent-horse.jpg?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MzZ9.Zi0hhg.gJTndzV9zfN49ZIQF366AsEPeZo"
+                ],
+                "hints": [
+                    "perhaps there is something inside"
+                ],
+                "id": 52,
+                "name": "Horsing-Around-at-Troy",
+                "points": 50,
+                "solves": 155
+            },
+            {
+                "category": "Misc",
+                "description": "A strange machine has appeared in the Underworld, as if from another time. An image of the machine has been crafted, maybe it contains more information on the device...\r\n\r\nDeveloped by:\t [LoadinConfusion](https://github.com/LoadinConfusion)\r\n",
+                "files": [
+                    "/files/8e0982fa3b5281665c880ec93eee1b56/Machine.jpg?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6Mjl9.Zi0hhg.0TTdrfW91z0tYxI8nYBDIeBD5w8"
+                ],
+                "hints": [
+                    "The device looks strangely familiar, maybe it had some historical significance and purpose associated with it."
+                ],
+                "id": 46,
+                "name": "Strange-Historical-Machine",
+                "points": 320,
+                "solves": 96
+            },
+            {
+                "category": "Misc",
+                "description": "We know that tech people don't like to go outside, so we brought the spring to you!\r\n\r\nFlag format: `nicc{alllowercasenospaces}`\r\n\r\nDeveloped by:\t [Daniel M.](https://github.com/dmarriello)",
+                "files": [
+                    "/files/61ad1fb6f6ef882cd592abb6559cb47b/main.js?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MzR9.Zi0hhg.4nrqEkQJ1cGIWU9I2Gca164B-pg",
+                    "/files/b3ef03bb9e9ffe4c6a439ef0d9050e6f/runner.html?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MzV9.Zi0hhg.8h3JG7qHGA5o65xvUMaBKVKCois"
+                ],
+                "hints": [
+                    "Don't overthink it. Let the code do the work, not you."
+                ],
+                "id": 51,
+                "name": "virtual-spring",
+                "points": 740,
+                "solves": 26
+            },
+            {
+                "category": "Misc",
+                "description": "You have slayed the mighty Nemean Lion and skinned it for your armour. This other image was sent to me but some werid, cryptic message appeared and I can't seem to find it anymore.\r\n\r\nFormatting is nicc{Full_Name_of_Creature}\r\n\r\nDeveloped by:\t [theamazins17](https://github.com/theamazins17)",
+                "files": [
+                    "/files/b34235e8c6cf174793f26b317287a5e7/hercules.jpeg?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6Mjh9.Zi0hhg.Q06-RGaHNOb6O1W-RcI7w-dDXtQ"
+                ],
+                "hints": [
+                    "This creature lead to Hercules dying later in his life. Hence the picture."
+                ],
+                "id": 43,
+                "name": "labours-of-hercules-2",
+                "points": 653,
+                "solves": 77
+            }
+        ],
+        "OSINT": [
+            {
+                "category": "OSINT",
+                "description": "Ancient greece was known for its copper and marble sculptures but this sculpture is made of ice. But who made this piece and what is its title?\r\n\r\nThe flag format is `nicc{FirstName_LastName_SculptureName}`\r\n\r\nDeveloped by: [N00D135](https://github.com/Iamironman15)",
+                "files": [
+                    "/files/83f38f0048bbec6513486c3ff197adca/Carvers_Choice_COL.jpg?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MzF9.Zi0hhg.K-0BK_w4mKul1r2dsOghpDoZFbw"
+                ],
+                "hints": [
+                    "The location is within the United States."
+                ],
+                "id": 48,
+                "name": "Freezing-February",
+                "points": 50,
+                "solves": 187
+            },
+            {
+                "category": "OSINT",
+                "description": "It has been said that the mighty Minotaur is found in the Aegean Sea on some palace. Can you help me find the island name and the palace name, so that I can slay it?\r\n\r\nFlag Format: `nicc{Island_Name_Palace_Name}`\r\n\r\nDeveloped by:\t [theamazins17](https://github.com/theamazins17)",
+                "files": [],
+                "hints": [
+                    "This palace is well-known of its preservation of famous frescos.",
+                    "Who owns the palace?"
+                ],
+                "id": 39,
+                "name": "its-a-bull-with-what",
+                "points": 366,
+                "solves": 83
+            },
+            {
+                "category": "OSINT",
+                "description": "After finding hade's @, I wonder what else he is hiding there\r\n\r\nflag format: nicc{whatdidyoudo?}\r\n\r\nDeveloped by: [jrs229](https://github.com/jrs229)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 45,
+                "name": "the-reciever-of-many-2",
+                "points": 488,
+                "solves": 26
+            },
+            {
+                "category": "OSINT",
+                "description": "I know there probably beaches where some wild stuff happens but when I heard about how this kid was conceived...it is certainly very unique. It must have been tough growing up with everything knowing about it as well. She did really well for herself, given the circumstances! What do you think her relationship with her dad was like?\r\n\r\nFlag Format: `nicc{daughter_father}`\r\n\r\nDeveloped by:\t [machoG](https://github.com/mmgajda)",
+                "files": [],
+                "hints": [
+                    "There are many different spellings, but only one right answer. So try 'em all.\n"
+                ],
+                "id": 38,
+                "name": "they-did-WHAT-at-the-beach",
+                "points": 498,
+                "solves": 13
+            },
+            {
+                "category": "OSINT",
+                "description": "I have been told that one of Cronus' children opened a restaurant about half a decade ago nearby my friend Percy.\r\nCan you tell me what the name of this establishment is and where is it located?\r\n\r\nFormat: `nicc{full_name_of_establishment_townname_stateabbr}`\r\n\r\nDeveloped by:\t [TomB](https://www.github.com/Tomaszbrauntsch)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 37,
+                "name": "Feast-like-it-is-2019",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "OSINT",
+                "description": "Somewhere far in the South East, a hero from three centuries ago wrote up a manuscript. It detailed how practicioners from their era should deal with the afflicted. Some say the affliction is incurable as if a spell were cast on them. Unfortunately, this national hero would later be executed for some of his other writings. I wonder if you can help me find the name of this manuscript?\r\n\r\nFlag should be the name of the paper in its untranslated form, with each word separated by a '-'. Diacritics or accent marks on letters are not required.\r\n\r\nExample: `nicc{Of-Mice-and-Men}`\r\n\r\nDeveloped by: BonsaiUmai",
+                "files": [],
+                "hints": [
+                    "Colonizers of the country executed this individual"
+                ],
+                "id": 53,
+                "name": "Witchcraft-in-the-South-East",
+                "points": 750,
+                "solves": 2
+            },
+            {
+                "category": "OSINT",
+                "description": "Simon Letti got lost in time again... \r\n\r\nUnfortunately, his professor refused to let him go see the Eclipse. He was so excited, too! Apparently his professor thought it wasn't worth it since NJIT wasn't going to get a total eclipse.\r\n\r\nHe was so upset he decided he was going to mix two of his favorite things: space and ancient civilizations. Maybe he's been watching too much Stargate?\r\n\r\nHe wouldn't say where he was going, but he was supposed to check in with Anna every 24 hours so we know he was safe but it's been a week already! \r\n\r\nIf we can find out when and where he was going we can probably go back and save him!\r\n\r\nHis dorm had a message on the door:\r\n\r\n\r\n> Anna, \r\n> Prof was right - we weren't going to see it fully here... \r\n> But I found the perfect eclipse! \r\n> \r\n> It was just over \ud834\udee5 long at the Kukulkan's Castle! \r\n> And it's brand new, so it'll be awesome.\r\n> Can you tell I've been practicing their language so I can communicate when I'm there? \r\n> They talk in numbers, right?\r\n> Anyway, I'll see ya back in \ud834\udee5\ud834\udeeb\ud834\udee4 -- hopefully!\r\n> \r\n> Don't worry, I'll check in!\r\n> \r\n> - Simon\r\n\r\n\r\nIf we can find the date of the eclipse and where he was going, we can probably get him back in time for the fall semester!\r\n\r\nflag format: `nicc{YYYY-MM-DD_City-Name}`\r\n**You can ignore any accents on the city name, if there are any. We'll figure it out!**\r\n\r\n\r\n* Developed by:\t [Cyb0rgSw0rd](https://github.com/AlfredSimpson)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 54,
+                "name": "I don't want to be a sacrifice!",
+                "points": 1000,
+                "solves": 6
+            }
+        ],
+        "Web": [
+            {
+                "category": "Web",
+                "description": "Cast into the inferno's depths, souls languish in perpetual torment, with no reprieve from the hellfire's embrace. Yet whispers endure of a realm_key, a legendary artifact able to traverse the boundaries between worlds, offering a glimmer of salvation. The question that burns as fiercely as the flames themselves: do you possess the courage to seek it? Find flag.txt and submit the flag in the format flag nicc{flag}\r\n\r\n\r\nDeveloped by: [tkg1121](https://github.com/tkg1121)",
+                "files": [],
+                "hints": [
+                    "The Keeper's Riddle last line"
+                ],
+                "id": 33,
+                "name": "Underworld-Bypass",
+                "points": 498,
+                "solves": 12
+            },
+            {
+                "category": "Web",
+                "description": "In the realm of digital Olympus, the Socratic-Script guarded its gates with cunning riddles. Only those versed in wisdom's tongue could unlock its secrets and ascend to the summit of victory. Many seekers faltered, but the chosen few, armed with knowledge, triumphed over the enigmatic challenge, earning their place among the digital deities. Upon your arrival, you discover an ancient tome with writing, what could it mean? Submit the flag found after gaining passage.\r\n\r\n`nicc{flag}`\r\n\r\nDeveloped by: [tkg1121](https://github.com/tkg1121)",
+                "files": [
+                    "/files/7b8ddf841925608bfa1055bcd25225e0/ancient_tome.txt?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6MjR9.Zi0hhw.cG0hEQwbxQibXT6Dz9UN9SU8LMM"
+                ],
+                "hints": [
+                    "Challenge would be so much easier if that filter was not there huh"
+                ],
+                "id": 32,
+                "name": "Socratic-Script",
+                "points": 50,
+                "solves": 182
+            },
+            {
+                "category": "Web",
+                "description": "A few months ago, we found a control panel for a time machine sitting openly on the Internet. Since then, it has been upgraded to require authentication with a username and password. Can you find a way to get in?\r\n\r\nDeveloped by: [Noah Jacobson](https://github.com/noahajac)",
+                "files": [],
+                "hints": [
+                    "How do you interact with a database?",
+                    "What does your browser see when requesting web pages?"
+                ],
+                "id": 40,
+                "name": "back-in-time",
+                "points": 488,
+                "solves": 26
+            },
+            {
+                "category": "Web",
+                "description": "Whether she was Hesiod's disfigured monstrous mortal or Ovid's cursed and abused fair maiden--Medusa and her Gorgon sisters must be stopped. If not we shall all be turned to stone! Enter their lair, learn your surroundings, and find a way...\r\n\r\nDeveloped by: [machoG](https://www.reddit.com/r/ClassicalEducation/comments/qveh4m/medusa_by_me_digital_discussion_hesiod_vs_ovids)",
+                "files": [],
+                "hints": [
+                    "INSPECTION is the key."
+                ],
+                "id": 34,
+                "name": "Into-the-Gorgons'-Den",
+                "points": 272,
+                "solves": 108
+            },
+            {
+                "category": "Web",
+                "description": "Great job gaining access to the site! We managed to get a hold of some of the code that's making the site work. The source that provided us the code also told us that the time machine's owner is trying to go back in time to find Koalemos. Why? Who knows! That isn't important right now.\r\n\r\nThe time machine currently does not appear to be working. I'm not saying it's a refrigerator box...but it's totally a refrigerator box.\r\n\r\nAnyways, we think there is still some information hidden on the server. Can you find how to get it it?\r\n\r\nDeveloped by: [Noah Jacobson](https://github.com/noahajac)",
+                "files": [
+                    "/files/c81aa913b9e203951e435034346c957c/back-in-time.zip?token=eyJ1c2VyX2lkIjoyOTQsInRlYW1faWQiOjE3NiwiZmlsZV9pZCI6Mjd9.Zi0hhw.hlu46Q0q5GEnTRtZGryfeYjakLI"
+                ],
+                "hints": [
+                    "[object Object]"
+                ],
+                "id": 42,
+                "name": "back-in-time-2-electric-boogaloo",
+                "points": 750,
+                "solves": 7
+            }
+        ]
+    },
+    "title": "SpringForwardCTF2024",
+    "url": "https://springforward.ctfd.io"
+}

@@ -1,0 +1,4 @@
+# Dirsearch started Sun May  5 18:37:26 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://34.132.166.199:5249/
+
+200     2KB  http://34.132.166.199:5249/login
+200     2KB  http://34.132.166.199:5249/login/

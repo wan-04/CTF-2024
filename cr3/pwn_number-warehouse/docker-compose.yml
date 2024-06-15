@@ -1,0 +1,8 @@
+version: "3"
+services:
+  app:
+    build:
+      dockerfile: Dockerfile
+    container_name: number-warehouse
+    ports:
+      - "8080:8080"

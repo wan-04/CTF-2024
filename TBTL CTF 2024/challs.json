@@ -1,0 +1,417 @@
+{
+    "data": {
+        "Crypto": [
+            {
+                "category": "Crypto",
+                "description": "Stop trying to decrypt the flag and decrypt the flag!",
+                "files": [
+                    "/files/7058b4fd31da32a46da2fbc0c7a6279c/server.py?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjQwfQ.Zj72qQ.ssJ9cEDrnbwEwNTUT7twxckrCI8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 28,
+                "name": "Kung Fu Cipher",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "Crypto",
+                "description": "I've recently got into woodworking and have build a beautiful fence just like [this one](https://en.wikipedia.org/wiki/Split-rail_fence).\r\n\r\nNow I'm working on a flag, but it turns out all garbled for some reason...\r\n\r\n`T0n40g5BG03cmk0D1hr}T{dFe_3g_3buL_5_n0`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 30,
+                "name": "Fence Building",
+                "points": 100,
+                "solves": 204
+            },
+            {
+                "category": "Crypto",
+                "description": "He says, \"Son, can you play me a memory?\\\r\nI'm not really sure how it goes\\\r\nBut it's sad and I'd brag how I found a gilmpse of a flag\\\r\nWhen I wore a younger man's clothes\"",
+                "files": [
+                    "/files/730fa0ded31283aab933a7a7abbc25d6/Pianists_Cipher.mp3?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjQyfQ.Zj72qQ.wbm-jSrLxVWmliKOphv0Sxb0JXE",
+                    "/files/67629eedadd8d03aaa977f8ec4224cdd/Pianists_Cipher.pdf?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjQzfQ.Zj72qQ.NCUHpOL77hDOlYR6ZjEmBzTRemo"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 31,
+                "name": "Pianist's Cipher",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Crypto",
+                "description": "I had to write a scientific paper for one of my university courses describing\r\nmy scientific role model. I wonder if my professors will be able to figure out\r\nwho I'm describing...\r\n",
+                "files": [
+                    "/files/96ee09d6ce8228b2f99a832c5d0597b1/chall.py?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjYzfQ.Zj72qQ.Q7rCibdsmiPqgpsMKdTE6r-hZSs",
+                    "/files/f887cd10b25f1a79aa6047d14a2ab3fc/description.txt?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjY0fQ.Zj72qQ.Z3M0MLbdNNWDDrsj15dwMRkcRP4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 42,
+                "name": "University Paper",
+                "points": 484,
+                "solves": 6
+            },
+            {
+                "category": "Crypto",
+                "description": "I had to write an essay for school describing my favorite classmate. I wonder\r\nif my classmates will be able to figure out who I'm describing...",
+                "files": [
+                    "/files/0cbd69f6ffb354c4974774ec7a7d3b05/chall.py?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjU4fQ.Zj72qQ.3NtGNqBM0BiWQ_pThwWuPjPZ_0s",
+                    "/files/19caf626e8362044f98e77f1e273124c/description.txt?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjU5fQ.Zj72qQ.Td7QZnmlgkwRXSC39R1NCEeGEvA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 40,
+                "name": "School Essay",
+                "points": 100,
+                "solves": 35
+            },
+            {
+                "category": "Crypto",
+                "description": "https://en.wikipedia.org/w/index.php?title=Digital_signature&oldid=1113936031\r\n\r\nAlice signs a message\u2014\"Hello Bob!\"\u2014by appending to the original message a version encrypted with her private key. Bob receives both the message and signature. He uses Alice's public key to verify the authenticity of the message, i.e. that the encrypted copy, decrypted using the public key, exactly matches the original message.",
+                "files": [
+                    "/files/f6d4728f3a5f7748e3ef641b5eed4fcf/server.py?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjQ0fQ.Zj72qQ.22ppv66wLnGPnYq7LS8M9Priz5E"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 32,
+                "name": "Wikipedia Signatures",
+                "points": 293,
+                "solves": 19
+            },
+            {
+                "category": "Crypto",
+                "description": "My decryption function is cursed, and now I've lost my flag forever...",
+                "files": [
+                    "/files/c9bcf01704fba6caf082042c136f0139/server.py?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjQxfQ.Zj72qQ.43DOJtVkeF2OEo7h9pQbz5HiHjw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 29,
+                "name": "Cursed Decryption",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Intro": [
+            {
+                "category": "Intro",
+                "description": "`\"}FTC_3h7_y0jn3-!d3s54P_kc3hC_y71n4S{LTBT\"[::-1]`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 43,
+                "name": "Sanitypy",
+                "points": 100,
+                "solves": 286
+            }
+        ],
+        "Misc": [
+            {
+                "category": "Misc",
+                "description": "Could you unlock the flag secured with the thread lock mechanism?",
+                "files": [
+                    "/files/b506d42c89ab41fe6529dbe9b72ccb2e/application.zip?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjI3fQ.Zj72qQ.VzSipE5svh8_eQKBJxwe4ltLkKQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "Locking Mechanism",
+                "points": 500,
+                "solves": 2
+            },
+            {
+                "category": "Misc",
+                "description": "[Verifiable credentials](https://www.w3.org/TR/vc-data-model-2.0/) are the future of digital identity!\r\nOur software might not be ready for the future though...\r\n",
+                "files": [
+                    "/files/2a6ced46e62e078539d862b02cc32268/server.py?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjMyfQ.Zj72qQ.5Xqt0kqhXmudXIPPoBAuiC_HiWU",
+                    "/files/e0a82dc3ddaee702393ddb3aa409c8c9/requirements.txt?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjMzfQ.Zj72qQ.tK9xh3sNbQgp0K1LMcjvdphE9Jo",
+                    "/files/c136b3441e2f46c57102f26790901857/mdl.txt?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjM0fQ.Zj72qQ.l3xOQX9ixQdhx4SFIp9o7zjTRQs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 23,
+                "name": "Your papers, please",
+                "points": 490,
+                "solves": 5
+            },
+            {
+                "category": "Misc",
+                "description": "\u795d\u4f60\u597d\u8fd0",
+                "files": [
+                    "/files/86a45a971260b4134bd93e8a7d4a19e0/chall.mp3?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjI5fQ.Zj72qQ.51cac5sH8PbDyO-HcvwaudswvQc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 21,
+                "name": "Tower of Babel",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "Misc",
+                "description": "Honey, have you seen my keys?",
+                "files": [
+                    "/files/158f1300f4896f5012b3e5f274f2b67d/mnemonic.jpg?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjMwfQ.Zj72qw.AhtK8hWAqZrGvNz1YEoCCblVcJI",
+                    "/files/5c1211533c3eff6b34f199097f24a6c6/flag.enc?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjMxfQ.Zj72qw.cipVIfI_-DJ9VOdIWvH7hkAkLt0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "Unfair Camera Wire",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Misc",
+                "description": "Due to [last year's\r\nincident](https://github.com/blockhousetech/TBTL-CTF/tree/master/2023/Misc/security_camera),\r\nour security team got transferred to a brand-new, cozy office.\r\n\r\nThe incident was successfully mitigated by placing the security camera so that\r\nit doesn't see the screen.\r\n\r\nWe believed our setup was completely secure, but hackers managed extract some\r\nsensitive data once again!\r\n\r\nWe inspected the [security camera\r\nfootage](https://drive.google.com/file/d/1xc8POr3KggG-t7cnrkjdvkLPcx9kAYW-/view?usp=drive_link),\r\nbut there's nothing there!\r\n",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 44,
+                "name": "Security Camera Revisited",
+                "points": 500,
+                "solves": 2
+            }
+        ],
+        "Pwn": [
+            {
+                "category": "Pwn",
+                "description": "May the fastest code win! Just make sure you get a green light from the security team before racing.",
+                "files": [
+                    "/files/1b697b5e47d62d1a8d85f9c3a4fa4ab8/fibonacci.c?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjQ1fQ.Zj72qw.DR3VjAHgIaMzKgXF2SVpfHKgVcA",
+                    "/files/e1b3e362e65f37af5728d9943e08fcf5/primes.c?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjQ2fQ.Zj72qw.t2g-qaVWj4xQUP6XH9A_xmm9lT8",
+                    "/files/170070ccf16d05b37096047d87d81f91/server.py?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjQ3fQ.Zj72qw.i6BjxFWY-VylVdhffJkQw6hlXx4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 33,
+                "name": "A Day at the Races",
+                "points": 477,
+                "solves": 7
+            },
+            {
+                "category": "Pwn",
+                "description": "Statistics can say anything you want them to ... perhaps even the flag.\r\n",
+                "files": [
+                    "/files/18ddeef72ebc9f7c36ca271fe79be689/chall?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjQ4fQ.Zj72qw.16my0hLyEO6J6gh2JKbNhbi3efs",
+                    "/files/36442da61c4bc4fd28bdbe564f35455b/chall.c?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjQ5fQ.Zj72qw.LLw8Sn15ggGvSNkD-AQFNxPuzvo"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 35,
+                "name": "Enough with the averages",
+                "points": 269,
+                "solves": 20
+            },
+            {
+                "category": "Pwn",
+                "description": "Throwback to the '[Turbo](/files/be89cfadfdb2dd087214bc4bd9ba271a/turbo.pdf)' tools.\r\n\r\n\r\n\r\n",
+                "files": [
+                    "/files/489cb2f6d134f7199bd5e20413758766/CHALL.CPP?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjU0fQ.Zj72qw.jIzuqW2-A9Un_Y4qjeaV3gOaj7g",
+                    "/files/0c53c7506eee3478c538267029d37c9e/CHALL.EXE?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjU1fQ.Zj72qw.1w-niapWTvxbRlGt25ytqVmkjik",
+                    "/files/9522e89d5ac4095ab1e66932b4c5802a/RUN.BAT?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjU2fQ.Zj72qw.tmKVESkaCpSZYxPh30MMYLcGQmc",
+                    "/files/db54e25e0dfd8bf7deb600f74bb3e9a7/server.py?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjU3fQ.Zj72qw.-vtxbVAghNoVB7M8Tj5zF3BHOEw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 38,
+                "name": "Pwn From the Past",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Pwn",
+                "description": "Last year's solutions were unintended, let's try it again.",
+                "files": [
+                    "/files/0bb34a4ee1be77bbc5fd7a52e7b019c5/chall?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjUwfQ.Zj72qw.3ZSXb3_Qk4ziddBjb_K7jHZNG2U",
+                    "/files/0001ae8aa4d1b5d67d82132c4d07189b/chall.cpp?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjUxfQ.Zj72qw.Mp-a2Sl7jNUtkMVCWBTSi0cqk6w",
+                    "/files/ad33437220b285a9700aae7073e58afa/libc-2.27.so?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjUyfQ.Zj72qw.vTp0RIzcWxRj0GaBC8_WnnmKDOA",
+                    "/files/ebe8524b1c3d3f1ec723e1e5eef3c5cf/libstdc.so.6.0.25?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjUzfQ.Zj72qw.FdWacsG2b2T2iV3DixGm266XIRY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 37,
+                "name": "Heap Peek and Poke",
+                "points": 500,
+                "solves": 2
+            },
+            {
+                "category": "Pwn",
+                "description": "No descripton &mdash; just enjoy the [music](https://www.youtube.com/watch?v=IrVD0bP_ybg).",
+                "files": [
+                    "/files/64dfed1a508bcfd33b995e7a85fe399a/chall.zip?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjY1fQ.Zj72qw.gFcKQ_Nam2ShUTpblC_coOhILkU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 34,
+                "name": "Diamonds and Rust",
+                "points": 495,
+                "solves": 4
+            },
+            {
+                "category": "Pwn",
+                "description": "Only the source can help you to escape from Python.",
+                "files": [
+                    "/files/94ea68bb6b731ab073434491704a7b87/squeezing_tightly_on_arm.py?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjI4fQ.Zj72qw.czXQrPGOy2orH_teOh_ASkjwhJ8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 20,
+                "name": "Squeezing Tightly On Arm",
+                "points": 500,
+                "solves": 1
+            }
+        ],
+        "Rev": [
+            {
+                "category": "Rev",
+                "description": "*When travelling by Floo powder it is important that you speak clearly, take\r\ncare to get out at the right grate, keep your elbows tucked in, shut your eyes,\r\ndon\u2019t fidget and don\u2019t panic.*\r\n\r\nOtherwise, you might end up in the wrong place without any flags.",
+                "files": [
+                    "/files/e7def5f94a7ef6536eb10b2d7936a38c/chall?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjM4fQ.Zj72qw.wuCSpI8SWhOOQ-kdnyQTIY7v7hk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 26,
+                "name": "Floo Powder",
+                "points": 484,
+                "solves": 6
+            },
+            {
+                "category": "Rev",
+                "description": "This one is simple &mdash; you provide the flag, and the binary tells you if\r\nits correct.",
+                "files": [
+                    "/files/ba0724aa2288685b654851aed80e491b/chall?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjM3fQ.Zj72qw.5G8Fk40C64YyRuYOsxVqgl3u3eY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 25,
+                "name": "Flagcheck",
+                "points": 293,
+                "solves": 19
+            },
+            {
+                "category": "Rev",
+                "description": "A few years back, a colleague of ours joined the company and uploaded some secure Rust code to the repository. Unfortunately, the repository has since been deleted, leaving us with only the executable file. The issue we're facing now is that the binary isn't functioning properly. Could you assist us in extracting the flag from the executable?",
+                "files": [
+                    "/files/c064e01327e4c85cd80bc86692a00ae3/safe_rust?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjM1fQ.Zj72qw.85MhYTnp3EJj8R5P9y-R6uhJZps",
+                    "/files/fa75b6874485ce45a8336fe543b63cb6/Dockerfile?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjM2fQ.Zj72qw.YzX7je4Unlc08DtJosFdO23kSxw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 24,
+                "name": "Safe Rust",
+                "points": 490,
+                "solves": 5
+            },
+            {
+                "category": "Rev",
+                "description": "We are proud to present our brand-new serverless\u2122\ufe0f, passwordless\u2122\ufe0f Vault.  Unlock the Vault to get your flag.",
+                "files": [
+                    "/files/7095a4b6f6c6a0af9a264f359714c444/vault?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjM5fQ.Zj72qw.4HfUFvHP-wZ6fsp_wZxCQBNZTvg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "Vault",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Rev",
+                "description": "[Smells Like Flag](https://www.youtube.com/watch?v=hTWKbfoikeg&t=57s) to me...",
+                "files": [
+                    "/files/ca037370e9b1a15d06b968d431e2eac1/chall?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjYwfQ.Zj72qw.xrFOEcPAo0K4uKBcJOUnH5CcZAs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 41,
+                "name": "The Flag is Lit",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Web": [
+            {
+                "category": "Web",
+                "description": "We've noticed some unusual communication occurring on a particular website. Could you assist in uncovering any hidden secrets being exchanged through this seemingly innocent platform?",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "Butterfly",
+                "points": 100,
+                "solves": 36
+            },
+            {
+                "category": "Web",
+                "description": "My neighbor is a college student who built a website for his cousin. He's having some trouble with it. Could you help him figure out what's wrong?",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "Talk To You",
+                "points": 100,
+                "solves": 73
+            },
+            {
+                "category": "Web",
+                "description": "Our colleague is currently on vacation in Mexico City and is using a local website to calculate distances between subway stations.\r\nWe have information that the database contains a city FLAG. Can you uncover the secret? Perhaps we can identify a vulnerability and secure a free vacation for our colleague.",
+                "files": [
+                    "/files/97a555adbc3946ec2446f444de5553e5/app.py?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjI0fQ.Zj72rA.vOUiVZ5s7bEmhsK2Hn69kl5BnG4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 16,
+                "name": "Mexico City Tour",
+                "points": 490,
+                "solves": 5
+            },
+            {
+                "category": "Web",
+                "description": "We've come across a simple tool for generating random matrices. As many people are using this service, we'd like to leverage your expertise to determine if the site is safe.",
+                "files": [
+                    "/files/5e91093775103aa84bef2528f2bbda63/app.py?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjY2fQ.Zj72qw.Z0cGJTrpLCgM8zdCfDeu_RYxnV0",
+                    "/files/bca8a39aa92c84a28a1b884be78abf50/generator_app.py?token=eyJ1c2VyX2lkIjoxMTkyLCJ0ZWFtX2lkIjo3NjQsImZpbGVfaWQiOjY3fQ.Zj72qw.CcLo_yKPBTtzRQdPrVtEB0oogtE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "Rnd For Data Science",
+                "points": 356,
+                "solves": 16
+            }
+        ]
+    },
+    "title": "TBTL CTF 2024",
+    "url": "https://tbtl.ctfd.io"
+}

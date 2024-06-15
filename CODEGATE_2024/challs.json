@@ -1,0 +1,300 @@
+{
+    "data": {
+        "ai": [
+            {
+                "category": "ai",
+                "description": "Can you beat the AI?<br>nc 13.125.209.34 5334",
+                "files": [
+                    "/files/a4ec22f67d54b4e18069baa35f400dfa/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MTN9.ZlrtMA.3OtOrkL30_X-eCE_MVdyQNU7pkM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 11,
+                "name": "ai_warmup",
+                "points": 250,
+                "solves": 101
+            }
+        ],
+        "blockchain": [
+            {
+                "category": "blockchain",
+                "description": "Your Team ID : 7f258d5b3ab79234954ef9699b1db224\r\n\r\nnc 43.201.150.10 31337",
+                "files": [
+                    "/files/81d6a9f87708ebe4e39ed4366c29e31c/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MjJ9.ZlrtMQ.53517vWQ-_puCWyTdJSK2w9M_gY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "Staker",
+                "points": 250,
+                "solves": 25
+            }
+        ],
+        "crypto": [
+            {
+                "category": "crypto",
+                "description": "Love Wins All<br>nc 3.35.166.110 3434\r\n\r\n[+] Please note that due to MTU issues, packet sizes larger than 1500B can be truncated. ",
+                "files": [
+                    "/files/b8ca19d7b9cda72d1719c39cb06893fc/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6NX0.ZlrtMQ.Cg_Ln7d9SHM8Cq37olhxUZ2JBrg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "Cogechan_Dating_Game",
+                "points": 917,
+                "solves": 3
+            },
+            {
+                "category": "crypto",
+                "description": "Let's play a \"FactorGame\"<br>nc 3.38.106.210 8287 \r\n\r\nInfo: There is a 500 second timeout.",
+                "files": [
+                    "/files/6838dfab4ad956034026d57191020b75/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MTF9.ZlrtMQ.jPaYezqLqDzhFYYEfAL8mzGlz78"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 8,
+                "name": "FactorGame",
+                "points": 358,
+                "solves": 13
+            },
+            {
+                "category": "crypto",
+                "description": "I made a very secure login APIs. Please test it.<br>Note. I recommend that you test your exploit code locally first because it may take quite a while.<br>nc 43.202.3.171 8081 ",
+                "files": [
+                    "/files/49ba21bb19631507af8fc00327a2e280/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MTJ9.ZlrtMQ.ghxqu4SW2ajShnbXvlbgffy_aRc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 9,
+                "name": "Baby Login",
+                "points": 864,
+                "solves": 4
+            }
+        ],
+        "misc": [
+            {
+                "category": "misc",
+                "description": "\"Real\" Mic Check<br>https://mic1.codegate.org<br>https://mic2.codegate.org ",
+                "files": [
+                    "/files/695b37a99f779cdb1f761be270b45ae6/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MTV9.ZlrtMQ.NFz_Pr58vhsREG-p2-vrhfvJz4s"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 13,
+                "name": "mic_check",
+                "points": 250,
+                "solves": 160
+            },
+            {
+                "category": "misc",
+                "description": "I installed the Trends Notification smartphone app to be notified of the latest IT trends. After installing it, I realized that I couldn't use the trend notification button unless I was a paid user. This is a challenge that you, as a free user, must solve.",
+                "files": [
+                    "/files/ce318cced720e14fc279d9271f9d4e59/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6NH0.ZlrtMQ.wKj7bT1pF1FPvjAOrSubeTqidxc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "trends_notification",
+                "points": 674,
+                "solves": 7
+            },
+            {
+                "category": "misc",
+                "description": "Buy Flag!\r\n\r\nChecks if a flag has been purchased with the given id, and if so, the flag will be displayed in the problem description.\r\n\r\nAddition 1: The given id is different for each team.\r\n\r\nDD Contract :\r\n[0x0A3E3E87C2B51469E56404459078e043B12e6cD6]( https://baobab.klaytnscope.com/account/0x0A3E3E87C2B51469E56404459078e043B12e6cD6)\r\n\r\nhttps://dice.onchain.kr/?id=0x409bb1fc073510554c60b43ec437d9b1a910256feecb194b052b9d43cbd5a2e9",
+                "files": [
+                    "/files/d10344e73d2d8eed6758e3cadc1aff1e/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MjN9.ZlrtMQ.cLFy_RTkIqMxAWGFSv2UiNrjGz4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 20,
+                "name": "DICE OR DIE",
+                "points": 394,
+                "solves": 12
+            }
+        ],
+        "pwn": [
+            {
+                "category": "pwn",
+                "description": "<br>I opened a new restaurant for ghost :)<br><br>nc 141.164.53.32 1337 ~ 1346<br><br>",
+                "files": [
+                    "/files/3cc01a84302fbeb1de03c2ef26ee8b03/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MTl9.ZlrtMQ.xvKYtzYoC1FjHjUC-BYcpqm7tVs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "Ghost Restaurant",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "pwn",
+                "description": "<br>Put Your Physical Abilities to the Test!<br><br>nc 3.36.86.231 4132 <br><br>",
+                "files": [
+                    "/files/9a2ff1772282aa0881aec8b4bec5e937/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MjV9.ZlrtMQ.F1gmJyzW8V1xUPDxVRK2lsfU5ck"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 21,
+                "name": "PhysicalTest",
+                "points": 674,
+                "solves": 7
+            },
+            {
+                "category": "pwn",
+                "description": "This is really not a my college assignment. \ud83e\udd2a\r\n\r\nnc 3.35.170.102 8811",
+                "files": [
+                    "/files/ee9203cc97450b5a96058da2b2b121f1/rfm.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MjB9.ZlrtMQ.psGZjoYq9h8hiDCooiKvvJXzmJ8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "rfm",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "pwn",
+                "description": "<br>What's wrong?<br><br>nc 43.201.84.138 9000<br><br>",
+                "files": [
+                    "/files/2d26d3e3c71e90ef1c892564c1231fc2/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6OX0.ZlrtMQ.M57H8ZX3a-kl4TmTNkmFQ_-8O18"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 6,
+                "name": "Ticket",
+                "points": 1000,
+                "solves": 1
+            }
+        ],
+        "rev": [
+            {
+                "category": "rev",
+                "description": "The messenger<br>ssh -p 2222 -i key user@43.203.217.37 ",
+                "files": [
+                    "/files/2db81a72a9ff91dc973e464be155b5ac/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6N30.ZlrtMQ.BtDdmGyf3ZoXuP1R7ebcIo7X20k"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 4,
+                "name": "prism_messenger",
+                "points": 917,
+                "solves": 3
+            },
+            {
+                "category": "rev",
+                "description": "This binary won't stop sending messages. It seems to be trying to tell us something important...<br>([BGM](https://www.youtube.com/watch?v=5leVql3RVnA))<br>* Flag is `codegate2024{[found_string]}`.<br>$ sha256sum ./messages<br>0356d4c29863d2c7111635c28db23790a229be56676880857d107b1076284dc3  ./messages<br>$ sha256sum ./flag_enc<br>34146e91b149fa6474e8cc2a3348329d23ed76d4b9b6611c78a2f16c2684a673  ./flag_enc<br>file link: https://drive.google.com/file/d/1xvj706eiPD7RQ3gatCHM_mfQ8wqNblS5/view?usp=sharing<br>",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "Everlasting_Message",
+                "points": 917,
+                "solves": 3
+            },
+            {
+                "category": "rev",
+                "description": "Did you know that a month ago was BASIC's 60th birthday? (Note: In Korea, a 60th birthday is called \u201cHwangap\u201d and has a special meaning). To celebrate, I've created a challenge using the BASIC language. Have fun!\r\n",
+                "files": [
+                    "/files/ea26ad4a6a310dd148a4d31af6cc37dc/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MTd9.ZlrtMg.deQgQsWguINCDAIiG3ixrAS2Scc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "LACUCARA_VM",
+                "points": 1000,
+                "solves": 0
+            }
+        ],
+        "revpwn": [
+            {
+                "category": "revpwn",
+                "description": "Unleash your imagination within your little game console.<br>nc 43.201.14.210 20001 ",
+                "files": [
+                    "/files/938d62f8ddabb42bda4b9544a5c99182/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MTZ9.ZlrtMQ.V0WRjaUznCmIaNQ3kDx9MdpRzdw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 14,
+                "name": "game$ay",
+                "points": 864,
+                "solves": 4
+            }
+        ],
+        "web": [
+            {
+                "category": "web",
+                "description": "Chat service soft-launch. I feel there might be some issues with the logic.<br>Could you take a look?<br><br>http://13.124.148.178:7777/<br>http://3.36.67.87:7777\r\n<br>http://3.36.61.5:7777",
+                "files": [
+                    "/files/cbaaea03db635198eeb8d8c76f1d1f38/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6OH0.ZlrtMg.z3GcUlLNLye9vtRp1oHZGCJiL7s"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 5,
+                "name": "Chatting Service",
+                "points": 250,
+                "solves": 35
+            },
+            {
+                "category": "web",
+                "description": "This is K-Wordpress<br><br>http://13.125.178.249<br><br>(18:15 KST) File has been updated. Please check the notice.",
+                "files": [
+                    "/files/bdfa99677d34e03f2a0f8a93c23b0429/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MjZ9.ZlrtMg.jCK1UNzZe4lwmqSnqNJ6RndgmKU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 7,
+                "name": "gnxboard",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "web",
+                "description": "WAFFFFF<br>http://3.39.6.7:8000/",
+                "files": [
+                    "/files/cfc8da21f48d0f38a2281bf4c3cd45dc/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MTh9.ZlrtMg.drP1BppImwHwg1w7UVvs-335rqY"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 16,
+                "name": "Cha\u2019s Wall",
+                "points": 358,
+                "solves": 13
+            },
+            {
+                "category": "web",
+                "description": "traditional calculator challenge<br>http://3.34.253.4:3000/",
+                "files": [
+                    "/files/a468999faa93bdd9c5e58569c4a3398f/for_user.zip?token=eyJ1c2VyX2lkIjozNTQsInRlYW1faWQiOjEzMywiZmlsZV9pZCI6MTR9.ZlrtMg.No4k1yBAM6v4QpXY1Xutfj64Hao"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 12,
+                "name": "master_of_calculator",
+                "points": 250,
+                "solves": 38
+            }
+        ]
+    },
+    "title": "CODEGATE 2024",
+    "url": "https://gen.codegate.org"
+}
