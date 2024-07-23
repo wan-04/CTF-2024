@@ -1,0 +1,243 @@
+{
+    "data": {
+        "": [
+            {
+                "category": "",
+                "description": "Match cards to win, don't get any wrong!\r\n\r\nAuthor: itsc0rg1",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 24,
+                "name": "match-one",
+                "points": 100,
+                "solves": 47
+            },
+            {
+                "category": "",
+                "description": "Terminal Challenges Welcome\r\n\r\nAuthor: Daniel Pendolinio",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 26,
+                "name": "meow",
+                "points": 100,
+                "solves": 143
+            },
+            {
+                "category": "",
+                "description": "This image from the past may hold the key to our future survival if you can find the hidden flag!\r\n(This is flag 1 of 4)\r\n\r\n\r\nAuthor: symmetric",
+                "files": [
+                    "/files/fc8a878d3c67f968a3087bebeeb8930d/sgai.tar.xz?token=eyJ1c2VyX2lkIjo0NTUsInRlYW1faWQiOjI5NiwiZmlsZV9pZCI6MjN9.ZjW9wg.oEspjoRt9HhqWE5_ktK5U0Rtm84"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 35,
+                "name": "sgai-1",
+                "points": 100,
+                "solves": 107
+            },
+            {
+                "category": "",
+                "description": "The flag is in /home/ctf/flag.txt, but where'd all the tools go???\r\n\r\nAuthor: ron",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 31,
+                "name": "No Tools",
+                "points": 100,
+                "solves": 108
+            },
+            {
+                "category": "",
+                "description": "This doc seems to be hiding something. Can you find what's hidden? \r\n\r\nFlag is in the form `CTF{-----_----_----}`.\r\n\r\n\r\nAuthor: ansh",
+                "files": [
+                    "/files/c35932cefe29007ad84e1cfdb81a8b15/SuperSecretWordDoc.docx?token=eyJ1c2VyX2lkIjo0NTUsInRlYW1faWQiOjI5NiwiZmlsZV9pZCI6MzZ9.ZjW9wg.kvGZIP6YCtUI-RmjFxXa6PwHN8s"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 16,
+                "name": "doctor",
+                "points": 100,
+                "solves": 100
+            },
+            {
+                "category": "",
+                "description": "Can you read between the lines?  \r\n\r\nFlag is the answer in the form `CTF{----_-------_---_-----}`.\r\n\r\n\r\nAuthor: ansh",
+                "files": [
+                    "/files/df7a78620ff91992073aefae9c909562/ciphertext.txt?token=eyJ1c2VyX2lkIjo0NTUsInRlYW1faWQiOjI5NiwiZmlsZV9pZCI6Mzd9.ZjW9wg.xveGJf7SBQ7GPJFgU10vLYZf9ak"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "missing characters",
+                "points": 703,
+                "solves": 24
+            },
+            {
+                "category": "",
+                "description": "Can you use XSS to steal the flag from the admin?\r\n\r\n\r\nAuthor: itsc0rg1",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 47,
+                "name": "web-tutorial-1",
+                "points": 100,
+                "solves": 51
+            },
+            {
+                "category": "",
+                "description": "You will know, when the time is right\r\n\r\nAuthor: itsc0rg1",
+                "files": [
+                    "/files/80979bed929ed1dd94f193dfc549e583/shinji.apk?token=eyJ1c2VyX2lkIjo0NTUsInRlYW1faWQiOjI5NiwiZmlsZV9pZCI6MjR9.ZjW9wg.OYIIq3UZEN2HZP1RV7s8AF64EkM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 39,
+                "name": "shinji",
+                "points": 919,
+                "solves": 13
+            },
+            {
+                "category": "",
+                "description": "Try to use XSS again to steal the flag from the admin?\r\n\r\n\r\nAuthor: itsc0rg1",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 48,
+                "name": "web-tutorial-2",
+                "points": 944,
+                "solves": 11
+            },
+            {
+                "category": "",
+                "description": "We built a Turing Machine, and put the flag onto the tape. Can you figure out how to work it and get the flag?\r\n\r\n\r\nAuthor: ron",
+                "files": [
+                    "/files/7eac954141023897a0d87e0c5097ccd4/turing-complete?token=eyJ1c2VyX2lkIjo0NTUsInRlYW1faWQiOjI5NiwiZmlsZV9pZCI6MjZ9.ZjW9wg.qDniX-GjbRoq00JYP5z-GkCRE6I"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 43,
+                "name": "Turing Complete",
+                "points": 964,
+                "solves": 9
+            },
+            {
+                "category": "",
+                "description": "This image from the past may hold the key to our future survival if you can find the hidden flag!\r\n(This is flag 3 of 4)\r\n\r\n\r\nAuthor: symmetric",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 37,
+                "name": "sgai-3",
+                "points": 311,
+                "solves": 36
+            },
+            {
+                "category": "",
+                "description": "Can you get a shell?\r\n\r\n*Note: the binary should have an executable stack and minimal hardening, the goal is RCE*\r\n\r\n\r\nAuthor: ron",
+                "files": [
+                    "/files/6b5c7c878bd068b874c1facb4d980f58/auth.cgi?token=eyJ1c2VyX2lkIjo0NTUsInRlYW1faWQiOjI5NiwiZmlsZV9pZCI6N30.ZjW9wg.M9UAeyxzJBKXcNQHnFE8BorDl7Q"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "Can't Give In",
+                "points": 998,
+                "solves": 3
+            },
+            {
+                "category": "",
+                "description": "This image from the past may hold the key to our future survival if you can find the hidden flag!\r\n(This is flag 2 of 4)\r\n\r\n\r\nAuthor: symmetric",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 36,
+                "name": "sgai-2",
+                "points": 998,
+                "solves": 3
+            },
+            {
+                "category": "",
+                "description": "A prankster claiming to be \"from the future\" keeps mailing film negatives to our editor. Can you make any sense of their insanity?\r\n(note enter flag as CTF{<alllowercasenospaces>})\r\n\r\n\r\nAuthor: symmetric & itsc0rg1",
+                "files": [
+                    "/files/13683109ea87d1ed726c90f6dd9fde5e/film.jpg?token=eyJ1c2VyX2lkIjo0NTUsInRlYW1faWQiOjI5NiwiZmlsZV9pZCI6MTV9.ZjW9wg.ToRh5UiGoOeLe9T7fRZxcDs_uDY",
+                    "/files/0b50a80f7fe574fa0d3935a67d09951f/help_and_letter.jpg?token=eyJ1c2VyX2lkIjo0NTUsInRlYW1faWQiOjI5NiwiZmlsZV9pZCI6MTZ9.ZjW9wg.EF0HbU31RXa15HmLFXYW1KQzBN0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 20,
+                "name": "kodakthriller",
+                "points": 1000,
+                "solves": 1
+            },
+            {
+                "category": "",
+                "description": "So you you think you're a human that likes reversing? How about solving for x? Well, now you have to solve for y :-D\r\n\r\n\r\nAuthor: symmetric",
+                "files": [
+                    "/files/5617c63c100df1a22eff5f004b3381d4/humain?token=eyJ1c2VyX2lkIjo0NTUsInRlYW1faWQiOjI5NiwiZmlsZV9pZCI6MzR9.ZjW9wg.M5SC8Zq7wGGROlL8G5xqK_FHEec"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "humain",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "",
+                "description": "Comrade, you're our last chance to stop the AGI. If your mission to infiltrate the nuclear missile silo fails all hope will be lost.\r\n\r\n\r\nAuthor: symmetric",
+                "files": [
+                    "/files/6e91389da4e1de59d96a1fdde33072b7/opnukeagi.tar.xz?token=eyJ1c2VyX2lkIjo0NTUsInRlYW1faWQiOjI5NiwiZmlsZV9pZCI6MjJ9.ZjW9wg.UU-Mz2Hl8f1iDSvjWvqXK99vu68"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 32,
+                "name": "opnukeagi",
+                "points": 1000,
+                "solves": 1
+            },
+            {
+                "category": "",
+                "description": "This image from the past may hold the key to our future survival if you can find the hidden flag!\r\n(This is flag 4 of 4)\r\n\r\n\r\nAuthor: symmetric",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 38,
+                "name": "sgai-4",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "",
+                "description": "For the safety of all, we've installed brand new license-plate scanners throughout the city! Check it out, but no speeding!\r\n\r\n*Note 1: If you gain access to a binary, it's compiled on `debian:bookworm` with the libraries `libmagickwand-dev`, `libmagickcore-dev`, and `libzbar-dev`*\r\n\r\n*Note 2: Run `/home/ctf/print-flag` to get the flag.\r\n\r\n\r\nAuthor: ron",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 34,
+                "name": "Safer Streets",
+                "points": 1000,
+                "solves": 0
+            }
+        ]
+    },
+    "title": "BSidesSF 2024 CTF",
+    "url": "https://ctf.bsidessf.net"
+}
