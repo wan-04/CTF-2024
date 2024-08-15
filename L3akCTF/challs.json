@@ -1,0 +1,763 @@
+{
+    "data": {
+        "CRYPTO": [
+            {
+                "category": "CRYPTO",
+                "description": "Untangle the secrets of the Universe!\r\n\r\nAuthor: ``diracdelta``",
+                "files": [
+                    "/files/ed2e91bca1a49b1bde4d7e549a54cae1/Quantum_L3ak.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MzB9.ZlCFXg.DEobdAvpYtjAmd6xsfJJ5j7-uYU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 31,
+                "name": "Quantum L3ak",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "CRYPTO",
+                "description": "I heard a rumor that matrices make crypto more secure! So I used one to encrypt the flag. Can you recover it?\r\n\r\nAuthor: ``ZafiN``",
+                "files": [
+                    "/files/ebfcaf7b69736f331f9ab5bbee82c5f9/main.sage?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MjV9.ZlCFXg.62IW1kurPJMACIW0wCZcH5p49Vk",
+                    "/files/fbc8a3f167e25c436bba16631dace68b/output.txt?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MjZ9.ZlCFXg.JEI_DZLU0nWz-wo9Q6Hewc-DIwU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 30,
+                "name": "Matrix Magic",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "CRYPTO",
+                "description": "I encrypted my flag twice with RSA, so I added some random padding just to be safe! Surely there's nothing wrong with my method...right??\r\n\r\nAuthor: ``S1mple``",
+                "files": [
+                    "/files/ac96a8827352171e7b9e9087e3667a7a/Related.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NTV9.ZlCFXw.CBRxrizCLGgwC0HziRft9ig2E_M"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 68,
+                "name": "Related",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "CRYPTO",
+                "description": "Armed with Pascal Paillier's Homomorphic Encryption scheme, perform some simple math and get the flag.\r\n\r\nAuthor: ``supaaasugee``",
+                "files": [
+                    "/files/77e97c96fb7f52993c43f0c590bdbddd/chal.sage?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NDB9.ZlCFXw.yIWwo3X4Be-WHT161A9wjZxA0fs",
+                    "/files/13c98bfef2211960ee880a835aad9c9b/challenge.txt?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NDF9.ZlCFXw.DdDXZHtLpkFMfVMFMTxqpy45umM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 52,
+                "name": "Paillien Tourist",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "CRYPTO",
+                "description": "We had a data breach. Can you help me recover the secret?\r\n\r\nAuthors : ``S1mple`` & ``Suvoni``",
+                "files": [
+                    "/files/2597c6f1b72904b64cdcfa8b7e72dfd8/chal.sage?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MjN9.ZlCFXQ.MhbGdwLQHN7fXxPP-tljdjElOJk",
+                    "/files/777e62c16c9bfa941a11da4e95bb3e90/out.txt?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MjR9.ZlCFXQ.wU_ZCwDGPm0jE0cTCDIWxNLVHQM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 25,
+                "name": "RSAn't",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "CRYPTO",
+                "description": "Like I said, it's really simple!\r\n\r\nAuthor: ``Suvoni``",
+                "files": [
+                    "/files/36245c79edc3c493e2640638ae7cb70e/server.py?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MzR9.ZlCFXg.tWiweKfduKlg00lSDQcjz7n-Ip8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 42,
+                "name": "Really Simple Algorithm",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "CRYPTO",
+                "description": "When life gives you digital signatures, put them on the rocks and drink them straight up. This challenge is like a stiff pour of cryptographic Hennessey. No chaser.\r\n\r\nAuthor: ``supaaasugee``",
+                "files": [
+                    "/files/1be914974f4c039b84504766ca8a4593/chal.py?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MzZ9.ZlCFXg.eLeiV7vPacboJiEcgkVXsqe86mc"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 46,
+                "name": "Crypto on the rocks",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "FORENSICS": [
+            {
+                "category": "FORENSICS",
+                "description": "Dynamic FOR THE WIN!\r\n\r\nPassword for the zip file: `vivisghost`\r\n\r\nAuthor: `vivisghost`",
+                "files": [
+                    "/files/b248b6daf737b7fe2af6fa469b627464/my_cursed_executable.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6Mjh9.ZlCFXw.wmJdM3U-dbWYMvISPBACnTJ6-Y4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "Do It Dynamically",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "FORENSICS",
+                "description": "**Hacking is all about persistence**\r\n\r\nAuthor: `vivisghost`",
+                "files": [
+                    "/files/f0a9d79facbccdb43183a2363ca33273/etc.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NDV9.ZlCFXg.PZ90VpA3TD5e13UIkq3vF-xA6ug"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 26,
+                "name": "HoldOnTight",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "FORENSICS",
+                "description": "Could you help me analyze and find out the **WiFi password** this person connected to is?\r\n\r\nDownload Link: https://mega.nz/file/F29DRYiC#uXZ6ObNW2Lf61jim0_GFSOjKK_ipoWS6OggY4FhQqW8\r\n\r\nAuthor: `Nex0`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 28,
+                "name": "AiR",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "FORENSICS",
+                "description": "During our educational course, one of our students found leaked data, but he does not know how it happened. Are you able to recover what was stolen?\r\n\r\nLink-1: https://drive.google.com/file/d/1zDJvdh-CPtuRglHvAXuZzYNVIwGnKBcs/view?usp=sharing\r\n\r\nLink-2: https://storage.googleapis.com/l3akctf-forensics/memdump.zip\r\n\r\nAuthor: `Abdelrhman`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 58,
+                "name": "The Spy",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "FORENSICS",
+                "description": "We have detected some anomalies in the network traffic. It's very likely that this is the result of an attack that we are unaware of. Could you help us investigate what happened? If this is indeed an attack, what has the attacker obtained?\r\n\r\nAuthor: `Nex0`",
+                "files": [
+                    "/files/d7228634f3f2bc5d2b0fc39f1a4d25ca/challenge.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NjR9.ZlCFXg.Bb4a3Kz4MyyruCa0tG3xXHNJeiM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 72,
+                "name": "Impostor",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "FORENSICS",
+                "description": "Investigator, we discovered this USB stick at the home of raven morris, a Miskatonic university student who is presumed dead after disappearing 4 months ago. Can you shed some light on the case?\r\n\r\nAuthor: `dsp`",
+                "files": [
+                    "/files/e65a058aa6a00e2135481864c65f593d/raven.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MzJ9.ZlCFXg.kB6rOlh4cu0WLjdi2v2gj7QzNNo"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 32,
+                "name": "raven",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "FORENSICS",
+                "description": "**awk ? grep ? sed ? always forget the order on those, well anyway have fun!**\r\n\r\nLink-1: https://fastupload.io/5m57\r\n\r\nLink-2: https://storage.googleapis.com/l3akctf-forensics/mem.zip\r\n\r\nAuthor: `0x157`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 29,
+                "name": "Pixelated \ud83e\uddc3",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "HARDWARE-RF": [
+            {
+                "category": "HARDWARE-RF",
+                "description": "Something is in-front of you, and you don't even know it. \r\n\r\nAuthor: `0x157`",
+                "files": [
+                    "/files/98198b0ef60195f5c28fe727cf7cfdab/file10.wav?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MTF9.ZlCFXw.FFXuFeUoziNfpyY-RqDeupD3CQQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 13,
+                "name": "Communication Gateway",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "HARDWARE-RF",
+                "description": "\"Of this one thing make sure against your dying day - that your faults die before you do.\" - *Lucius Annaeus Seneca, Letters from a Stoic*\r\n\r\nAuthor: ``Suvoni``",
+                "files": [
+                    "/files/33db36376de2b9ab7b12fbae03bcdfee/not-my-fault.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NTR9.ZlCFXw.EqB4UrFI2e7x59pZ4HJAF22oG4M"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 67,
+                "name": "Not my Fault!",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "HARDWARE-RF",
+                "description": "VHDL: Very Happy Digital Leprechauns\r\n\r\nImagine a world where all digital logic and circuits are maintained by cheerful, tiny leprechauns who take great joy in ensuring that your hardware designs work flawlessly. They busily manage all the gates, flip-flops, and signals, always with a smile on their tiny faces!\r\n\r\nAuthor: `Suvoni`",
+                "files": [
+                    "/files/9fa2e5bd76d1cb2396c9a30a8d53e8d7/vhdlcg.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MTB9.ZlCFXg.-E6UIyRA2j5b4RgWUqTQ93a4jGo"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 12,
+                "name": "VHDLCG",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "HARDWARE-RF",
+                "description": "We've received this file over the cosmic network at our headquarters. No idea what they tried to tell us, can you help ?\r\n\r\nAuthor: `0x157`",
+                "files": [
+                    "/files/c43af54f91bbcf1cb418f272eb1abe19/attachment.wav?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6OX0.ZlCFXg.w75WHhXcZ9c_bdgbKeqvbWhQbo4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 11,
+                "name": "Celestial",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "HARDWARE-RF",
+                "description": "I made an AES-128 hardware accelerator for ultra high-speed encryption performance! After I received my IC from the foundry, I ran some encryptions on it and measured the emitted electromagnetic field. Can you use these measurements to recover the secret key?\r\n![ic-overlay](/files/6620beaae03a5931cca2aab7737fa350/ic-overlay-2.png)\r\n\r\nAuthor: ``Suvoni``",
+                "files": [
+                    "/files/f4799c61482b593672c7fed834cdf226/Magnetik.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MTR9.ZlCFXw.owzXPGFze66g1SG19CPqQaN2dgI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 14,
+                "name": "Magnetik",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "MISC": [
+            {
+                "category": "MISC",
+                "description": "**I lost the sanity check flag somewhere in our discord server, help me find it :)**\r\n\r\n`https://discord.gg/wjSVdt3a7G`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "Sanity Check",
+                "points": 401,
+                "solves": 48
+            },
+            {
+                "category": "MISC",
+                "description": "Whoops lost another flag in our discord server, I really need this one so please find it. Thanks.\r\n\r\n> Only Discord server is in-scope for this challenge.\r\n\r\n`https://discord.gg/wjSVdt3a7G`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 24,
+                "name": "Insanity-Check",
+                "points": 500,
+                "solves": 4
+            },
+            {
+                "category": "MISC",
+                "description": "find hidden point with squares\r\n\r\nAuthor: `vivisghost`",
+                "files": [
+                    "/files/1aabcfd6f8252210d600fc4d058c3c06/square-game.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NjB9.ZlCFXw.pWFwShymOpmxjT3r6aOnGgcMubA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 55,
+                "name": "Square Game",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "MISC",
+                "description": "Who invented this modern technology?\r\n\r\nAuthor: `Matthias`",
+                "files": [
+                    "/files/6751be902baf17735811fdc3f1cc9d33/misc_Aztecs.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NDJ9.ZlCFXw.xkLXWbCEUv-24cwTmbcW9Xts29c"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 51,
+                "name": "Aztecs",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "MISC",
+                "description": "How fast do you think you can solve captchas?\r\n\r\nAuthor: `Matthias`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 48,
+                "name": "Windows-1252",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "MISC",
+                "description": "It's so easy to make a secure flag checker, just check it on the server, duh...\r\n\r\nAuthor: `ahh`",
+                "files": [
+                    "/files/9a1f902d7551b6ef7bb42b75b883cdfe/fire_checker.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NDN9.ZlCFXw.HEBl8Vss3tabHkA6-lrlpYcFNoA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 54,
+                "name": "Fire Checker",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "MISC",
+                "description": "Say goodbye to the empty promises of \"I'll refactor it later.\" Let's be honest\u2014you were never going to get to it. Introducing Refactor as a Service\u2122. Let our automated tools take care of all your refactoring needs! No more excuses. No more procrastination. Just clean, beautiful code, effortlessly. NOW WITH EXTRA SECURITY FEATURES!!!\r\n\r\nAuthor: `SteakEnthusiast`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 57,
+                "name": "Refactor as a Service 2",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "MISC",
+                "description": "Say goodbye to the empty promises of \"I'll refactor it later.\" Let's be honest\u2014you were never going to get to it. Introducing Refactor as a Service\u2122. Let our automated tools take care of all your refactoring needs! No more excuses. No more procrastination. Just clean, beautiful code, effortlessly.\r\n\r\nAuthor: `SteakEnthusiast`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 56,
+                "name": "Refactor as a Service",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "MISC",
+                "description": "I will take your code, and make it disappear!\r\n\r\nAuthor: `ahh`",
+                "files": [
+                    "/files/cb5593ad38abe3ca5a2c2572d5648e38/magic_trick.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NDh9.ZlCFXw.PaK5DsGFCgEfQgKCSwsHZ8ydW1o"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 62,
+                "name": "Magic Trick",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "MISC",
+                "description": "The challenge creator seems to have gone AWOL, leaving behind only a website for flag validation. \r\nWhile there's no challenge in sight, perhaps you can still extract some value from this unexpected situation.\r\n\r\n\r\n![cola](/files/9001b0ed214509d2b88aa2714e8cc640/cola.svg)\r\n\r\n\r\nAuthor: `bluegale`",
+                "files": [
+                    "/files/e2d0de09e6f60b62dcf1edf57523f377/FlagProof.sol?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NDZ9.ZlCFYA.VNp5mZjubYiYdaiTwoAaplbc_A4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 60,
+                "name": "Missing",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "MISC",
+                "description": "obligatory pyjail + PyMagic = ?\r\n\r\n`nc 34.139.98.117 6669`\r\n\r\nAuthor: `ahh`",
+                "files": [
+                    "/files/aceffb89f431ceb32046ae0758a195fc/dist.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NDl9.ZlCFYA.32gVTXw4UR3ZlkedKSmahwwZ3Ys"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 63,
+                "name": "PySysMagic",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "OSINT": [
+            {
+                "category": "OSINT",
+                "description": "When me and my friend aren't duoing CTFs, we like to play video games together. We left a trail of flags in the wake of our gaming antics, can you find them all? \r\nHere's a clue to start you off: **mch4cker1337**\r\n\r\nAuthors: `Suvoni` & `0x157`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "Gameplay-1",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "OSINT",
+                "description": "It's recommended to solve **Gameplay-1** before you can solve this challenge.\r\n\r\nAuthors: `Suvoni` & `0x157`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 4,
+                "name": "Gameplay-2",
+                "points": 500,
+                "solves": 2
+            },
+            {
+                "category": "OSINT",
+                "description": "You have to solve **Gameplay-2** before you can solve this challenge.\r\n\r\nAuthors: `Suvoni` & `0x157`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 5,
+                "name": "Gameplay-3",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "OSINT",
+                "description": "Submit the flag for the corresponding challenge (**chall1**) here.\r\n\r\nThe geosint platform can be found at: https://osint.buzz/\r\n\r\nAuthors: `0x157` & `Suvoni`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 7,
+                "name": "Geosint-1",
+                "points": 500,
+                "solves": 2
+            },
+            {
+                "category": "OSINT",
+                "description": "For this challenge, submit the name of the apartment complex in the flag wrapper **L3AK{}**. All lowercase, no spaces.\r\n\r\nExample Flag: `L3AK{1337apartmentcomplex}`\r\n\r\nAuthors: `Suvoni` & `0x157`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 6,
+                "name": "Gameplay-4",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "OSINT",
+                "description": "Submit the flag for the corresponding challenge (**chall2**) here.\r\n\r\nThe geosint platform can be found at: https://osint.buzz/\r\n\r\nAuthors: `0x157` & `Suvoni`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 8,
+                "name": "Geosint-2",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "OSINT",
+                "description": "The geosint platform can be found at: https://osint.buzz/\r\n\r\nSubmit the flag for the corresponding challenge (**chall4**) here.\r\n\r\nAuthors: `0x157` & `Suvoni`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "Geosint-4",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "OSINT",
+                "description": "The geosint platform can be found at: https://osint.buzz/\r\n\r\nSubmit the flag for the corresponding challenge (**chall3**) here.\r\n\r\nAuthors: `0x157` & `Suvoni`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 9,
+                "name": "Geosint-3",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "PWN": [
+            {
+                "category": "PWN",
+                "description": "Forget being a Chad; be a Choncc! A Choncc knows no canaries.\r\n\r\nAuthor: `drec`",
+                "files": [
+                    "/files/c9794e7dd6f7159072d4c9018c35d036/chonccfile.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NTB9.ZlCFYQ.Rkmx9Qw2eAoVkPTrMEDAsZ2cRJo"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 64,
+                "name": "chonccfile",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "PWN",
+                "description": "@dsp almost went insane trying to put a couple of privseped SUID binaries in nsjail. Be a friend and DM him on discord your solve script, and he will give you the flag. he doesn't bite.\r\n\r\nPlease build the image locally:\r\n\r\n`docker compose up -d --build pwnoodle`\r\n\r\nAuthor: ``dsp``\r\n",
+                "files": [
+                    "/files/a310c199c1341ae21109942f084fa6aa/pwnoodle.tar.gz?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NjJ9.ZlCFYA.7fPWLS7dMGQm3GS0EQEOQshpzp4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 70,
+                "name": "pwnoodle",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "PWN",
+                "description": "I was tryna crack the kernel base 'til my mate goes, \"just peep the notes, bruv.\"\r\n\r\n`nc 34.73.20.225 7670`\r\n\r\nAuthor: `pipironi`",
+                "files": [
+                    "/files/1601f2bd56a9dbd9afa794811a9ec8bb/xen_players.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NTF9.ZlCFYA.k7JuDj6f7uVlryfpmbQmJrNcwu0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 59,
+                "name": "xen",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "PWN",
+                "description": "doubled with gifts\r\n\r\nAuthor: ``Orrr``",
+                "files": [
+                    "/files/c40dde0531d96aa1b891857f7ed40a0f/oorrww_dist.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6Mzh9.ZlCFYA.XPx8BKweeBarbW2BSBO85SjUOzk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 49,
+                "name": "oorrww",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "PWN",
+                "description": "gifts disappeared\r\n\r\nAuthor: ``Orrr``",
+                "files": [
+                    "/files/359bb5cab4bf763f1a3831c18d071c70/oorrww_revenge.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6Mzl9.ZlCFYA.MLPM6meOeik-jZJhE-eRbyASjCE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 50,
+                "name": "oorrww_revenge",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "REV": [
+            {
+                "category": "REV",
+                "description": "Symbolic go vroom vroom\r\n\r\nAuthor: `0xnil`",
+                "files": [
+                    "/files/322ac363b4de64a15cbb74ec8bbbbd3c/angry?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MTZ9.ZlCFYA._8cNNtRvFE8UKayeNysGMJWmw8U"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "Angry",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "REV",
+                "description": "Why just fdf when you can do more ?\r\n\r\nAuthor: `0xnil`",
+                "files": [
+                    "/files/811979eadd00cd11a36a63d417606cd5/wires?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MTd9.ZlCFYQ.3HacgGSTmJrFXt790HYUsr1W88Y"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "Wires",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "REV",
+                "description": "We all start with baby steps.\r\n\r\nAuthor: `0xnil`",
+                "files": [
+                    "/files/c2c7e2acd4cb8845eedff72dee9b071c/hidden?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MTV9.ZlCFYQ.Lvyl41RGIewsi_-GLNmNEs5nsRk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "Hidden",
+                "points": 496,
+                "solves": 11
+            },
+            {
+                "category": "REV",
+                "description": "No crypto just rev.\r\n\r\n![anti](https://imgs.search.brave.com/7WBGyf2QUvBP3wuSjV93-y6cGkjCVI9i9P7Ld4zB6II/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/YXByaW9yaXQuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIx/LzA2LzEtMi5qcGc)\r\n\r\nAuthor: `0xnil`",
+                "files": [
+                    "/files/2893e8450c70fe7a05d6f9b6de09b872/anti?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MTh9.ZlCFYQ.1kw5CGkWg1epYMXw-Dv5hromFqs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 20,
+                "name": "Anti",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "REV",
+                "description": "C stands for Crab or Crypto ?\r\n\r\n![cipher](https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/3/8/5/5/2/Screenshot_2023-06-02_115948-4fbabbd0914dccdc.jpg)\r\n\r\nAuthor: `0xnil`",
+                "files": [
+                    "/files/3486b7d46e77ca0eeed07f5c7758c700/CC?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MTl9.ZlCFYQ.B3blGE83gjuhMgwaKDn0T6RWvRg",
+                    "/files/29e7f2bc3ec7c90d73fc65cf8495aa88/flag.bin?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MjB9.ZlCFYQ.73h0E1_QNTij8_kF9VJTBmy5WnM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "CC",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "REV",
+                "description": "Our Engineer Tried to save some space and combine the instructions into one . can you untangle them to reveal the secret phrase ?\r\n\r\n**PS:** instructions are not the same and hence the order is also not the same. GL \r\n\r\nAuthor: `S4muii`",
+                "files": [
+                    "/files/eb819a9f28e66eeacd5da99c96e85fc2/code?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MjF9.ZlCFYQ.XHAaBkiJIeJR3lnPx38yHEsqXqw",
+                    "/files/2bfd61e96071ef6f3635d9329d31ea1e/coolVM?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6MjJ9.ZlCFYQ.ckj54xO4NjZeTb43azEg_q2n9ng"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 23,
+                "name": "coolVM",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "REV",
+                "description": "Is wasm enough?\r\n\r\nAuthor: `yqroo`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 33,
+                "name": "Awesome",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "WEB": [
+            {
+                "category": "WEB",
+                "description": "Don't ask me about version 1 it was just a template here is the real sh*t\r\n\r\nAuthor : `WhyDude230` & `ACHUX21`\r\n\r\n",
+                "files": [
+                    "/files/1d6e87b892f90c92ebae0cbee4ebe279/KrySS2.0.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NTd9.ZlCFYQ.OLanfuD5GKEfovqbuoCqv0VYXzQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 40,
+                "name": " KrySS20",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "WEB",
+                "description": "Can you bypass my filters ?\r\n\r\n\r\nAuthors: `S1mple` & `Achux21`",
+                "files": [
+                    "/files/b350ed7eb4377f1cd380b80838440200/pepe.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NTh9.ZlCFYQ.dr2VqcNd5ggVaXE8eWXAIfbnMcw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 37,
+                "name": "PEPE",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "WEB",
+                "description": "As the CEO of a company, I made a quite unique notes app. Check it out!\r\n\r\nAuthor: `ahh`",
+                "files": [
+                    "/files/5224f8272e794c125da3d13c1da3ab4b/im_the_ceo.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NTZ9.ZlCFYQ.IZK9D1grLWc3zFNjcJG8y-N_1oI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 65,
+                "name": "I'm the CEO",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "WEB",
+                "description": "Unveil PHP Secrets.\r\n\r\nAuthor: `S1mple`",
+                "files": [
+                    "/files/cf1de6151eee28e7dd73a7a508afc57b/simple_calculator.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NjV9.ZlCFYQ.2ib-F7y1XH60JVfXOXhyvGGeyW8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 35,
+                "name": "Simple calculator",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "WEB",
+                "description": "![Description](/files/1a8a83f388666c5ed4f1360164727e6b/description.jpg)\r\n\r\nAuthor: `xhalyl`",
+                "files": [
+                    "/files/84d8fcf623fe84e40aae9449d9975c5c/BatBot.zip?token=eyJ1c2VyX2lkIjoyNDMsInRlYW1faWQiOjExNiwiZmlsZV9pZCI6NTl9.ZlCFYQ.Nh1ebNUBk7IshzTFeD7FjrQXy6k"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 69,
+                "name": "BatBot",
+                "points": 500,
+                "solves": 0
+            }
+        ]
+    },
+    "title": "L3akCTF",
+    "url": "https://ctf.l3ak.team"
+}

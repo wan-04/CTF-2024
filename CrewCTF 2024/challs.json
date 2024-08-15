@@ -1,0 +1,448 @@
+{
+    "data": {
+        "Blockchain": [
+            {
+                "category": "Blockchain",
+                "description": "**TREE**\r\n\r\nAuthor : mk",
+                "files": [
+                    "/files/b0886443a7ab2f35edc2c12f6a181036/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjYzfQ.Zq0WSA.sBLNBA4VuuZcmERzIHNx-z2R2SU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 30,
+                "name": "Tree",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Blockchain",
+                "description": "Can you help me write a PoC?\r\n\r\n{ This challenge has blood prizes }  \r\n\r\nAuthor : gss1 ",
+                "files": [
+                    "/files/b6378e5e520bd40b126348ebeb55f330/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjQ1fQ.Zq0WSA.UEFntMELd3MYTULlGn_o1KDPvc0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 31,
+                "name": "Lightbook",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Crypto": [
+            {
+                "category": "Crypto",
+                "description": "AES is very robust, but let's quadruple its power!\r\n\r\nAuthor : 7Rocky",
+                "files": [
+                    "/files/cd6d8910aa5cddefe01883d561730a48/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjI3fQ.Zq0WSA.xG6mnSiUm0WmZ8xX4AkKYfDh_Js"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "4ES",
+                "points": 495,
+                "solves": 2
+            },
+            {
+                "category": "Crypto",
+                "description": "get admin access!\r\n\r\nAuthor : Kiona",
+                "files": [
+                    "/files/154155f38107fe792a0f24a695b332ef/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjM5fQ.Zq0WSA.e979pzrT0PZCq5_vnEJH7OWt1kQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "Admin",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Crypto",
+                "description": "Small numbers and RSA do not get on well, but can I group them together?\r\n\r\nAuthor : 7Rocky",
+                "files": [
+                    "/files/d98eb767ba137145344e603ef9528689/dist.tar.gz?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjMwfQ.Zq0WSA.L5FhH3xnr34wiEGnlw0FUvqPs2k"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 5,
+                "name": "Read between the lines",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Crypto",
+                "description": "I can encrypt your messages, however, I will reveal just a little bit of information ...\r\n\r\nAuthor : KLPP",
+                "files": [
+                    "/files/a1953d68137e65a11c2622798572bc26/server.py?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjM4fQ.Zq0WSA.bJjqmbsCOLOH3dY4nRUjsnGmybs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 21,
+                "name": "Noisy Encryption",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Crypto",
+                "description": "Bigger numbers, more variables, go big or go home.\r\n\r\nAuthor : Babafaba",
+                "files": [
+                    "/files/377a8aa5af38658a209b359ea7d8c180/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjI5fQ.Zq0WSA.NDK2qX-0bHRMcm6QMyxR7LICZhQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 4,
+                "name": "Bigger and better",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Crypto",
+                "description": "Just your average LCG challenge\r\n\r\nAuthor : Blupper ",
+                "files": [
+                    "/files/dcc7bf170bb421346646b717b79fee76/chall.py?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjI4fQ.Zq0WSA.2pDzrmZQaYfX6tgzqN8U0WFnJsg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "Boring LCG",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Forensics": [
+            {
+                "category": "Forensics",
+                "description": "Someone was reading cards on my computer! Lucky I was listening...\r\n\r\nThe flag is in this format: `crew{[a-z0-9!_]+} `.\r\n\r\nAuthor : sealldev",
+                "files": [
+                    "/files/9eb7fcba34d5859e1409fd3db9e15e18/traffic.pcapng?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjMyfQ.Zq0WSA.nFr-CHSFAZ0vse7a2-LE_UenMeE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 7,
+                "name": "Unfare",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Forensics",
+                "description": "I plugged in a USB and it encrypted my files. Luckily I had the initiative to take an image of the USB after the encryption occurred (fiilllleeeeeeee.ad1). Can you find a way of decrypting my most important file (flag.txt)?\r\n\r\nNote: The ransomware in the image should be harmless as it only targets a specific directory that is incredibly unlikely to exist by chance.\r\n\r\nThe .zip password is fiilllleeeeeeee.\r\n\r\nAuthor : Oshawk ",
+                "files": [
+                    "/files/801e0acb155f730896683f90877381c1/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjU5fQ.Zq0WSQ.UxLHVWuoJq92WPRZ9Pv-E8INdcI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 8,
+                "name": "Fiilllleeeeeeee",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Forensics",
+                "description": "I obtained a memory dump including encrypted flag. How to decrypt it? Maybe, the source code leads us insights...\r\n\r\nDownload file : [here](https://drive.google.com/file/d/1B1zdENKIpgJQUyaezOLyRnSW5OrTwGa9/view?usp=sharing\r\n)\r\n\r\nAuthor : Kiona",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 53,
+                "name": "Crymem",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Misc": [
+            {
+                "category": "Misc",
+                "description": "Jails can be so restrictive. This jail is different! You can do whatever you want! As long as what you want is to use a debugger from 1991.\r\n\r\nAuthor : Aali ",
+                "files": [
+                    "/files/09f4069be7698fa89c389acec482dc74/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjQzfQ.Zq0WSQ.wZMF5qPmjOs08WJKvbtoZtDCSlo"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 26,
+                "name": "DEBUGjail",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Misc",
+                "description": "Welcome to the Shellcode Game, polyglot edition. Do you have what it takes to win the game? This challenge is probably harder than x64 edition even though it has fewer levels. Solving x64 edition may get you acquainted with the format but the skills you learn won't help you here. Good luck!\r\n\r\n(Handout is identical to x64 edition)\r\n\r\nAuthor : Aali ",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 29,
+                "name": "Shellcode Game - Polyglot",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Misc",
+                "description": "Welcome to CrewCTF 2024 \r\n\r\nhere's the [Discord](https://discord.gg/rW3dj7GhDq) ",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "Welcome",
+                "points": 50,
+                "solves": 86
+            },
+            {
+                "category": "Misc",
+                "description": "Welcome to the Shellcode Game, x64 edition. Do you have what it takes to win the game? This challenge is probably easier than polyglot edition but it should still be plenty challenging. Have fun!\r\n\r\n(Handout is identical to polyglot edition)\r\n\r\nAuthor : Aali ",
+                "files": [
+                    "/files/88156185e42f4d936a4bf499a494a484/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjQ0fQ.Zq0WSQ.RaCgWnICgIjDEGJnPha8J19bVzQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "Shellcode Game - x64",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Misc",
+                "description": "A two part challenge.\r\n\r\nSee the README in the download for details.\r\n( same attachment as sniff one )\r\n\r\nAuthor : Oshawk ",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "Sniff Two",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "PPC": [
+            {
+                "category": "PPC",
+                "description": "I've lost my PIN code, can you help me recover it?\r\n\r\nAuthor : Aali ",
+                "files": [
+                    "/files/7c9862bfb6991bd8cc7a08b577c0af44/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjUxfQ.Zq0WSQ.DMb7EogO2kz0tXncMmUp6y3sYGs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 44,
+                "name": "PINcode",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "PPC",
+                "description": "Can you guess my secret permutation with only these weird queries?\r\n\r\nAuthor : KLPP",
+                "files": [
+                    "/files/29444a23d4a17640b0b75b672d983671/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjUyfQ.Zq0WSQ.kgKHlcPj5SJbgCShAaai2mlTkQM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 46,
+                "name": "Root Oracle",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Pwn": [
+            {
+                "category": "Pwn",
+                "description": "Ulele.....\r\n\r\nAuthor : Linz",
+                "files": [
+                    "/files/7ad7640edb67604407cdbd9762985f09/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjQ2fQ.Zq0WSQ.NF7gSxIbQXV7RXARfTVM1fzTsno"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 35,
+                "name": "Ulele",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Pwn",
+                "description": "Just a basic note storage service... written in PHP!\r\n\r\nAuthor : Fredd",
+                "files": [
+                    "/files/ce26c05d98d23d0c0063da3e75cea4b1/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjU1fQ.Zq0WSQ.uT4FdIPEGuAi_uJsINE59YmmeSw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 34,
+                "name": "php-notes",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Pwn",
+                "description": "Hope your format string muscles are strong!\r\n\r\nAuthor : 7Rocky",
+                "files": [
+                    "/files/b0cf76e6c912581714c884ca9ff1ed58/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjU2fQ.Zq0WSQ.hJOCUpXQN6aNhSho4ewFLm-cNUg"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 33,
+                "name": "Format muscle",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Pwn",
+                "description": "FlagSafe version 2.3, now with Secure Erase Technology!(patent pending) By using our multi-erase technology we are able to erase your data more thoroughly than ever before! Flag encryptor functionality is unchanged from version 2.2.\r\n\r\nRemote is very slow, test your code locally first! To get consistent results, send your exploit in one go, do NOT wait for the application to start. As soon as a delay is introduced the simulation becomes non-deterministic.\r\n\r\nAuthor : Aali",
+                "files": [
+                    "/files/75a8f7b017333a2fce2e784907c80896/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjQ3fQ.Zq0WSQ._58uzQVpGJy8cwIgo7tPy1f9uJQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 37,
+                "name": "@megapwn",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Pwn",
+                "description": "KUlele.. .. .. \r\n\r\nAuthor : Linz",
+                "files": [
+                    "/files/88033de09ab85c4cee285e12c4553338/kUlele.tar.xz?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjU4fQ.Zq0WSQ.EhC3APIhbD2hkzRKSsm6Ru8oTjE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 43,
+                "name": "KUlele",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Reverse Engineering": [
+            {
+                "category": "Reverse Engineering",
+                "description": "Turn on the lights :)\r\n\r\nControls:\r\n\r\n    Click buttons to toggle them.\r\n    Click and drag to pan.\r\n    Use W/UP and S/DOWN to move between vertical levels.\r\n\r\n\r\nAuthor : Oshawk",
+                "files": [
+                    "/files/892ab2aadf8a7ae56bd92e195c9a78ac/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjM3fQ.Zq0WSQ.yrb8acLGuzIug2W6YQhVZi1LvEU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "Waiting For a Flag",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "How well do you know HTML, [The Programming Language](https://html-lang.org/) ?\r\n\r\n( same attachment as HTML - 1 )\r\n\r\n\r\nAuthor : Fredd",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 16,
+                "name": "HTML -2",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "How well do you know HTML, [The Programming Language](https://html-lang.org/) ? \r\n\r\nAuthor : Fredd",
+                "files": [
+                    "/files/a6cb4edee91061ee2ff273e098108848/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjM2fQ.Zq0WSQ.lmT-VuCSSN1e-V4TdZtEWDWvz-s"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "HTML - 1",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Reverse Engineering ": [
+            {
+                "category": "Reverse Engineering ",
+                "description": "Could you clone this device from a photo and a firmware dump?\r\n\r\nAll resistors are from the E12 series. Flag format is crew{.+}, the SHA256 hash of the correct flag is `cddb233420bc30ebf1000402bd6b9fab6fceb020593fa291b4215bec8c4ec415`.\r\n\r\n\r\nAuthor : Aali",
+                "files": [
+                    "/files/b52638f55677b72cfa6d34f59dc44c64/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjMzfQ.Zq0WSQ.UpRK7ukQhLxKM5KtCw6I_uJ8MqU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 11,
+                "name": "Flaggy",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Web": [
+            {
+                "category": "Web",
+                "description": "We came across an UAT deployment of a juicy turntable app. The synthesiser is jank, but hey, dev environments are usually less protected... right?\r\n\r\nFlag is in /app/flag.txt. A sample .mscz has been provided to try out the app.\r\n\r\n\r\nAuthor : TrebledJ",
+                "files": [
+                    "/files/d17d7beda4f562d7f653aa5e6af58407/niceview1.tar.gz?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjYxfQ.Zq0WSQ.ooseiRAyt5519EVkt3GHOXlG7jE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 23,
+                "name": "Nice View 1",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Web",
+                "description": "An awesome, minimal, down-to-earth markdown previewer!\r\n\r\n>     In a serener Bright,\r\n>     In a more golden light\r\n>     I see\r\n>     Each little doubt and fear,\r\n>     Each little discord here\r\n>     Removed.\r\n\r\n*     Emily Dickinson\r\n\r\n\r\nAuthor : Trebledj",
+                "files": [
+                    "/files/55968e9419cc4c753460d7d31d751e49/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjU3fQ.Zq0WSQ.8bRMYGve-SO-xthssAi30ypPI70"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 51,
+                "name": "Malkonkordo",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Web",
+                "description": "can you please Buy my Burger :( ? \r\n\r\nAuthor : Linz",
+                "files": [
+                    "/files/90ac92428cc4a468da87222221450847/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjQyfQ.Zq0WSg.uV1xzxKbl4tpC0rzbTMm-MYodEk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 25,
+                "name": "BearBurger",
+                "points": 500,
+                "solves": 0
+            },
+            {
+                "category": "Web",
+                "description": "We came across yet another UAT deployment of the juicy turntable app. The synthesiser is still jank and the environment is... equally protected?\r\n\r\nFlag is in /app/flag.txt. A sample .mscz has been provided to try out the app.\r\n\r\n\r\nAuthor : TrebledJ",
+                "files": [
+                    "/files/9fd11639a3ce5620e8b6059ba34938e6/dist.zip?token=eyJ1c2VyX2lkIjoxNTQxLCJ0ZWFtX2lkIjo4MjksImZpbGVfaWQiOjQxfQ.Zq0WSQ.Yp04aSl-cvZEzw8VQUdyp9P-ioQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 24,
+                "name": "Nice View 2",
+                "points": 500,
+                "solves": 0
+            }
+        ]
+    },
+    "title": "CrewCTF 2024",
+    "url": "https://2024.crewc.tf"
+}
