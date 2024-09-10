@@ -1,0 +1,358 @@
+{
+    "data": {
+        "Crypto": [
+            {
+                "category": "Crypto",
+                "description": "Let's learn how diffusion works in AES! (https://github.com/AnaClaraZoppiSerpa/diffusion-studies-supporting-codes)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 34,
+                "name": "AES Diffusion ",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Crypto",
+                "description": "You'll need more than 2700 core-years to break this encryption!",
+                "files": [
+                    "/files/fcfc0f48ec9c50cbd03aea5b29f2029a/msg1.enc?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6N30.ZtsnTA.0gXoLbuwexOp0QfzgMGYLdQrB1Y",
+                    "/files/975068cba0e4c22b6f42929db664b864/msg2.enc?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6OH0.ZtsnTA.JHsQo7f54ptr5NcKp1VBd-ztQZ0",
+                    "/files/4772e087a2daca29bad3937c935e0b57/public_key1?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6OX0.ZtsnTA.ch_lZYs5h_Ho_jYbwd8d3lp8h8E",
+                    "/files/9bbe95252a81010db6edb0993dff925f/public_key2?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6MTB9.ZtsnTA.LIlgy1PnGNr5tvkjFoHmfDoUwLA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "Trapdoor",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Crypto",
+                "description": "Let's learn about the importance of diffusion in cryptography!",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 35,
+                "name": "Diffusion Pop Quiz",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Crypto",
+                "description": "Hexhex , Yes that's it! hehe",
+                "files": [
+                    "/files/047efdb1ef6a6d9d5171be4e5363ca96/chall.txt?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6Nn0.ZtsnSw.NwvPde3yL6IHSaczYIbAsMNQ3Q8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "HexHex",
+                "points": 500,
+                "solves": null
+            }
+        ],
+        "Forensics": [
+            {
+                "category": "Forensics",
+                "description": "It appears there's been some shady communication going on in our network...\r\n",
+                "files": [
+                    "/files/6f52463db0f06f290435eb5ad4410cd0/chall.pcapng?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6Mzl9.ZtsnSw.6ad3IIr4j5s-0VXPYZ1ynOTRVag",
+                    "/files/e359ea895beb9adcf14e360694e058f1/keys.log?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6NDB9.ZtsnSw.p7O5IHBOPXrlaLsx83Nq4pJXrNs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "Covert",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Forensics",
+                "description": "Seems like medium rare just isn't my taste.\r\n\r\n[RAW](https://csaw-downloads.s3.us-east-1.amazonaws.com/RAW.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ3EGP65LZRKGL2WM%2F20240906%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240906T082612Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=b88b21ba56ddad1f38cdf2ab1989475897cb6b14cd1e0e263268612376315661)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 32,
+                "name": "I like it RAW",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Forensics",
+                "description": "Brighten up at last with the flag\r\n\r\n[challenge](https://terraform-20240903023243177200000004.s3.us-east-1.amazonaws.com/challenge.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ3EGP65LZRKGL2WM%2F20240906%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240906T044424Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=5092565be7a49f70110bae2f6fabe6039cb90197df8cfe068964f83a10922d34)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 31,
+                "name": "ZipZipZip",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Forensics",
+                "description": "Some things are hidden in plain sight. Use your knowledge of forensics and crypto to solve the challenge\r\n\r\n[images](https://csaw-downloads.s3.us-east-1.amazonaws.com/images.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ3EGP65LZRKGL2WM%2F20240905%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240905T230754Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=90d699c9071d9ec13faa61ca05458013594bf13e2320575cb8f3dda12b144af2)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "The Triple Illusion",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Forensics",
+                "description": "Maybe next time you should record your music in an acoustically treated space.\r\n\r\n[256.wav](https://csaw-downloads.s3.us-east-1.amazonaws.com/256.wav?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ3EGP65LZRKGL2WM%2F20240906%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240906T001609Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=6b39c0ee5af626d5f43306f74f8168509ec5b7b1309ecd7d5db4f8e1f742eba5)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 24,
+                "name": "Is there an echo",
+                "points": 500,
+                "solves": null
+            }
+        ],
+        "Intro": [
+            {
+                "category": "Intro",
+                "description": "Join our discord to get the flag.",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 28,
+                "name": "Flag",
+                "points": 1,
+                "solves": null
+            },
+            {
+                "category": "Intro",
+                "description": "Weren't always known as the Offensive Security, Incidence Response, and Internet Security Lab! Can you find out what our old domain was?Wrap your answer with `csawctf{}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 30,
+                "name": "OSIRIS Trivia",
+                "points": 50,
+                "solves": null
+            }
+        ],
+        "OSINT": [
+            {
+                "category": "OSINT",
+                "description": "My friend swears he saw a Russian plane in the US this June, but I don't believe him. He also says he saw it was parked next to a plane owned by an infamous former president! Can you find the squawk number of this Russian plane, the airport code of where the plane was finally parked at, as well as the registration number of the plane owned by the celebrity? Oh, also find the city the Russian plane was closest to at 21:07:40 Z during its flights in the US!\r\n\r\n Flag format: csawctf{SquawkNumber_AirportCode_RegistrationNumber_CityName}",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 22,
+                "name": "Plane Spotting",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "OSINT",
+                "description": "I saw this cool vehicle while traveling around India. Unfortunately, I lost most of the image. This is all I have! Can you find the phone number of whomever manages this vehicle so I can contact them? DO NOT MAKE ANY CALLS Flag Format: csawctf{PhoneNumber} Replace spaces with dashes. Include the + and country code. If you DM the challenge creator (levu12 on Discord) with the original video link this image comes from, you will get a small amount of bonus points.\r\n\r\n![](https://terraform-20240903023243177200000004.s3.us-east-1.amazonaws.com/rickshaw.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ3EGP65LZRKGL2WM%2F20240906%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240906T000810Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=a9650d4bdaec47589550f835956e65aa9c266853b69c276223c668fd9c75dcfa)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 23,
+                "name": "Rickshaw",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "OSINT",
+                "description": "I visited this gourmet restaurant a while back, but I'm worried about the  health and safety rating of it. Could you check it for me? Oh, and before I forget, could you tell me when the building was built, as well as the name of the LLC that owns it? \r\n\r\nFlag Format: csawctf{HealthGrade_YearBuilt_LLCName} (Name does not include LLC, replace all spaces with _ )\r\n\r\n![](https://terraform-20240903023243177200000004.s3.us-east-1.amazonaws.com/panda.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ3EGP65LZRKGL2WM%2F20240905%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240905T235606Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=1b9082e282f7790eaf64f1254766a9036038ed9ecd12e7b5fc48801aa83425c9)\r\n\r\n",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "Authentic Chinese Food ",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "OSINT",
+                "description": "An artist by the name of \u200c made a cover of a song I liked, but I don't remember the original composer of that song. Could you help me find the original composer? \r\n\r\nFlag Format: csawctf{Firstname_Lastname} (replace all spaces with _ )",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 20,
+                "name": "Literally 1984",
+                "points": 500,
+                "solves": null
+            }
+        ],
+        "Pwn": [
+            {
+                "category": "Pwn",
+                "description": "Oops, I rm -rf 'ed my binaries",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 36,
+                "name": "Diving Into Null",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Pwn",
+                "description": "Let's go mini golfing! To win, just aim correctly! Except the hole with the pin keeps moving...",
+                "files": [
+                    "/files/916429881f501f973942b5f0e00b6a25/golf?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6MzR9.ZtsnTA.Z9j0j6h2xQm-admiHZzbfmLweh4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 37,
+                "name": "Mini Golfing",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Pwn",
+                "description": "Do you really know *nix?",
+                "files": [
+                    "/files/2d8780ebd58d210801147a053a5e9086/chal?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6MzV9.ZtsnTA.4v0P1SsQnvdEPeglbS5sEZo-xNk"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 38,
+                "name": "Nix Philosophies",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Pwn",
+                "description": "You see the lights from afar. You get closer and see a mysterious building in front of you. Lights seemed to leak outside the stained windows every once in a while. A long queue of peculiar guests line up outside, snaking behind the building. You see the VIP entrance and take a gamble.",
+                "files": [
+                    "/files/8be60464cb11315ca59b2940ea0d3ec4/vip_blacklist?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6MzZ9.ZtsnTA.GxDXl8YWYapI7WToI_17ocnMHVU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 39,
+                "name": "VIP Blacklist",
+                "points": 500,
+                "solves": null
+            }
+        ],
+        "Reversing": [
+            {
+                "category": "Reversing",
+                "description": "While researching Egyptian artifacts, an Archaeology student discovers a series of incomprehensible hieroglyphs. Suspecting a custom cipher, she uncovers an ancient cipher machine and a matching hieroglyph dictionary. Can you help her decipher a small part of the secret message?",
+                "files": [
+                    "/files/024ec940cc04eee0a93d2b8af8e5271b/chal?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6Mjl9.ZtsnTA.lBIx_PfkgyLwqZS4KNFVSAC6e8I",
+                    "/files/12d35b03b6f134b15a58aae0c49a2c20/hieroglyphs.txt?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6MzF9.ZtsnTA.1ex7bG-QGFhi-XKcJSd2i0JvPGE",
+                    "/files/2efde5dd515025b55561749742cc9a30/message.txt?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6MzJ9.ZtsnTA.M0mAfuRdwBZGq9zqduaxeIqGQO0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 26,
+                "name": "Archeology",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Reversing",
+                "description": "Can you figure out what is the correct passphrase?",
+                "files": [
+                    "/files/f9c88893da895de2215ff27254122eaa/obfuscated?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6Mzh9.ZtsnTA.aml2bpXdesNyqUDPZE5VZKIc4x4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 25,
+                "name": "Obfuscation",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Reversing",
+                "description": "I stashed the flag under a rock. Still don't get all the grumbling about \"Security Through Obscurity!\"",
+                "files": [
+                    "/files/8e46853bd3e50bd3f4cc9031fda857a1/baby_rev?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6NDF9.ZtsnTA.8jiBnpkSQyxQGdPRGvb9TMzXqbI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 27,
+                "name": "Baby Rev",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Reversing",
+                "description": "I was given a magic box by a gopher and it tricked me to put in my flag! I only have garbage now... can you help me?\r\n\r\n[chall](https://csaw-downloads.s3.us-east-1.amazonaws.com/chall?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ3EGP65LZRKGL2WM%2F20240906%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240906T060953Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=19975be4f8de04bcebdd1aa5ae645dacd7386a8e6c3eaeeb16f5ea18036c01e6)",
+                "files": [
+                    "/files/6d1d4993c52f66794e6a55ce5b70d7c5/output.txt?token=eyJ1c2VyX2lkIjo1MzIsInRlYW1faWQiOjE5MSwiZmlsZV9pZCI6MzN9.ZtsnTA.kq3bDbBpr6qqwpkMK4PhOpkJjV8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 33,
+                "name": "MagicTricks",
+                "points": 500,
+                "solves": null
+            }
+        ],
+        "Web": [
+            {
+                "category": "Web",
+                "description": "let's keep our storage simple -- and remember we don't make mistakes in these parts.",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "BucketWars",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Web",
+                "description": "yadayada playing tennis like pong yadayada someone's cheating yadayada at least the leaderboard is safe!",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 40,
+                "name": "Playing on the Backcourts",
+                "points": 500,
+                "solves": null
+            },
+            {
+                "category": "Web",
+                "description": "A massive sandstorm revealed this pyramid that has been lost (J)ust over 3300 years.. I'm interested in (W)here the (T)reasure could be?",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 41,
+                "name": "Lost Pyramid",
+                "points": 500,
+                "solves": null
+            }
+        ]
+    },
+    "title": "CSAW'24",
+    "url": "https://ctf.csaw.io"
+}
